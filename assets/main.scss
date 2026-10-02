@@ -31,24 +31,30 @@ body {
 
 .site-header {
   min-height: 64px;
+
   border-top: 0;
   border-bottom: 1px solid #e8e8e8;
+
   background: #fff;
 }
 
 .custom-header {
   display: flex;
   align-items: center;
+
   min-height: 64px;
 }
 
 .custom-header .site-title,
 .custom-header .site-title:visited {
   margin: 0;
+
   color: #2b2b2b;
+
   font-size: 18px;
   font-weight: 600;
   line-height: normal;
+
   text-decoration: none;
 }
 
@@ -71,6 +77,7 @@ body {
   margin-left: auto;
 
   position: static;
+
   line-height: normal;
 
   border: 0;
@@ -80,8 +87,10 @@ body {
 .custom-nav a,
 .custom-nav a:visited {
   color: #444;
+
   font-size: 14px;
   font-weight: 400;
+
   text-decoration: none;
   white-space: nowrap;
 }
@@ -98,17 +107,23 @@ body {
 
 .menu-toggle {
   display: none;
+
   padding: 8px;
+
   border: 0;
   background: none;
+
   cursor: pointer;
 }
 
 .menu-toggle span {
   display: block;
+
   width: 23px;
   height: 2px;
+
   margin: 5px 0;
+
   background: #333;
 }
 
@@ -122,15 +137,18 @@ body {
   grid-template-columns: 260px 1fr;
 
   gap: 42px;
+
   align-items: center;
 
   padding: 28px 0 32px;
 }
 
+
+/* Portrait */
+
 .hero-photo-wrap {
   position: relative;
 }
-
 
 .hero-photo {
   display: block;
@@ -142,6 +160,9 @@ body {
 
   border-radius: 6px;
 }
+
+
+/* Hero text */
 
 .hero-eyebrow {
   margin: 0 0 5px;
@@ -178,6 +199,9 @@ body {
   line-height: 1.55;
 }
 
+
+/* Research tags */
+
 .hero-tags {
   display: flex;
   flex-wrap: wrap;
@@ -200,6 +224,9 @@ body {
   border-radius: 20px;
 }
 
+
+/* Former affiliation */
+
 .hero-affiliation {
   margin: 0 0 14px;
 
@@ -208,6 +235,9 @@ body {
   font-size: 13px;
   line-height: 1.5;
 }
+
+
+/* Hero links */
 
 .hero-links {
   display: flex;
@@ -240,7 +270,9 @@ body {
 
 .primary-link:hover {
   color: #fff;
+
   background: #111;
+
   text-decoration: none;
 }
 
@@ -345,6 +377,7 @@ body {
   padding: 18px;
 
   color: #333;
+
   background: #fafafa;
 
   border: 1px solid #e7e7e7;
@@ -624,9 +657,6 @@ body {
   margin: 0;
 }
 
-
-/* Journal Articles / Conference Contributions */
-
 .publications-intro + h2 {
   margin-top: 22px;
 }
@@ -762,6 +792,350 @@ body {
 
 
 /* =========================================================
+   ABOUT PAGE
+   ========================================================= */
+
+.about-intro {
+  max-width: 830px;
+
+  margin-bottom: 24px;
+}
+
+.about-lead {
+  margin-bottom: 12px !important;
+
+  color: #333;
+
+  font-size: 18px;
+  line-height: 1.55;
+}
+
+
+/* =========================================================
+   ABOUT SECTIONS
+   ========================================================= */
+
+.about-block {
+  display: grid;
+  grid-template-columns: 105px 1fr;
+
+  gap: 35px;
+
+  padding: 27px 0;
+
+  border-top: 1px solid #e8e8e8;
+}
+
+.about-label {
+  padding-top: 5px;
+
+  color: #999;
+
+  font-size: 10px;
+  font-weight: 600;
+
+  letter-spacing: 1.2px;
+}
+
+.about-content h2 {
+  margin: 0 0 12px;
+
+  color: #242424;
+
+  font-size: 24px;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+.about-content > p {
+  max-width: 790px;
+}
+
+.about-section-intro {
+  margin-bottom: 18px !important;
+}
+
+
+/* =========================================================
+   ABOUT — AFFILIATIONS
+   ========================================================= */
+
+.affiliation-list {
+  margin-top: 19px;
+
+  border-top: 1px solid #e8e8e8;
+}
+
+.affiliation-item {
+  display: grid;
+  grid-template-columns: 115px 1fr;
+
+  gap: 22px;
+
+  padding: 18px 0;
+
+  border-bottom: 1px solid #eeeeee;
+}
+
+.affiliation-period {
+  padding-top: 3px;
+
+  color: #999;
+
+  font-size: 11px;
+  font-weight: 600;
+
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+}
+
+.affiliation-details h3 {
+  margin: 0 0 3px;
+
+  color: #292929;
+
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.affiliation-place {
+  margin: 0 0 8px !important;
+
+  color: #777;
+
+  font-size: 12px;
+}
+
+.affiliation-details p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* =========================================================
+   ABOUT — CAREER PATH
+   ========================================================= */
+
+.career-path {
+  margin-top: 18px;
+}
+
+.career-step {
+  display: grid;
+  grid-template-columns: 36px 1fr;
+
+  gap: 14px;
+
+  padding: 15px 0;
+
+  border-top: 1px solid #eeeeee;
+}
+
+.career-number {
+  padding-top: 3px;
+
+  color: #aaa;
+
+  font-size: 10px;
+  font-weight: 600;
+
+  letter-spacing: 0.7px;
+}
+
+.career-step h3 {
+  margin: 0 0 5px;
+
+  color: #333;
+
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.career-step p {
+  max-width: 760px;
+
+  margin: 0;
+
+  color: #555;
+
+  font-size: 14px;
+}
+
+
+/* =========================================================
+   ABOUT — COLLABORATION NETWORK
+   ========================================================= */
+
+.collaboration-groups {
+  margin-top: 20px;
+}
+
+.collaboration-group {
+  display: grid;
+  grid-template-columns: 235px 1fr;
+
+  gap: 24px;
+
+  padding: 20px 0;
+
+  border-top: 1px solid #e8e8e8;
+}
+
+.institution-heading {
+  padding-right: 12px;
+}
+
+.institution-country {
+  display: block;
+
+  margin-bottom: 4px;
+
+  color: #aaa;
+
+  font-size: 9px;
+  font-weight: 600;
+
+  letter-spacing: 1.1px;
+}
+
+.institution-heading h3 {
+  margin: 0 0 3px;
+
+  color: #292929;
+
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.institution-heading p {
+  margin: 0;
+
+  color: #888;
+
+  font-size: 11px;
+  line-height: 1.45;
+}
+
+
+/* Collaborators */
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+
+  gap: 7px 18px;
+}
+
+.person {
+  padding: 7px 0;
+
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.person strong {
+  display: block;
+
+  color: #333;
+
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.person span {
+  display: block;
+
+  margin-top: 1px;
+
+  color: #888;
+
+  font-size: 11px;
+}
+
+
+/* =========================================================
+   ABOUT — SUPERVISION
+   ========================================================= */
+
+.supervision-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+
+  gap: 10px;
+
+  margin-top: 17px;
+}
+
+.supervision-item {
+  padding: 15px;
+
+  background: #fafafa;
+
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+}
+
+.supervision-year {
+  display: block;
+
+  margin-bottom: 5px;
+
+  color: #999;
+
+  font-size: 10px;
+  font-weight: 600;
+
+  letter-spacing: 0.8px;
+}
+
+.supervision-item h3 {
+  margin: 0 0 5px;
+
+  color: #292929;
+
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.supervision-item p {
+  margin: 0;
+
+  color: #666;
+
+  font-size: 12px;
+  line-height: 1.55;
+}
+
+
+/* =========================================================
+   ABOUT — PAGE LINKS
+   ========================================================= */
+
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 25px;
+
+  padding: 21px 0 5px;
+
+  border-top: 1px solid #e8e8e8;
+}
+
+.about-links a,
+.about-links a:visited {
+  color: #333;
+
+  font-size: 13px;
+  font-weight: 500;
+
+  text-decoration: none;
+}
+
+.about-links a:hover {
+  color: #000;
+}
+
+
+/* =========================================================
    GENERAL LINKS
    ========================================================= */
 
@@ -841,6 +1215,16 @@ a:hover {
 
   .research-card h3 {
     font-size: 16px;
+  }
+
+  .about-block {
+    gap: 28px;
+  }
+
+  .collaboration-group {
+    grid-template-columns: 205px 1fr;
+
+    gap: 20px;
   }
 }
 
@@ -960,7 +1344,6 @@ a:hover {
     margin: 0 auto;
   }
 
-
   .hero-photo {
     width: 175px;
     height: 215px;
@@ -1006,6 +1389,9 @@ a:hover {
     text-align: center;
   }
 
+
+  /* ---------- Research tags ---------- */
+
   .hero-tags {
     justify-content: center;
 
@@ -1018,6 +1404,9 @@ a:hover {
     font-size: 10px;
   }
 
+
+  /* ---------- Affiliation ---------- */
+
   .hero-affiliation {
     margin-bottom: 12px;
 
@@ -1026,6 +1415,9 @@ a:hover {
 
     text-align: center;
   }
+
+
+  /* ---------- Hero links ---------- */
 
   .hero-links {
     justify-content: center;
@@ -1238,6 +1630,107 @@ a:hover {
   }
 
 
+  /* ---------- About page ---------- */
+
+  .about-intro {
+    margin-bottom: 19px;
+  }
+
+  .about-lead {
+    font-size: 16px;
+  }
+
+  .about-block {
+    display: block;
+
+    padding: 22px 0;
+  }
+
+  .about-label {
+    margin-bottom: 6px;
+    padding: 0;
+
+    text-align: center;
+  }
+
+  .about-content h2 {
+    margin-bottom: 10px;
+
+    font-size: 21px;
+
+    text-align: center;
+  }
+
+  .about-content > p {
+    text-align: center;
+  }
+
+
+  /* ---------- About affiliations ---------- */
+
+  .affiliation-item {
+    grid-template-columns: 1fr;
+
+    gap: 4px;
+
+    padding: 15px 0;
+  }
+
+  .affiliation-period {
+    padding: 0;
+  }
+
+
+  /* ---------- About career ---------- */
+
+  .career-step {
+    grid-template-columns: 30px 1fr;
+
+    gap: 9px;
+  }
+
+
+  /* ---------- About collaborations ---------- */
+
+  .collaboration-group {
+    grid-template-columns: 1fr;
+
+    gap: 10px;
+
+    padding: 17px 0;
+  }
+
+  .institution-heading {
+    padding: 0;
+  }
+
+  .people-grid {
+    grid-template-columns: 1fr 1fr;
+
+    gap: 5px 14px;
+  }
+
+
+  /* ---------- About supervision ---------- */
+
+  .supervision-grid {
+    grid-template-columns: 1fr;
+
+    gap: 8px;
+  }
+
+
+  /* ---------- About links ---------- */
+
+  .about-links {
+    justify-content: center;
+
+    gap: 14px 20px;
+
+    padding-top: 18px;
+  }
+
+
   /* ---------- Footer ---------- */
 
   .site-footer {
@@ -1298,9 +1791,22 @@ a:hover {
     font-size: 15px;
   }
 
+
+  /* ---------- Publications ---------- */
+
   .publication {
     padding-left: 14px;
   }
+
+
+  /* ---------- About ---------- */
+
+  .people-grid {
+    grid-template-columns: 1fr;
+  }
+
+
+  /* ---------- Footer ---------- */
 
   .site-footer {
     margin-top: 16px;
