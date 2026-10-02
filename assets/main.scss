@@ -1606,7 +1606,71 @@ a:hover {
    ========================================================= */
 
 @media screen and (max-width: 800px) {
+  /* ---------- Teaching page ---------- */
 
+  .teaching-intro {
+    margin-bottom: 19px;
+  }
+
+  .teaching-lead {
+    font-size: 16px;
+  }
+
+  .teaching-block {
+    display: block;
+
+    padding: 22px 0;
+  }
+
+  .teaching-label {
+    margin-bottom: 6px;
+    padding: 0;
+
+    text-align: center;
+  }
+
+  .teaching-content h2 {
+    margin-bottom: 10px;
+
+    font-size: 21px;
+
+    text-align: center;
+  }
+
+  .teaching-content > p {
+    text-align: center;
+  }
+
+  .teaching-areas {
+    grid-template-columns: 1fr;
+  }
+
+  .thesis-item {
+    grid-template-columns: 48px 1fr;
+
+    gap: 10px;
+  }
+
+  .manual-entry {
+    grid-template-columns: 45px 1fr;
+
+    gap: 13px;
+
+    padding: 14px;
+  }
+
+  .manual-icon {
+    width: 45px;
+    height: 58px;
+  }
+
+  .teaching-links {
+    justify-content: center;
+
+    gap: 14px 20px;
+
+    padding-top: 18px;
+  }
   /* ---------- Header ---------- */
 
   .site-header {
