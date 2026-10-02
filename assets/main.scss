@@ -273,7 +273,18 @@ a:hover {
    ========================================================= */
 
 @media screen and (max-width: 800px) {
+  /* ---------- Research focus ---------- */
 
+  .research-focus {
+    grid-template-columns: 1fr;
+    gap: 16px;
+
+    margin: 25px 0 38px;
+  }
+
+  .focus-item {
+    padding: 20px;
+  }
   /* ---------- Header ---------- */
 
   .site-header {
