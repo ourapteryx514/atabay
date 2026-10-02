@@ -192,3 +192,20 @@ a:hover {
     flex-wrap: wrap;
   }
 }
+/* ---------- Footer ---------- */
+
+.site-footer {
+  border-top: 1px solid #eeeeee;
+  padding: 24px 0;
+  margin-top: 60px;
+}
+
+.custom-footer {
+  text-align: center;
+}
+
+.custom-footer p {
+  margin: 0;
+  font-size: 13px;
+  color: #777;
+}
