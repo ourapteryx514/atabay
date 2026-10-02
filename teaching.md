@@ -22,9 +22,15 @@ permalink: /teaching/
 </section>
 
 
+<!-- ======================================================
+     TEACHING & RESEARCH TRAINING
+     ====================================================== -->
+
 <section class="teaching-block">
 
-  <div class="teaching-label">EDUCATION</div>
+  <div class="teaching-label">
+    EDUCATION
+  </div>
 
   <div class="teaching-content">
 
@@ -38,42 +44,62 @@ permalink: /teaching/
       interpretation of spectroscopic data.
     </p>
 
+
     <div class="teaching-areas">
 
       <div class="teaching-area">
+
         <span class="teaching-number">01</span>
+
         <h3>Synthetic Chemistry</h3>
+
         <p>
           Preparation and characterization of organic ligands,
           macrocyclic compounds and coordination complexes.
         </p>
+
       </div>
 
+
       <div class="teaching-area">
+
         <span class="teaching-number">02</span>
+
         <h3>Coordination & Organometallic Chemistry</h3>
+
         <p>
           Metal–ligand chemistry, transition-metal complexes,
           coordination behaviour and organometallic systems.
         </p>
+
       </div>
 
+
       <div class="teaching-area">
+
         <span class="teaching-number">03</span>
+
         <h3>Spectroscopic Characterization</h3>
+
         <p>
           Structural investigation using techniques including FT-IR,
           FT-Raman, proton and carbon NMR and related analytical methods.
         </p>
+
       </div>
 
+
       <div class="teaching-area">
+
         <span class="teaching-number">04</span>
+
         <h3>Research Methodology</h3>
+
         <p>
           Experimental design, interpretation of chemical data,
           scientific literature and graduate research practice.
         </p>
+
       </div>
 
     </div>
@@ -83,59 +109,77 @@ permalink: /teaching/
 </section>
 
 
+<!-- ======================================================
+     GRADUATE SUPERVISION
+     ====================================================== -->
+
 <section class="teaching-block">
 
-  <div class="teaching-label">SUPERVISION</div>
+  <div class="teaching-label">
+    SUPERVISION
+  </div>
 
   <div class="teaching-content">
 
     <h2>Graduate Research Supervision</h2>
 
     <p class="teaching-section-intro">
-      Documented master's research supervised or co-supervised by
-      Professor Agh-Atabay at Fatih University includes:
+      Documented graduate research supervised or co-supervised by
+      Professor Agh-Atabay at Fatih University includes work in
+      macrocyclic chemistry, coordination compounds, macromolecular
+      ligands, spectroscopy and biologically active chemical systems.
     </p>
 
 
     <div class="thesis-timeline">
 
 
+      <!-- 2008 -->
+
       <div class="thesis-item">
 
-        <div class="thesis-year">2008</div>
+        <div class="thesis-year">
+          2008
+        </div>
 
         <div class="thesis-details">
+
           <h3>Hüseyin Çevik</h3>
 
           <p class="thesis-title">
-            Synthesis, structural characterization and antimicrobial
-            activity of new macrocyclic ligands and their transition
-            metal complexes
+            Research involving the synthesis, structural characterization
+            and antimicrobial investigation of macrocyclic compounds and
+            related transition-metal systems.
           </p>
 
           <div class="thesis-tags">
             <span>Macrocycles</span>
             <span>Metal complexes</span>
-            <span>Raman spectroscopy</span>
+            <span>Spectroscopy</span>
             <span>Antimicrobial activity</span>
           </div>
+
         </div>
 
       </div>
 
 
+      <!-- 2010 -->
+
       <div class="thesis-item">
 
-        <div class="thesis-year">2010</div>
+        <div class="thesis-year">
+          2010
+        </div>
 
         <div class="thesis-details">
+
           <h3>Serhat Gündüz</h3>
 
           <p class="thesis-title">
-            Synthesis, structural characterization, antimicrobial
-            activity and DNA-binding of new homo and hetero
-            multi-dentate macromolecule ligands and their transition
-            metal complexes
+            Research on multidentate macromolecular ligands,
+            transition-metal complexes, antimicrobial properties
+            and DNA-binding behaviour.
           </p>
 
           <div class="thesis-tags">
@@ -144,21 +188,27 @@ permalink: /teaching/
             <span>DNA binding</span>
             <span>Antimicrobial activity</span>
           </div>
+
         </div>
 
       </div>
 
 
+      <!-- 2011 -->
+
       <div class="thesis-item">
 
-        <div class="thesis-year">2011</div>
+        <div class="thesis-year">
+          2011
+        </div>
 
         <div class="thesis-details">
+
           <h3>Sıtkı Usta</h3>
 
           <p class="thesis-title">
-            Synthesis, characterization and biological investigation
-            of macromolecular ligands and their metal complexes
+            Research involving macromolecular ligands, dendrimers,
+            metal complexes and their chemical and biological properties.
           </p>
 
           <div class="thesis-tags">
@@ -166,6 +216,7 @@ permalink: /teaching/
             <span>Macromolecular ligands</span>
             <span>Metal complexes</span>
           </div>
+
         </div>
 
       </div>
@@ -173,15 +224,18 @@ permalink: /teaching/
 
       <div class="thesis-item">
 
-        <div class="thesis-year">2011</div>
+        <div class="thesis-year">
+          2011
+        </div>
 
         <div class="thesis-details">
+
           <h3>Ayşe Karaca</h3>
 
           <p class="thesis-title">
-            Synthesis, structural characterization and antimicrobial
-            activity of new natural pharmaceutical-related
-            macromolecules and transition-metal complexes
+            Research on pharmaceutical-related macromolecules,
+            transition-metal complexes, spectroscopic characterization
+            and antimicrobial activity.
           </p>
 
           <div class="thesis-tags">
@@ -190,6 +244,7 @@ permalink: /teaching/
             <span>FT-Raman</span>
             <span>Antimicrobial activity</span>
           </div>
+
         </div>
 
       </div>
@@ -197,16 +252,18 @@ permalink: /teaching/
 
       <div class="thesis-item">
 
-        <div class="thesis-year">2011</div>
+        <div class="thesis-year">
+          2011
+        </div>
 
         <div class="thesis-details">
+
           <h3>İbrahim Şaşmaz</h3>
 
           <p class="thesis-title">
-            Synthesis, structural characterization and antimicrobial
-            activity of di- and tri-alkyne-containing macromolecule
-            ligands and their transition-metal complexes using
-            NMR techniques
+            Research involving alkyne-containing macromolecular ligands,
+            transition-metal complexes and structural characterization
+            using NMR and vibrational spectroscopy.
           </p>
 
           <div class="thesis-tags">
@@ -215,21 +272,27 @@ permalink: /teaching/
             <span>FT-IR</span>
             <span>FT-Raman</span>
           </div>
+
         </div>
 
       </div>
 
 
+      <!-- 2012 -->
+
       <div class="thesis-item">
 
-        <div class="thesis-year">2012</div>
+        <div class="thesis-year">
+          2012
+        </div>
 
         <div class="thesis-details">
+
           <h3>Mustafa Ulvi Gürbüz</h3>
 
           <p class="thesis-title">
-            Synthesis, spectroscopic characterization and biological
-            activity of new macrocyclic molecules
+            Synthesis, spectroscopic characterization and investigation
+            of the biological properties of new macrocyclic molecules.
           </p>
 
           <div class="thesis-tags">
@@ -237,6 +300,7 @@ permalink: /teaching/
             <span>Spectroscopy</span>
             <span>Biological activity</span>
           </div>
+
         </div>
 
       </div>
@@ -244,15 +308,18 @@ permalink: /teaching/
 
       <div class="thesis-item">
 
-        <div class="thesis-year">2012</div>
+        <div class="thesis-year">
+          2012
+        </div>
 
         <div class="thesis-details">
+
           <h3>Özge Paralı</h3>
 
           <p class="thesis-title">
-            Synthesis, structural characterization and antimicrobial
-            properties of novel macrocyclic amide- and
-            imine-containing compounds
+            Research involving the synthesis and structural
+            characterization of macrocyclic amide- and imine-containing
+            compounds and investigation of their antimicrobial properties.
           </p>
 
           <div class="thesis-tags">
@@ -261,6 +328,7 @@ permalink: /teaching/
             <span>Imines</span>
             <span>Antimicrobial activity</span>
           </div>
+
         </div>
 
       </div>
@@ -273,9 +341,15 @@ permalink: /teaching/
 </section>
 
 
+<!-- ======================================================
+     LABORATORY EDUCATION
+     ====================================================== -->
+
 <section class="teaching-block">
 
-  <div class="teaching-label">LABORATORY</div>
+  <div class="teaching-label">
+    LABORATORY
+  </div>
 
   <div class="teaching-content">
 
@@ -307,36 +381,100 @@ permalink: /teaching/
 </section>
 
 
+<!-- ======================================================
+     ORGANIC CHEMISTRY LABORATORY MANUAL
+     ====================================================== -->
+
 <section class="teaching-block">
 
-  <div class="teaching-label">TEACHING WORK</div>
+  <div class="teaching-label">
+    TEACHING WORK
+  </div>
 
   <div class="teaching-content">
 
     <h2>Organic Chemistry Laboratory Manual</h2>
 
-    <div class="manual-entry">
 
-      <div class="manual-icon">OC</div>
+    <div class="manual-feature">
+
+      <div class="manual-cover-column">
+
+        <a href="{{ '/assets/images/atabay-book.jpeg' | relative_url }}"
+           target="_blank"
+           class="manual-cover-link"
+           aria-label="View full-size Organic Chemistry Laboratory Manual cover">
+
+          <img
+            src="{{ '/assets/images/atabay-book.jpeg' | relative_url }}"
+            alt="Cover of Organic Chemistry Laboratory Manual"
+            class="manual-book-cover">
+
+        </a>
+
+        <span class="cover-caption">
+          Fatih University · 2001
+        </span>
+
+      </div>
+
 
       <div class="manual-details">
 
         <h3>Organic Chemistry Laboratory Manual</h3>
 
         <p class="manual-author">
-          Naz M. Agh Atabay
+          Naz M. Agh-Atabay · Mehmet Ergin · Ergün Gonca · Ramazan Öztürk
         </p>
 
         <p>
-          A bibliographic catalogue record attributes an
-          <em>Organic Chemistry Laboratory Manual</em> to Naz M.
-          Agh Atabay. Complete publication information for the manual
-          has not yet been established.
+          Professor Agh-Atabay was a co-author of the
+          <em>Organic Chemistry Laboratory Manual</em>, published by
+          Fatih University in 2001 as a laboratory teaching resource
+          for organic chemistry education.
         </p>
 
-        <span class="manual-status">
-          Bibliographic details under verification
-        </span>
+        <p>
+          The manual represents the laboratory-teaching dimension of his
+          academic work and complements his activities in chemical
+          synthesis, experimental research and graduate supervision.
+        </p>
+
+
+        <div class="manual-meta">
+
+          <div class="manual-meta-item">
+            <span class="meta-label">Publisher</span>
+            <span class="meta-value">Fatih University</span>
+          </div>
+
+          <div class="manual-meta-item">
+            <span class="meta-label">Place</span>
+            <span class="meta-value">Istanbul</span>
+          </div>
+
+          <div class="manual-meta-item">
+            <span class="meta-label">Year</span>
+            <span class="meta-value">2001</span>
+          </div>
+
+          <div class="manual-meta-item">
+            <span class="meta-label">Publication</span>
+            <span class="meta-value">Fatih University Publication 9</span>
+          </div>
+
+          <div class="manual-meta-item">
+            <span class="meta-label">ISBN</span>
+            <span class="meta-value">975-303-009-6</span>
+          </div>
+
+        </div>
+
+
+        <a href="{{ '/publications/#books' | relative_url }}"
+           class="manual-publication-link">
+          View in Publications →
+        </a>
 
       </div>
 
@@ -346,6 +484,10 @@ permalink: /teaching/
 
 </section>
 
+
+<!-- ======================================================
+     PAGE LINKS
+     ====================================================== -->
 
 <section class="teaching-links">
 
