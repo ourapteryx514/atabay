@@ -1,7 +1,8 @@
 title: "Naz Mohammed Agh-Atabay"
 description: "Academic website of Professor Naz Mohammed Agh-Atabay"
-baseurl: "/atabay"
+
 url: "https://ourapteryx514.github.io"
+baseurl: "/atabay"
 
 theme: minima
 
