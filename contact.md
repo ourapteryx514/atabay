@@ -4,15 +4,55 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
+<section class="contact-intro">
 
-**Prof. Naz Mohammed Agh-Atabay**  
-Professor of Chemistry (Retired)
+  <p class="contact-lead">
+    Professor Naz Mohammed Agh-Atabay
+  </p>
 
-Formerly:  
-Department of Chemistry  
-Faculty of Arts and Science  
-Fatih University  
-Istanbul, Türkiye
+  <p>
+    Professor of Chemistry (Retired)
+  </p>
 
-Additional contact information and academic profiles will be added here.
+</section>
+
+
+<section class="contact-block">
+
+  <div class="contact-label">
+    FORMER AFFILIATION
+  </div>
+
+  <div class="contact-content">
+
+    <h2>Fatih University</h2>
+
+    <p>
+      Department of Chemistry<br>
+      Faculty of Arts and Science<br>
+      Istanbul, Türkiye
+    </p>
+
+  </div>
+
+</section>
+
+
+<section class="contact-block">
+
+  <div class="contact-label">
+    CONTACT
+  </div>
+
+  <div class="contact-content">
+
+    <h2>Academic Contact</h2>
+
+    <p>
+      Current contact information and academic-profile links
+      will be provided here when available.
+    </p>
+
+  </div>
+
+</section>
