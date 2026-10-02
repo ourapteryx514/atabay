@@ -1,1327 +1,367 @@
 ---
+layout: page
+title: Publications
+permalink: /publications/
 ---
 
-@import "minima";
-
-
-/* =========================================================
-   GENERAL
-   ========================================================= */
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Helvetica, Arial, sans-serif;
-  color: #292929;
-  line-height: 1.6;
-}
-
-.wrapper {
-  max-width: 1050px;
-}
-
-.page-content {
-  padding-top: 0;
-  padding-bottom: 0;
-}
-
-
-/* =========================================================
-   HEADER
-   ========================================================= */
-
-.site-header {
-  min-height: 64px;
-  border-top: 0;
-  border-bottom: 1px solid #e8e8e8;
-  background: #fff;
-}
-
-.custom-header {
-  display: flex;
-  align-items: center;
-  min-height: 64px;
-}
-
-.custom-header .site-title,
-.custom-header .site-title:visited {
-  margin: 0;
-  color: #2b2b2b;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: normal;
-  text-decoration: none;
-}
-
-.custom-header .site-title:hover {
-  color: #111;
-  text-decoration: none;
-}
-
-
-/* =========================================================
-   DESKTOP NAVIGATION
-   ========================================================= */
+<div class="publications-intro">
 
-.custom-nav {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
+Professor Naz Mohammed Agh-Atabay's publications span inorganic and
+organometallic chemistry, polymer chemistry, coordination chemistry,
+benzimidazole and macrocyclic ligands, transition-metal complexes,
+spectroscopy, computational chemistry, and biologically active compounds.
 
-  gap: 19px;
-  margin-left: auto;
+</div>
 
-  position: static;
-  line-height: normal;
 
-  border: 0;
-  background: transparent;
-}
+## Journal Articles
 
-.custom-nav a,
-.custom-nav a:visited {
-  color: #444;
-  font-size: 14px;
-  font-weight: 400;
-  text-decoration: none;
-  white-space: nowrap;
-}
 
-.custom-nav a:hover {
-  color: #111;
-  text-decoration: none;
-}
+<div class="pub-year">2016</div>
 
+<div class="publication">
 
-/* =========================================================
-   HAMBURGER BUTTON
-   ========================================================= */
+**M. U. Gürbüz, N. M. Agh-Atabay, H. R. F. Karabulut.**  
+“Synthesis, Structural Aspects, Antimicrobial Activity, and Ion Transport Investigations of Four New [1+1] Condensed 12-Membered Cyclophane Amides.”  
+*Journal of Heterocyclic Chemistry*, **54**, 952–960.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1002/jhet.2659" target="_blank" rel="noopener">10.1002/jhet.2659</a></span>
 
-.menu-toggle {
-  display: none;
-  padding: 8px;
-  border: 0;
-  background: none;
-  cursor: pointer;
-}
+</div>
 
-.menu-toggle span {
-  display: block;
-  width: 23px;
-  height: 2px;
-  margin: 5px 0;
-  background: #333;
-}
 
+<div class="pub-year">2014</div>
 
-/* =========================================================
-   HOMEPAGE HERO
-   ========================================================= */
+<div class="publication">
 
-.academic-hero {
-  display: grid;
-  grid-template-columns: 260px 1fr;
+**N. M. Aghatabay, A. Altun, M. U. Gürbüz, M. Türkyilmaz.**  
+“Synthesis, spectroscopic characterization and density functional studies of a bis-benzimidazole derivative and of its complexes with palladium(II) halides.”  
+*Comptes Rendus Chimie*, **17**(9), 905–912.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1016/j.crci.2013.10.016" target="_blank" rel="noopener">10.1016/j.crci.2013.10.016</a></span>
 
-  gap: 42px;
-  align-items: center;
+</div>
 
-  padding: 28px 0 32px;
-}
+<div class="publication">
 
-.hero-photo-wrap {
-  position: relative;
-}
+**Ö. Zaim, N. M. Aghatabay, M. U. Gürbüz, Ç. Baydar, B. Dülger.**  
+“Synthesis, structural aspects, antimicrobial activity and ion transport investigation of five new [1+1] condensed cycloheterophane peptides.”  
+*Journal of Inclusion Phenomena and Macrocyclic Chemistry*, **78**, 151–159.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1007/s10847-012-0282-x" target="_blank" rel="noopener">10.1007/s10847-012-0282-x</a></span>
 
-.hero-photo-wrap::before {
-  content: "";
+</div>
 
-  position: absolute;
-  top: 9px;
-  left: -9px;
 
-  width: 100%;
-  height: 100%;
+<div class="pub-year">2013</div>
 
-  border: 1px solid #dedede;
-  border-radius: 6px;
+<div class="publication">
 
-  z-index: -1;
-}
+**N. M. Aghatabay, Ö. Paralı, Ö. Zaim, Ç. Baydar, B. Dülger.**  
+“Synthesis, structural aspects, antimicrobial activity and ion transportation investigation of four new [2+2] condensed 24-membered cycloheterophane peptides.”  
+*Journal of Inclusion Phenomena and Macrocyclic Chemistry*, **79**, 415–424.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1007/s10847-013-0364-4" target="_blank" rel="noopener">10.1007/s10847-013-0364-4</a></span>
 
-.hero-photo {
-  display: block;
+</div>
 
-  width: 100%;
-  height: 320px;
 
-  object-fit: cover;
+<div class="pub-year">2012</div>
 
-  border-radius: 6px;
-}
+<div class="publication">
 
-.hero-eyebrow {
-  margin: 0 0 5px;
+**N. M. Aghatabay, S. Gündüz, A. Baş, M. Türkyilmaz, H. R. F. Karabulut, B. Dülger.**  
+“Synthesis, structural aspects, and antimicrobial activity investigation of novel macrocyclic amide-containing compounds.”  
+*Chemistry of Heterocyclic Compounds*, **48**(6), 936–942.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1007/s10593-012-1080-5" target="_blank" rel="noopener">10.1007/s10593-012-1080-5</a></span>
 
-  color: #777;
+</div>
 
-  font-size: 12px;
-  font-weight: 600;
 
-  letter-spacing: 1.1px;
-  text-transform: uppercase;
-}
+<div class="pub-year">2009</div>
 
-.hero-content h1 {
-  margin: 0 0 10px;
+<div class="publication">
 
-  color: #202020;
+**N. M. Aghatabay, A. Baş, A. Kırcalı, G. Şen, B. Dülger, et al.**  
+“Synthesis, Raman, FT-IR, NMR spectroscopic characterization, antimicrobial activity, cytotoxicity and DNA binding of new mixed aza-oxo-thia macrocyclic compounds.”  
+*European Journal of Medicinal Chemistry*, **44**(11), 4681–4689.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1016/j.ejmech.2009.07.003" target="_blank" rel="noopener">10.1016/j.ejmech.2009.07.003</a></span>
 
-  font-size: 38px;
-  line-height: 1.12;
-  font-weight: 600;
+</div>
 
-  letter-spacing: -0.7px;
-}
+<div class="publication">
 
-.hero-description {
-  max-width: 680px;
+**M. Tülü, N. M. Aghatabay, M. Şenel, C. Dizman, T. Paralı, B. Dülger.**  
+“Synthesis, characterization and antimicrobial activity of water soluble dendritic macromolecules.”  
+*European Journal of Medicinal Chemistry*, **44**(3), 1093–1099.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1016/j.ejmech.2008.06.016" target="_blank" rel="noopener">10.1016/j.ejmech.2008.06.016</a></span>
 
-  margin: 0 0 11px;
+</div>
 
-  color: #4e4e4e;
+<div class="publication">
 
-  font-size: 16px;
-  line-height: 1.55;
-}
+**N. M. Aghatabay, Y. Mahmiani, H. Çevik, B. Dülger.**  
+“Synthesis, Raman, FT-IR, NMR spectroscopic data and antimicrobial activity of mixed aza-oxo-thia macrocyclic compounds.”  
+*European Journal of Medicinal Chemistry*, **44**(1), 365–372.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1016/j.ejmech.2008.02.038" target="_blank" rel="noopener">10.1016/j.ejmech.2008.02.038</a></span>
 
-.hero-tags {
-  display: flex;
-  flex-wrap: wrap;
+</div>
 
-  gap: 6px;
 
-  margin: 0 0 12px;
-}
+<div class="pub-year">2008</div>
 
-.hero-tags span {
-  padding: 3px 9px;
+<div class="publication">
 
-  color: #555;
+**N. M. Aghatabay, Y. Mahmiani, H. Çevik, B. Dülger.**  
+“Synthesis, FT-Raman, FT-IR, NMR spectroscopic characterization and antimicrobial activity of new mixed aza-oxo-thia macrocyclic compounds.”  
+*Structural Chemistry*.
 
-  font-size: 11px;
+</div>
 
-  background: #f4f4f4;
 
-  border: 1px solid #e5e5e5;
-  border-radius: 20px;
-}
+<div class="pub-year">2007</div>
 
-.hero-affiliation {
-  margin: 0 0 14px;
+<div class="publication">
 
-  color: #777;
+**S. T. Günday, A. Bozkurt, N. M. Agh-Atabay, A. H. Baykal.**  
+“Benzimidazole tethered proton conducting organic electrolytes.”  
+*Materials Chemistry and Physics*.
 
-  font-size: 13px;
-  line-height: 1.5;
-}
+</div>
 
-.hero-links {
-  display: flex;
-  align-items: center;
+<div class="publication">
 
-  gap: 21px;
-}
+**N. M. Agh-Atabay, M. Somer, M. Şenel, et al.**  
+“Raman, FT-IR, NMR spectroscopic data and antimicrobial activity of bis[μ₂-(benzimidazol-2-yl)-2-ethanethiolato-N,S,S-chloro-palladium(II)] dimer complex.”  
+*European Journal of Medicinal Chemistry*.
 
-.hero-links a {
-  text-decoration: none;
-}
+</div>
 
-.primary-link,
-.primary-link:visited {
-  display: inline-block;
+<div class="publication">
 
-  padding: 8px 16px;
+**A. Tavman, N. M. Agh-Atabay, S. Güner, et al.**  
+“Investigation of Raman, FT-IR, EPR spectra and antimicrobial activity of 2-(5-H/Me/Cl-1H-benzimidazol-2-yl)-phenol ligands and their Fe(NO₃)₃ complexes.”  
+*Transition Metal Chemistry*.
 
-  color: #fff;
+</div>
 
-  background: #292929;
+<div class="publication">
 
-  border-radius: 4px;
+**N. M. Aghatabay, A. Neshat, T. Karabiyik, M. Somer, D. Haciu, B. Dülger.**  
+“Synthesis, characterization and antimicrobial activity of Fe(II), Zn(II), Cd(II) and Hg(II) complexes with 2,6-bis(benzimidazol-2-yl)pyridine ligand.”  
+*European Journal of Medicinal Chemistry*, **42**(2), 205–213.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1016/j.ejmech.2006.09.023" target="_blank" rel="noopener">10.1016/j.ejmech.2006.09.023</a></span>
 
-  font-size: 13px;
-  font-weight: 500;
+</div>
 
-  text-decoration: none;
-}
+<div class="publication">
 
-.primary-link:hover {
-  color: #fff;
-  background: #111;
-  text-decoration: none;
-}
+**N. M. Agh-Atabay, M. Tülü, Y. Mahmiani, et al.**  
+“FT-Raman, FT-IR, NMR structural characterization and antimicrobial activities of 1,6-bis(benzimidazol-2-yl)-3,4-dithiahexane ligand and its Hg(II) halide complexes.”  
+*Structural Chemistry*.
 
-.secondary-link,
-.secondary-link:visited {
-  color: #333;
+</div>
 
-  font-size: 13px;
-  font-weight: 500;
+<div class="publication">
 
-  text-decoration: none;
-}
+**N. M. Agh-Atabay, M. Tülü, M. Somer, et al.**  
+“FT-Raman, FT-IR and NMR spectra, vibrational assignments and density functional studies of 1,3-bis(benzimidazol-2-yl)-2-thiapropane ligand and its Zn(II) halide complexes.”  
+*Structural Chemistry*.
 
-.secondary-link:hover {
-  color: #000;
-  text-decoration: none;
-}
+</div>
 
 
-/* =========================================================
-   HOMEPAGE SECTIONS
-   ========================================================= */
+<div class="pub-year">2006</div>
 
-.home-section {
-  display: grid;
-  grid-template-columns: 105px 1fr;
+<div class="publication">
 
-  gap: 35px;
+**A. Tavman, N. M. Agh-Atabay, A. Neshat, et al.**  
+“Structural characterization and antimicrobial activity of 2-(5-H/methyl-1H-benzimidazol-2-yl)-4-bromo/nitrophenol ligands and their Fe(NO₃)₃ complexes.”  
+*Transition Metal Chemistry*.
 
-  padding: 28px 0;
+</div>
 
-  border-top: 1px solid #e8e8e8;
-}
 
-.section-label {
-  padding-top: 5px;
+<div class="pub-year">2005</div>
 
-  color: #999;
+<div class="publication">
 
-  font-size: 10px;
-  font-weight: 600;
+**N. M. Agh-Atabay, B. Dülger, F. Gücin.**  
+“Structural characterization and antimicrobial activity of 1,3-bis(2-benzimidazyl)-2-thiapropane ligand and its Pd(II) and Zn(II) halide complexes.”  
+*European Journal of Medicinal Chemistry*, **40**(11), 1096–1102.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1016/j.ejmech.2005.05.006" target="_blank" rel="noopener">10.1016/j.ejmech.2005.05.006</a></span>
 
-  letter-spacing: 1.3px;
-}
+</div>
 
-.section-content h2 {
-  margin: 0 0 11px;
 
-  color: #242424;
+<div class="pub-year">2004</div>
 
-  font-size: 25px;
-  line-height: 1.25;
-  font-weight: 600;
+<div class="publication">
 
-  letter-spacing: -0.3px;
-}
+**N. M. Agh-Atabay, A. Baykal, M. Somer.**  
+“Synthesis and characterisation of 1,3-bis(2-benzimidazyl)-2-thiapropane, 1,5-bis(2-benzimidazyl)-3-thiapentane ligands and their PdCl₂ complexes.”  
+*Transition Metal Chemistry*, **29**(2).  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1023/B:TMCH.0000019413.79351.b6" target="_blank" rel="noopener">10.1023/B:TMCH.0000019413.79351.b6</a></span>
 
-.section-content > p {
-  max-width: 780px;
+</div>
 
-  margin-top: 0;
-  margin-bottom: 10px;
-}
 
-.section-content > p:last-of-type {
-  margin-bottom: 0;
-}
+<div class="pub-year">2003</div>
 
-.lead-text {
-  margin-top: 0;
-  margin-bottom: 12px !important;
+<div class="publication">
 
-  color: #3d3d3d;
+**N. M. Agh-Atabay, B. Dülger, F. Gücin.**  
+“Synthesis and investigation of antimicrobial activity of some bisbenzimidazole-derived chelating agents.”  
+*European Journal of Medicinal Chemistry*, **38**(10), 875–881.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1016/S0223-5234(03)00146-6" target="_blank" rel="noopener">10.1016/S0223-5234(03)00146-6</a></span>
 
-  font-size: 17px;
-  line-height: 1.5;
-}
+</div>
 
 
-/* =========================================================
-   HOMEPAGE RESEARCH CARDS
-   ========================================================= */
+<div class="pub-year">2000</div>
 
-.research-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+<div class="publication">
 
-  gap: 12px;
+**A. Tavman, B. Ülküseven, N. M. Agh-Atabay.**  
+“1,2-Bis-(2-benzimidazolyl)-1,2-ethanediol and 1,4-bis-(2-benzimidazolyl)-1,2,3,4-butanetetraol PdCl₂ complexes.”  
+*Transition Metal Chemistry*.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1023/A:1007082222512" target="_blank" rel="noopener">10.1023/A:1007082222512</a></span>
 
-  margin-top: 17px;
-}
+</div>
 
-.research-card,
-.research-card:visited {
-  position: relative;
 
-  display: flex;
-  flex-direction: column;
+<div class="pub-year">1999</div>
 
-  min-height: 205px;
+<div class="publication">
 
-  padding: 18px;
+**N. M. Agh-Atabay, J. L. Davidson, U. Dullweber, et al., K. W. Muir.**  
+“Reactions of alkynes with molybdenum and tungsten bis(alkyne) complexes [M(SR)(CF₃C≡CCF₃)₂(η⁵-C₅H₅)] (M = Mo, R = C₆F₅; M = W, R = C₆H₄Me-4): crystal and molecular structure of a molybdenum butadienyl complex.”  
+*Journal of the Chemical Society, Dalton Transactions*, 3883–3892.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1039/A905297F" target="_blank" rel="noopener">10.1039/A905297F</a></span>
 
-  color: #333;
-  background: #fafafa;
+</div>
 
-  border: 1px solid #e7e7e7;
-  border-radius: 5px;
 
-  text-decoration: none;
+<div class="pub-year">1996</div>
 
-  transition:
-    transform 0.18s ease,
-    box-shadow 0.18s ease,
-    border-color 0.18s ease;
-}
+<div class="publication">
 
-.research-card:hover {
-  color: #222;
+**N. M. Agh-Atabay, L. Carlton, J. L. Davidson, G. Douglas, K. W. Muir.**  
+“Mechanisms of alkyne trimerisation at molybdenum and tungsten centres leading to novel metallacycles: crystal and molecular structures of two isomeric forms of a molybdenum metallacycle.”  
+*Journal of the Chemical Society, Dalton Transactions*, 999–1011.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1039/DT9960000999" target="_blank" rel="noopener">10.1039/DT9960000999</a></span>
 
-  border-color: #ccc;
+</div>
 
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
 
-  transform: translateY(-2px);
+<div class="pub-year">1993</div>
 
-  text-decoration: none;
-}
+<div class="publication">
 
-.card-number {
-  margin-bottom: 12px;
+**N. M. Agh-Atabay, W. E. Lindsell, P. N. Preston, P. J. Tomb.**  
+“Synthesis and characterisation of carboxylic acid and diphenylphosphine derivatives in the 1,3-diyne series: spectral properties of polydiacetylene carboxylates.”  
+*Polymer International*, **31**(4), 367–374.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1002/pi.4990310410" target="_blank" rel="noopener">10.1002/pi.4990310410</a></span>
 
-  color: #aaa;
+</div>
 
-  font-size: 10px;
-  font-weight: 600;
 
-  letter-spacing: 1px;
-}
+<div class="pub-year">1992</div>
 
-.research-card h3 {
-  margin: 0 0 9px;
+<div class="publication">
 
-  color: #292929;
+**N. M. Agh-Atabay, W. E. Lindsell, P. N. Preston, P. J. Tomb, A. D. Lloyd, R. Rangel-Rojo, G. Spruce, B. S. Wherrett.**  
+“Synthesis, characterisation and optical properties of metal-containing polydiacetylenes.”  
+*Journal of Materials Chemistry*, **2**, 1241–1247.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1039/JM9920201241" target="_blank" rel="noopener">10.1039/JM9920201241</a></span>
 
-  font-size: 17px;
-  line-height: 1.3;
-  font-weight: 600;
-}
+</div>
 
-.research-card p {
-  margin: 0 0 12px;
+<div class="publication">
 
-  color: #666;
+**N. M. Agh-Atabay, J. L. Davidson.**  
+“Reactions of the molybdenum bis(alkyne) complex [Mo(SC₆F₅)(F₃CC≡CCF₃)₂(η⁵-C₅H₅)] with alkynes leading to isomeric and fluxional η⁴-butadienyl complexes.”  
+*Journal of the Chemical Society, Dalton Transactions*.
 
-  font-size: 13px;
-  line-height: 1.55;
-}
+</div>
 
-.card-arrow {
-  margin-top: auto;
 
-  color: #555;
+<div class="pub-year">1991</div>
 
-  font-size: 17px;
-}
+<div class="publication">
 
+**L. Carlton, N. M. Agh-Atabay, J. L. Davidson.**  
+“Reactions of molybdenum and tungsten η²-C,C-vinyl complexes with alkynes leading to novel metallacycles.”  
+*Journal of Organometallic Chemistry*.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1016/0022-328X(91)80050-T" target="_blank" rel="noopener">10.1016/0022-328X(91)80050-T</a></span>
 
-/* =========================================================
-   SECTION LINKS
-   ========================================================= */
+</div>
 
-.section-links {
-  display: flex;
-  flex-wrap: wrap;
+<div class="publication">
 
-  gap: 24px;
+**N. M. Agh-Atabay, L. J. Canoira, L. Carlton, J. L. Davidson.**  
+“Syntheses and reactions of η²-vinyl complexes of molybdenum and tungsten.”  
+*Journal of the Chemical Society, Dalton Transactions*, 1175–1182.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1039/DT9910001175" target="_blank" rel="noopener">10.1039/DT9910001175</a></span>
 
-  margin-top: 14px;
-}
+</div>
 
-.section-links a,
-.section-links a:visited {
-  color: #333;
 
-  font-size: 13px;
-  font-weight: 500;
+<div class="pub-year">1990</div>
 
-  text-decoration: none;
-}
+<div class="publication">
 
-.section-links a:hover {
-  color: #000;
-  text-decoration: none;
-}
+**N. M. Agh-Atabay, J. L. Davidson, K. W. Muir.**  
+“Molybdenum promoted alkyne dimerisation leading to novel metallacycles: the crystal and molecular structures of prone and supine molybdenum metallacycles.”  
+*Journal of the Chemical Society, Chemical Communications*, 1399–1401.
 
+</div>
 
-/* =========================================================
-   NORMAL PAGES
-   ========================================================= */
 
-.post {
-  padding-top: 26px;
-}
+<div class="pub-year">1989</div>
 
-.post-header {
-  margin-bottom: 18px;
-}
+<div class="publication">
 
-.post-title {
-  margin-top: 0;
-  margin-bottom: 0;
+**N. M. Agh-Atabay, J. L. Davidson, G. Douglas, K. W. Muir.**  
+“Metal-promoted alkyne trimerisation leading to novel metallacycles.”  
+*Journal of the Chemical Society, Chemical Communications*.
 
-  color: #242424;
+</div>
 
-  font-size: 30px;
-  line-height: 1.25;
-  font-weight: 600;
+<div class="publication">
 
-  letter-spacing: -0.4px;
-}
+**N. M. Agh-Atabay, J. L. Davidson.**  
+“Synthesis, structures, and reactions of ethenethiolato complexes of molybdenum and tungsten. Their relevance to the mechanism of metal-promoted isomerisation of carbon–carbon double bonds.”  
+*Journal of the Chemical Society, Dalton Transactions*.
 
-.post-content {
-  margin-bottom: 0;
+</div>
 
-  font-size: 15px;
-  line-height: 1.65;
-}
 
-.post-content p {
-  margin-top: 0;
-  margin-bottom: 12px;
-}
+<div class="pub-year">1987</div>
 
-.post-content h2 {
-  margin-top: 26px;
-  margin-bottom: 10px;
+<div class="publication">
 
-  color: #292929;
+**N. M. Agh-Atabay, J. L. Davidson, G. Douglas, K. W. Muir.**  
+“The mechanism of isomerisation of the C=C bond in ethenethiolato ligands co-ordinated to molybdenum and tungsten.”  
+*Journal of the Chemical Society, Chemical Communications*, 1526–1528.  
+<span class="pub-doi">DOI: <a href="https://doi.org/10.1039/C39870001526" target="_blank" rel="noopener">10.1039/C39870001526</a></span>
 
-  font-size: 23px;
-  line-height: 1.3;
-  font-weight: 600;
-}
+</div>
 
-.post-content h3 {
-  margin-top: 21px;
-  margin-bottom: 8px;
 
-  color: #333;
+<div class="pub-year">1985</div>
 
-  font-size: 18px;
-  line-height: 1.35;
-  font-weight: 600;
-}
+<div class="publication">
 
+**N. M. Agh-Atabay, F. Ashmawy, C. A. McAuliffe, W. E. Hill.**  
+“Synthesis and characterisation of oxotungsten(VI) complexes of phosphines and phosphine oxides.”  
+*Inorganica Chimica Acta*.
 
-/* =========================================================
-   RESEARCH PAGE
-   ========================================================= */
+</div>
 
-.research-intro {
-  max-width: 820px;
 
-  margin-bottom: 18px;
+## Conference Contributions
 
-  color: #444;
+<div class="publication">
 
-  font-size: 16px;
-  line-height: 1.6;
-}
+**M. U. Gürbüz, N. M. Agh-Atabay, M. Amir.**  
+“Synthesis, structural characterization, antimicrobial properties and ion transportation investigations of four new [1+1] condensed 12-membered cyclophane amides.”  
+Conference poster, 2013.
 
-.research-intro p {
-  margin: 0;
-}
-
-.research-area {
-  display: grid;
-  grid-template-columns: 55px 1fr;
-
-  gap: 20px;
-
-  padding: 21px 0;
-
-  border-top: 1px solid #e8e8e8;
-}
-
-.research-area-number {
-  padding-top: 4px;
-
-  color: #aaa;
-
-  font-size: 11px;
-  font-weight: 600;
-
-  letter-spacing: 1px;
-}
-
-.research-area-content h2 {
-  margin: 0 0 8px;
-
-  color: #292929;
-
-  font-size: 21px;
-  line-height: 1.3;
-  font-weight: 600;
-}
-
-.research-area-content p {
-  max-width: 780px;
-
-  margin: 0 0 8px;
-
-  color: #444;
-
-  font-size: 15px;
-  line-height: 1.6;
-}
-
-.research-keywords {
-  display: flex;
-  flex-wrap: wrap;
-
-  gap: 6px;
-
-  margin-top: 11px;
-}
-
-.research-keywords span {
-  padding: 3px 9px;
-
-  color: #666;
-
-  font-size: 11px;
-
-  background: #f5f5f5;
-
-  border: 1px solid #e6e6e6;
-  border-radius: 20px;
-}
-
-.research-footer-link {
-  padding-top: 17px;
-
-  border-top: 1px solid #e8e8e8;
-
-  text-align: right;
-}
-
-.research-footer-link a,
-.research-footer-link a:visited {
-  color: #333;
-
-  font-size: 14px;
-  font-weight: 500;
-
-  text-decoration: none;
-}
-
-.research-footer-link a:hover {
-  color: #000;
-}
-
-
-/* =========================================================
-   PUBLICATIONS PAGE
-   ========================================================= */
-
-.publications-intro {
-  max-width: 820px;
-
-  margin-bottom: 18px;
-
-  color: #444;
-
-  font-size: 16px;
-  line-height: 1.6;
-}
-
-.publications-intro p {
-  margin: 0;
-}
-
-
-/* Journal Articles / Conference Contributions */
-
-.publications-intro + h2 {
-  margin-top: 22px;
-}
-
-
-/* Publication year */
-
-.pub-year {
-  margin-top: 24px;
-  margin-bottom: 0;
-
-  padding-bottom: 5px;
-
-  color: #777;
-
-  font-size: 13px;
-  font-weight: 600;
-
-  letter-spacing: 0.5px;
-
-  border-bottom: 1px solid #dcdcdc;
-}
-
-.post-content h2 + .pub-year {
-  margin-top: 12px;
-}
-
-
-/* Individual publication */
-
-.publication {
-  position: relative;
-
-  padding: 13px 6px 13px 19px;
-
-  border-bottom: 1px solid #eeeeee;
-
-  color: #444;
-
-  font-size: 14px;
-  line-height: 1.55;
-}
-
-.publication::before {
-  content: "";
-
-  position: absolute;
-
-  top: 16px;
-  left: 0;
-
-  width: 3px;
-  height: 17px;
-
-  background: #d2d2d2;
-
-  border-radius: 2px;
-}
-
-.publication strong {
-  color: #292929;
-  font-weight: 600;
-}
-
-.publication em {
-  color: #555;
-}
-
-.publication p {
-  margin: 0;
-}
-
-
-/* DOI */
-
-.pub-doi {
-  display: inline-block;
-
-  margin-top: 3px;
-
-  color: #888;
-
-  font-size: 12px;
-  line-height: 1.4;
-}
-
-.pub-doi a,
-.pub-doi a:visited {
-  color: #666;
-
-  text-decoration: none;
-}
-
-.pub-doi a:hover {
-  color: #222;
-
-  text-decoration: underline;
-}
-
-
-/* Conference heading after journal list */
-
-.pub-year + h2,
-.publication + h2 {
-  margin-top: 28px;
-}
-
-
-/* Publication hover */
-
-@media (hover: hover) {
-
-  .publication {
-    transition:
-      background 0.15s ease,
-      padding-left 0.15s ease;
-  }
-
-  .publication:hover {
-    padding-left: 23px;
-
-    background: #fafafa;
-  }
-
-  .publication::before {
-    transition: background 0.15s ease;
-  }
-
-  .publication:hover::before {
-    background: #999;
-  }
-}
-
-
-/* =========================================================
-   GENERAL LINKS
-   ========================================================= */
-
-a {
-  color: #245b83;
-}
-
-a:visited {
-  color: #245b83;
-}
-
-a:hover {
-  color: #173e5c;
-  text-decoration: none;
-}
-
-
-/* =========================================================
-   FOOTER
-   ========================================================= */
-
-.site-footer {
-  margin-top: 20px;
-  padding: 16px 0;
-
-  border-top: 1px solid #eeeeee;
-}
-
-.custom-footer {
-  text-align: center;
-}
-
-.custom-footer p {
-  margin: 0;
-
-  color: #777;
-
-  font-size: 12px;
-}
-
-
-/* =========================================================
-   TABLET
-   ========================================================= */
-
-@media screen and (max-width: 950px) and (min-width: 801px) {
-
-  .academic-hero {
-    grid-template-columns: 235px 1fr;
-
-    gap: 32px;
-
-    padding: 25px 0 28px;
-  }
-
-  .hero-photo {
-    height: 290px;
-  }
-
-  .hero-content h1 {
-    font-size: 34px;
-  }
-
-  .hero-description {
-    font-size: 15px;
-  }
-
-  .home-section {
-    gap: 28px;
-
-    padding: 25px 0;
-  }
-
-  .research-card {
-    padding: 16px;
-  }
-
-  .research-card h3 {
-    font-size: 16px;
-  }
-}
-
-
-/* =========================================================
-   MOBILE
-   ========================================================= */
-
-@media screen and (max-width: 800px) {
-
-  /* ---------- Header ---------- */
-
-  .site-header {
-    min-height: 58px;
-  }
-
-  .custom-header {
-    position: relative;
-
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-
-    min-height: 58px;
-
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-
-  .custom-header .site-title,
-  .custom-header .site-title:visited {
-    font-size: 16px;
-    line-height: 1.2;
-  }
-
-
-  /* ---------- Hamburger ---------- */
-
-  .menu-toggle {
-    display: block;
-
-    margin-left: auto;
-  }
-
-
-  /* ---------- Mobile navigation ---------- */
-
-  .custom-nav {
-    display: none;
-
-    position: absolute;
-
-    top: 58px;
-    right: 15px;
-
-    width: 180px;
-
-    margin: 0;
-    padding: 7px 0;
-
-    flex-direction: column;
-    align-items: stretch;
-
-    gap: 0;
-
-    background: #fff;
-
-    border: 1px solid #e5e5e5;
-    border-radius: 4px;
-
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
-
-    z-index: 1000;
-  }
-
-  .custom-nav.nav-open {
-    display: flex;
-  }
-
-  .custom-nav a,
-  .custom-nav a:visited {
-    display: block;
-
-    padding: 7px 15px;
-
-    color: #333;
-
-    font-size: 14px;
-    font-weight: 400;
-
-    text-decoration: none;
-  }
-
-  .custom-nav a:hover {
-    color: #111;
-
-    background: #f7f7f7;
-  }
-
-
-  /* ---------- Homepage hero ---------- */
-
-  .academic-hero {
-    display: flex;
-    flex-direction: column;
-
-    gap: 17px;
-
-    padding: 20px 0 24px;
-
-    text-align: center;
-  }
-
-  .hero-photo-wrap {
-    width: 175px;
-
-    margin: 0 auto;
-  }
-
-  .hero-photo-wrap::before {
-    top: 7px;
-    left: -7px;
-  }
-
-  .hero-photo {
-    width: 175px;
-    height: 215px;
-
-    margin: 0 auto;
-  }
-
-  .hero-content {
-    width: 100%;
-
-    text-align: center;
-  }
-
-  .hero-eyebrow {
-    margin-bottom: 5px;
-
-    font-size: 11px;
-
-    text-align: center;
-  }
-
-  .hero-content h1 {
-    margin-bottom: 9px;
-
-    font-size: 28px;
-    line-height: 1.15;
-
-    letter-spacing: -0.4px;
-
-    text-align: center;
-  }
-
-  .hero-description {
-    max-width: 500px;
-
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-
-    font-size: 15px;
-    line-height: 1.5;
-
-    text-align: center;
-  }
-
-  .hero-tags {
-    justify-content: center;
-
-    margin-bottom: 11px;
-  }
-
-  .hero-tags span {
-    padding: 3px 8px;
-
-    font-size: 10px;
-  }
-
-  .hero-affiliation {
-    margin-bottom: 12px;
-
-    font-size: 12px;
-    line-height: 1.5;
-
-    text-align: center;
-  }
-
-  .hero-links {
-    justify-content: center;
-
-    gap: 18px;
-  }
-
-
-  /* ---------- Homepage sections ---------- */
-
-  .home-section {
-    display: block;
-
-    padding: 24px 0;
-  }
-
-  .section-label {
-    margin-bottom: 6px;
-    padding: 0;
-
-    text-align: center;
-  }
-
-  .section-content {
-    text-align: center;
-  }
-
-  .section-content h2 {
-    margin-bottom: 9px;
-
-    font-size: 22px;
-  }
-
-  .section-content > p {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 9px;
-  }
-
-  .lead-text {
-    margin-bottom: 10px !important;
-
-    font-size: 16px;
-  }
-
-
-  /* ---------- Homepage research cards ---------- */
-
-  .research-grid {
-    grid-template-columns: 1fr;
-
-    gap: 9px;
-
-    margin-top: 14px;
-  }
-
-  .research-card {
-    min-height: auto;
-
-    padding: 16px;
-
-    text-align: left;
-  }
-
-  .card-number {
-    margin-bottom: 9px;
-  }
-
-  .research-card h3 {
-    margin-bottom: 7px;
-
-    font-size: 16px;
-  }
-
-  .research-card p {
-    margin-bottom: 9px;
-
-    font-size: 13px;
-  }
-
-
-  /* ---------- Section links ---------- */
-
-  .section-links {
-    justify-content: center;
-
-    gap: 14px 20px;
-
-    margin-top: 12px;
-  }
-
-
-  /* ---------- Normal pages ---------- */
-
-  .post {
-    padding-top: 20px;
-  }
-
-  .post-header {
-    margin-bottom: 14px;
-  }
-
-  .post-title {
-    font-size: 27px;
-  }
-
-  .post-content {
-    font-size: 15px;
-  }
-
-  .post-content p {
-    margin-bottom: 10px;
-  }
-
-  .post-content h2 {
-    margin-top: 23px;
-    margin-bottom: 8px;
-
-    font-size: 21px;
-  }
-
-  .post-content h3 {
-    margin-top: 19px;
-
-    font-size: 17px;
-  }
-
-
-  /* ---------- Research page ---------- */
-
-  .research-intro {
-    margin-bottom: 15px;
-
-    font-size: 15px;
-  }
-
-  .research-area {
-    grid-template-columns: 35px 1fr;
-
-    gap: 10px;
-
-    padding: 18px 0;
-
-    text-align: left;
-  }
-
-  .research-area-number {
-    font-size: 10px;
-  }
-
-  .research-area-content h2 {
-    margin-bottom: 7px;
-
-    font-size: 19px;
-  }
-
-  .research-area-content p {
-    font-size: 14px;
-  }
-
-  .research-keywords {
-    margin-top: 9px;
-  }
-
-  .research-footer-link {
-    padding-top: 15px;
-
-    text-align: left;
-  }
-
-
-  /* ---------- Publications page ---------- */
-
-  .publications-intro {
-    margin-bottom: 15px;
-
-    font-size: 15px;
-  }
-
-  .pub-year {
-    margin-top: 20px;
-
-    padding-bottom: 5px;
-
-    font-size: 12px;
-  }
-
-  .post-content h2 + .pub-year {
-    margin-top: 10px;
-  }
-
-  .publication {
-    padding: 11px 3px 11px 16px;
-
-    font-size: 13px;
-    line-height: 1.55;
-  }
-
-  .publication::before {
-    top: 14px;
-
-    width: 2px;
-    height: 15px;
-  }
-
-  .pub-doi {
-    margin-top: 2px;
-
-    font-size: 11px;
-  }
-
-
-  /* ---------- Footer ---------- */
-
-  .site-footer {
-    margin-top: 20px;
-    padding: 15px 0;
-  }
-}
-
-
-/* =========================================================
-   SMALL MOBILE
-   ========================================================= */
-
-@media screen and (max-width: 480px) {
-
-  .academic-hero {
-    gap: 15px;
-
-    padding-top: 18px;
-    padding-bottom: 21px;
-  }
-
-  .hero-photo-wrap {
-    width: 165px;
-  }
-
-  .hero-photo {
-    width: 165px;
-    height: 202px;
-  }
-
-  .hero-content h1 {
-    font-size: 27px;
-  }
-
-  .hero-description {
-    font-size: 14px;
-  }
-
-  .hero-links {
-    gap: 15px;
-  }
-
-  .primary-link,
-  .primary-link:visited {
-    padding: 7px 14px;
-  }
-
-  .home-section {
-    padding: 21px 0;
-  }
-
-  .section-content h2 {
-    font-size: 21px;
-  }
-
-  .lead-text {
-    font-size: 15px;
-  }
-
-  .publication {
-    padding-left: 14px;
-  }
-
-  .site-footer {
-    margin-top: 16px;
-  }
-}
+</div>
