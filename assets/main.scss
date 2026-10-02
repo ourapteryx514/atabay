@@ -12,7 +12,7 @@
   --text: #333333;
   --text-dark: #242424;
   --text-soft: #5f5f5f;
-  --text-muted: #7a7a7a;
+  --text-muted: #777777;
 
   --border: #e3e3e3;
   --border-light: #eeeeee;
@@ -22,11 +22,12 @@
   --surface-hover: #f3f3f3;
 
   --accent: #555555;
-  --accent-dark: #2e2e2e;
+  --accent-dark: #333333;
 
   --page-width: 1040px;
 
   --radius: 5px;
+
   --transition: 160ms ease;
 }
 
@@ -211,7 +212,7 @@ a:hover {
 
 
 /* =========================================================
-   5. HOME — HERO
+   5. HOMEPAGE — HERO
    ========================================================= */
 
 .academic-hero {
@@ -234,6 +235,7 @@ a:hover {
   object-fit: cover;
   object-position: center top;
   border-radius: 3px;
+  filter: grayscale(6%);
 }
 
 .hero-content {
@@ -275,12 +277,14 @@ a:hover {
 }
 
 .hero-tags span {
+  display: inline-block;
   padding: 4px 9px;
   color: #5f5f5f;
   background: #f6f6f6;
   border: 1px solid #e5e5e5;
   border-radius: 3px;
   font-size: 11.5px;
+  line-height: 1.4;
 }
 
 .hero-affiliation {
@@ -314,6 +318,7 @@ a:hover {
   color: #ffffff;
   background: #111111;
   border-color: #111111;
+  text-decoration: none;
 }
 
 .secondary-link,
@@ -328,11 +333,12 @@ a:hover {
 
 .secondary-link:hover {
   color: #111111;
+  text-decoration: none;
 }
 
 
 /* =========================================================
-   6. HOME — SHARED SECTIONS
+   6. HOMEPAGE — SHARED SECTIONS
    ========================================================= */
 
 .home-section {
@@ -400,7 +406,7 @@ a:hover {
 
 
 /* =========================================================
-   7. HOME — RESEARCH CARDS
+   7. HOMEPAGE — RESEARCH CARDS
    ========================================================= */
 
 .research-grid {
@@ -430,6 +436,7 @@ a:hover {
   color: #222222;
   background: #f6f6f6;
   border-color: #d5d5d5;
+  text-decoration: none;
   transform: translateY(-2px);
 }
 
@@ -467,18 +474,18 @@ a:hover {
 
 
 /* =========================================================
-   8. ABOUT — INTRO
+   8. ABOUT — INTRODUCTION
    ========================================================= */
 
 .about-intro {
-  max-width: 860px;
-  margin-bottom: 32px;
+  max-width: 850px;
+  margin-bottom: 36px;
   padding-bottom: 28px;
   border-bottom: 1px solid var(--border);
 }
 
 .about-lead {
-  color: #393939;
+  color: #3d3d3d;
   font-size: 19px;
   line-height: 1.65;
 }
@@ -488,9 +495,11 @@ a:hover {
 }
 
 .about-section-intro {
-  max-width: 800px;
-  margin-bottom: 20px !important;
+  max-width: 790px;
+  margin-bottom: 24px !important;
   color: #555555;
+  font-size: 15px;
+  line-height: 1.68;
 }
 
 
@@ -502,7 +511,7 @@ a:hover {
   display: grid;
   grid-template-columns: 145px minmax(0, 1fr);
   gap: 35px;
-  padding: 35px 0;
+  padding: 34px 0;
   border-bottom: 1px solid var(--border);
 }
 
@@ -511,32 +520,31 @@ a:hover {
 }
 
 .about-content > h2 {
-  margin: 0 0 15px;
+  margin: 0 0 18px;
   color: #292929;
   font-size: 25px;
   line-height: 1.3;
-  font-weight: 600;
   letter-spacing: -0.4px;
 }
 
 .about-content > p {
-  max-width: 800px;
+  max-width: 790px;
 }
 
 
 /* =========================================================
-   10. ABOUT — CAREER
+   10. ABOUT — CAREER TIMELINE
    ========================================================= */
 
 .career-timeline {
-  margin-top: 7px;
+  margin-top: 4px;
 }
 
 .career-item {
   display: grid;
   grid-template-columns: 115px minmax(0, 1fr);
-  gap: 25px;
-  padding: 23px 0;
+  gap: 24px;
+  padding: 22px 0;
   border-top: 1px solid var(--border-light);
 }
 
@@ -548,8 +556,9 @@ a:hover {
 .career-period {
   padding-top: 3px;
   color: #666666;
-  font-size: 13px;
-  font-weight: 700;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
 }
 
 .career-details h3 {
@@ -574,16 +583,18 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-  margin-top: 14px;
+  margin-top: 15px;
 }
 
 .career-topics span {
-  padding: 3px 8px;
+  display: inline-block;
+  padding: 4px 8px;
   color: #666666;
   background: #f7f7f7;
-  border: 1px solid #e7e7e7;
+  border: 1px solid #e6e6e6;
   border-radius: 3px;
   font-size: 11px;
+  line-height: 1.35;
 }
 
 
@@ -594,12 +605,12 @@ a:hover {
 .about-research-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0 30px;
+  gap: 0 28px;
 }
 
 .about-research-item {
   position: relative;
-  padding: 19px 0 21px 31px;
+  padding: 18px 0 20px 30px;
   border-top: 1px solid var(--border-light);
 }
 
@@ -609,9 +620,9 @@ a:hover {
 
 .about-research-item > span {
   position: absolute;
-  top: 22px;
+  top: 21px;
   left: 0;
-  color: #999999;
+  color: #a0a0a0;
   font-size: 10px;
   font-weight: 700;
 }
@@ -636,196 +647,393 @@ a:hover {
    ========================================================= */
 
 .institution-network {
-  margin-top: 8px;
+  margin-top: 27px;
   border-top: 1px solid var(--border);
 }
 
 .institution-item {
-  padding: 22px 0;
-  border-bottom: 1px solid var(--border-light);
+  position: relative;
+  padding: 27px 0 29px;
+  border-bottom: 1px solid var(--border);
 }
 
 .institution-country {
-  margin-bottom: 5px;
+  margin-bottom: 6px;
   color: #929292;
-  font-size: 9.5px;
+  font-size: 10px;
   line-height: 1.3;
   font-weight: 700;
-  letter-spacing: 1.2px;
+  letter-spacing: 1.25px;
 }
 
-.institution-item h3 {
-  margin: 0 0 6px;
-  color: #303030;
-  font-size: 18px;
+.institution-item > h3 {
+  margin: 0 0 4px;
+  color: #292929;
+  font-size: 19px;
+  line-height: 1.35;
   font-weight: 600;
 }
 
 .institution-item > p {
-  max-width: 770px;
-  margin-bottom: 10px !important;
-  color: #595959;
-  font-size: 14px;
+  margin: 0 0 18px !important;
+  color: #707070;
+  font-size: 13px;
+  line-height: 1.55;
 }
 
 .institution-subgroup {
-  margin-top: 13px;
-  padding-left: 15px;
-  border-left: 2px solid #dddddd;
+  margin-top: 17px;
+  padding-left: 17px;
+  border-left: 2px solid #e1e1e1;
 }
 
-.institution-subgroup strong {
+.institution-subgroup > strong {
   display: block;
-  margin-bottom: 3px;
+  margin-bottom: 10px;
   color: #444444;
-  font-size: 12.5px;
+  font-size: 12px;
+  line-height: 1.4;
+  font-weight: 700;
+  letter-spacing: 0.2px;
 }
 
 .institution-subgroup p {
-  margin: 0 !important;
-  color: #666666;
-  font-size: 13px;
-  line-height: 1.6;
+  margin: 0;
+  padding: 8px 0;
+  color: #5b5b5b;
+  font-size: 13.5px;
+  line-height: 1.62;
+  border-top: 1px solid #f0f0f0;
 }
 
-.institution-people {
-  margin-top: 9px;
-  color: #5d5d5d;
-  font-size: 13px;
-  line-height: 1.6;
+.institution-subgroup p:first-of-type {
+  border-top: 0;
 }
 
-.institution-people strong {
-  color: #444444;
+.institution-subgroup p strong {
+  color: #333333;
+  font-weight: 600;
 }
 
 .institution-note {
-  margin-top: 8px !important;
+  max-width: 760px;
+  margin-top: 17px !important;
+  margin-bottom: 0 !important;
+  padding: 10px 13px;
   color: #777777 !important;
-  font-size: 12.5px !important;
+  background: #fafafa;
+  border-left: 2px solid #d8d8d8;
+  font-size: 12px !important;
+  line-height: 1.6 !important;
 }
 
 
 /* =========================================================
-   13. ABOUT — COLLABORATORS
+   13. ABOUT — RESEARCH COLLABORATORS
    ========================================================= */
 
 .collaborator-directory {
-  margin-top: 8px;
+  margin-top: 28px;
 }
 
 .collaborator-group {
-  padding: 25px 0;
+  padding: 29px 0;
   border-top: 1px solid var(--border);
 }
 
 .collaborator-group:first-child {
-  padding-top: 7px;
+  padding-top: 5px;
   border-top: 0;
 }
 
 .collaborator-heading {
   display: grid;
-  grid-template-columns: 30px minmax(0, 1fr);
-  gap: 8px;
-  margin-bottom: 15px;
+  grid-template-columns: 35px minmax(0, 1fr);
+  gap: 10px;
+  margin-bottom: 16px;
 }
 
 .collaborator-heading > span {
-  padding-top: 3px;
-  color: #999999;
+  padding-top: 4px;
+  color: #a0a0a0;
   font-size: 10px;
+  line-height: 1;
   font-weight: 700;
+  letter-spacing: 0.6px;
 }
 
 .collaborator-heading h3 {
-  margin: 0 0 2px;
+  margin: 0 0 3px;
   color: #303030;
-  font-size: 17px;
+  font-size: 18px;
+  line-height: 1.35;
   font-weight: 600;
 }
 
 .collaborator-heading p {
   margin: 0 !important;
   color: #858585;
-  font-size: 12.5px;
+  font-size: 12px;
+  line-height: 1.5;
 }
 
 .collaborator-list {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0 25px;
+  margin-left: 45px;
+  border-top: 1px solid #ededed;
 }
 
 .collaborator {
-  padding: 9px 0;
-  border-bottom: 1px solid #f0f0f0;
+  display: grid;
+  grid-template-columns: 185px minmax(0, 1fr);
+  gap: 24px;
+  padding: 13px 0;
+  border-bottom: 1px solid #ededed;
 }
 
-.collaborator strong {
-  display: block;
-  margin-bottom: 1px;
-  color: #444444;
+.collaborator > strong {
+  color: #383838;
   font-size: 13.5px;
+  line-height: 1.5;
   font-weight: 600;
 }
 
-.collaborator span {
-  display: block;
-  color: #777777;
-  font-size: 11.5px;
-  line-height: 1.45;
+.collaborator > span {
+  color: #626262;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.collaborator > span b {
+  color: #555555;
+  font-size: 12px;
+  font-weight: 600;
 }
 
 .compact-collaborators .collaborator {
-  padding: 7px 0;
+  padding-top: 11px;
+  padding-bottom: 11px;
 }
 
 
 /* =========================================================
-   14. ABOUT — STUDENTS
+   14. ABOUT — GRADUATE SUPERVISION
    ========================================================= */
 
 .about-student-list {
-  margin-top: 20px;
+  margin-top: 25px;
   border-top: 1px solid var(--border);
 }
 
 .about-student {
   display: grid;
-  grid-template-columns: 65px minmax(0, 1fr);
-  gap: 20px;
-  padding: 16px 0;
+  grid-template-columns: 75px minmax(0, 1fr);
+  gap: 25px;
+  padding: 21px 0;
   border-bottom: 1px solid var(--border-light);
 }
 
 .student-year {
   padding-top: 2px;
-  color: #777777;
-  font-size: 12.5px;
-  font-weight: 700;
-}
-
-.about-student h3 {
-  margin: 0 0 4px;
-  color: #333333;
-  font-size: 15.5px;
+  color: #4d4d4d;
+  font-size: 17px;
+  line-height: 1.4;
   font-weight: 600;
 }
 
-.about-student p {
+.about-student h3 {
+  margin: 0 0 5px;
+  color: #303030;
+  font-size: 16px;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.about-student > div:last-child > p:not(.student-affiliation) {
+  margin: 0 0 9px !important;
+  color: #565656;
+  font-size: 13.5px;
+  line-height: 1.6;
+}
+
+.student-affiliation {
   margin: 0 !important;
-  color: #666666;
+  padding: 9px 12px;
+  color: #696969;
+  background: #fafafa;
+  border-left: 2px solid #dddddd;
+  font-size: 12px;
+  line-height: 1.65;
+}
+
+.student-affiliation strong {
+  color: #555555;
+  font-weight: 600;
+}
+
+
+/* =========================================================
+   15. ABOUT — RESEARCH PROJECT SUMMARY
+   ========================================================= */
+
+.about-project-summary {
+  margin-top: 25px;
+  border-top: 1px solid var(--border);
+}
+
+.about-project {
+  display: grid;
+  grid-template-columns: 115px minmax(0, 1fr);
+  gap: 25px;
+  padding: 20px 0;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.about-project > span {
+  padding-top: 1px;
+  color: #444444;
+  font-size: 17px;
+  line-height: 1.4;
+  font-weight: 650;
+}
+
+.about-project > p {
+  margin: 0 !important;
+  color: #5b5b5b;
+  font-size: 13.5px;
+  line-height: 1.65;
+}
+
+.about-project > p strong {
+  display: inline-block;
+  margin-bottom: 5px;
+  color: #2f2f2f;
+  font-size: 13.5px;
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   16. ABOUT — LABORATORY MANUAL
+   ========================================================= */
+
+.about-book-row {
+  display: grid;
+  grid-template-columns: 125px minmax(0, 1fr);
+  gap: 25px;
+  align-items: start;
+  margin-top: 22px;
+  padding: 19px;
+  background: #fafafa;
+  border: 1px solid #e7e7e7;
+  border-radius: var(--radius);
+}
+
+.about-book-link {
+  display: block;
+  text-decoration: none;
+}
+
+.about-book-cover {
+  display: block;
+  width: 120px;
+  max-height: 170px;
+  object-fit: cover;
+  object-position: top center;
+  background: #eeeeee;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  transition:
+    transform var(--transition),
+    box-shadow var(--transition);
+}
+
+.about-book-cover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 16px rgba(0, 0, 0, 0.08);
+}
+
+.about-book-info h3 {
+  margin: 0 0 5px;
+  color: #303030;
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.about-book-authors {
+  margin-bottom: 12px !important;
+  color: #555555;
   font-size: 13px;
   line-height: 1.55;
+  font-weight: 600;
+}
+
+.about-book-info > p:not(.about-book-authors) {
+  color: #606060;
+  font-size: 13.5px;
+  line-height: 1.65;
+}
+
+.about-book-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 15px;
+}
+
+.about-book-meta span {
+  display: inline-block;
+  padding: 4px 8px;
+  color: #696969;
+  background: #ffffff;
+  border: 1px solid #e3e3e3;
+  border-radius: 3px;
+  font-size: 10.5px;
+}
+
+
+/* =========================================================
+   17. ABOUT — ACADEMIC CONTRIBUTIONS
+   ========================================================= */
+
+.academic-output-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 28px;
+  margin-top: 23px;
+}
+
+.academic-output-item {
+  padding: 17px 0 19px;
+  border-top: 1px solid var(--border-light);
+}
+
+.academic-output-item:nth-child(-n + 2) {
+  border-top: 0;
+}
+
+.academic-output-item > strong {
+  display: block;
+  margin-bottom: 5px;
+  color: #363636;
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.academic-output-item > p {
+  margin: 0 !important;
+  color: #646464;
+  font-size: 13.5px;
+  line-height: 1.62;
 }
 
 .about-inline-link,
 .about-inline-link:visited {
   display: inline-block;
-  margin-top: 18px;
-  color: #444444;
-  font-size: 13px;
+  margin-top: 20px;
+  color: #4d4d4d;
+  font-size: 13.5px;
   font-weight: 600;
   text-decoration: none;
 }
@@ -834,150 +1042,11 @@ a:hover {
   color: #111111;
 }
 
-
-/* =========================================================
-   15. ABOUT — PROJECT SUMMARY
-   ========================================================= */
-
-.about-project-summary {
-  margin-top: 20px;
-  border-top: 1px solid var(--border);
-}
-
-.about-project {
-  display: grid;
-  grid-template-columns: 90px minmax(0, 1fr);
-  gap: 22px;
-  padding: 16px 0;
-  border-bottom: 1px solid var(--border-light);
-}
-
-.about-project > span {
-  padding-top: 2px;
-  color: #666666;
-  font-size: 12.5px;
-  font-weight: 700;
-}
-
-.about-project p {
-  margin: 0 !important;
-  color: #5d5d5d;
-  font-size: 13.5px;
-  line-height: 1.6;
-}
-
-.about-project strong {
-  color: #333333;
-}
-
-
-/* =========================================================
-   16. ABOUT — BOOK
-   ========================================================= */
-
-.about-book-row {
-  display: grid;
-  grid-template-columns: 110px minmax(0, 1fr);
-  gap: 24px;
-  align-items: start;
-  max-width: 760px;
-  margin-top: 18px;
-}
-
-.about-book-link {
-  display: block;
-}
-
-.about-book-cover {
-  display: block;
-  width: 110px;
-  max-height: 155px;
-  object-fit: cover;
-  object-position: top center;
-  border: 1px solid #dddddd;
-  border-radius: 3px;
-  transition:
-    transform var(--transition),
-    box-shadow var(--transition);
-}
-
-.about-book-link:hover .about-book-cover {
-  transform: translateY(-2px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.09);
-}
-
-.about-book-info h3 {
-  margin: 0 0 4px;
-  color: #303030;
-  font-size: 18px;
-}
-
-.about-book-authors {
-  margin-bottom: 11px !important;
-  color: #777777;
-  font-size: 12px;
-}
-
-.about-book-info > p:not(.about-book-authors) {
-  color: #5d5d5d;
-  font-size: 13.5px;
-}
-
-.about-book-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  margin-top: 12px;
-}
-
-.about-book-meta span {
-  padding: 3px 7px;
-  color: #666666;
-  background: #f6f6f6;
-  border-radius: 3px;
-  font-size: 10.5px;
-}
-
-
-/* =========================================================
-   17. ABOUT — ACADEMIC OUTPUT
-   ========================================================= */
-
-.academic-output-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0 28px;
-  margin-top: 17px;
-}
-
-.academic-output-item {
-  padding: 15px 0;
-  border-top: 1px solid var(--border-light);
-}
-
-.academic-output-item:nth-child(-n + 2) {
-  border-top: 0;
-}
-
-.academic-output-item strong {
-  display: block;
-  margin-bottom: 4px;
-  color: #393939;
-  font-size: 14px;
-}
-
-.academic-output-item p {
-  margin: 0 !important;
-  color: #686868;
-  font-size: 13px;
-  line-height: 1.55;
-}
-
 .about-links {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
-  padding-top: 29px;
+  padding-top: 28px;
 }
 
 .about-links a,
@@ -994,7 +1063,7 @@ a:hover {
 
 
 /* =========================================================
-   18. RESEARCH — INTRO
+   18. RESEARCH — INTRODUCTION
    ========================================================= */
 
 .research-intro {
@@ -1057,6 +1126,7 @@ a:hover {
 }
 
 .research-keywords span {
+  display: inline-block;
   padding: 4px 8px;
   color: #666666;
   background: #f7f7f7;
@@ -1070,150 +1140,100 @@ a:hover {
    20. RESEARCH — FUNDED PROJECTS
    ========================================================= */
 
-.research-projects {
-  margin-top: 48px;
+.research-projects-section {
+  margin-top: 44px;
   padding-top: 5px;
 }
 
-.research-section-heading {
-  display: grid;
-  grid-template-columns: 145px minmax(0, 1fr);
-  gap: 35px;
-  margin-bottom: 12px;
+.research-projects-heading {
+  max-width: 800px;
+  margin-bottom: 25px;
 }
 
-.research-section-label {
-  padding-top: 7px;
+.research-projects-label {
+  display: block;
+  margin-bottom: 7px;
   color: #888888;
   font-size: 10.5px;
-  line-height: 1.4;
   font-weight: 700;
-  letter-spacing: 1.35px;
+  letter-spacing: 1.3px;
 }
 
-.research-section-heading h2 {
-  margin: 0 0 10px;
+.research-projects-heading h2 {
+  margin: 0 0 11px;
   color: #292929;
-  font-size: 26px;
+  font-size: 25px;
   line-height: 1.3;
   font-weight: 600;
-  letter-spacing: -0.4px;
 }
 
-.research-section-heading p {
-  max-width: 760px;
-  margin: 0 !important;
+.research-projects-heading p {
   color: #555555;
-  font-size: 14.5px;
-  line-height: 1.65;
 }
 
 .project-list {
-  margin-top: 24px;
-  border-top: 1px solid #dcdcdc;
+  border-top: 1px solid var(--border);
 }
 
 .project-item {
   display: grid;
-  grid-template-columns: 145px minmax(0, 1fr);
-  gap: 35px;
-  padding: 27px 0 29px;
-  border-bottom: 1px solid var(--border);
+  grid-template-columns: 115px minmax(0, 1fr);
+  gap: 27px;
+  padding: 23px 0;
+  border-bottom: 1px solid var(--border-light);
 }
 
 .project-year {
-  padding-top: 3px;
-  color: #3f3f3f;
-  font-size: 24px;
-  line-height: 1.1;
-  font-weight: 600;
-  letter-spacing: -0.5px;
+  padding-top: 1px;
+  color: #444444;
+  font-size: 18px;
+  line-height: 1.35;
+  font-weight: 650;
+  letter-spacing: -0.15px;
 }
 
-.project-content {
-  max-width: 790px;
+.project-content h3 {
+  margin: 0 0 8px;
+  color: #303030;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.project-content p {
+  margin-bottom: 11px !important;
+  color: #5e5e5e;
+  font-size: 14px;
+  line-height: 1.62;
 }
 
 .project-meta {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   gap: 7px;
-  margin-bottom: 11px;
 }
 
-.project-funder,
-.project-role {
+.project-meta span {
   display: inline-block;
   padding: 4px 9px;
+  color: #4d4d4d;
+  background: #f4f4f4;
+  border: 1px solid #e1e1e1;
   border-radius: 3px;
-  font-size: 10.5px;
+  font-size: 11.5px;
   line-height: 1.4;
-  font-weight: 700;
-  letter-spacing: 0.45px;
-  text-transform: uppercase;
-}
-
-.project-funder {
-  color: #3f3f3f;
-  background: #eeeeee;
-  border: 1px solid #dddddd;
-}
-
-.project-funder-major {
-  color: #ffffff;
-  background: #3d3d3d;
-  border-color: #3d3d3d;
-}
-
-.project-role {
-  color: #656565;
-  background: #ffffff;
-  border: 1px solid #d8d8d8;
-}
-
-.project-director {
-  color: #333333;
-  border-color: #bfbfbf;
-}
-
-.project-content h3 {
-  margin: 0 0 8px;
-  color: #292929;
-  font-size: 20px;
-  line-height: 1.35;
   font-weight: 600;
-  letter-spacing: -0.2px;
 }
 
-.project-title-original {
-  margin-bottom: 10px !important;
-  color: #6d6d6d;
-  font-size: 13px;
-  line-height: 1.55;
-  font-style: italic;
+.project-meta span:first-child {
+  color: #303030;
+  background: #eeeeee;
+  border-color: #d8d8d8;
+  font-weight: 700;
 }
 
-.project-description {
-  margin: 0 !important;
-  color: #4f4f4f;
-  font-size: 14.5px;
-  line-height: 1.65;
-}
-
-.featured-project {
-  background:
-    linear-gradient(
-      90deg,
-      #fafafa 0,
-      #fafafa 4px,
-      transparent 4px
-    );
-}
-
-.featured-project .project-year {
-  color: #252525;
-  font-weight: 650;
+.project-content strong {
+  color: #303030;
+  font-weight: 700;
 }
 
 .research-footer-link {
@@ -1234,7 +1254,7 @@ a:hover {
 
 
 /* =========================================================
-   21. PUBLICATIONS — INTRO & NAV
+   21. PUBLICATIONS — INTRO & NAVIGATION
    ========================================================= */
 
 .publications-intro {
@@ -1404,6 +1424,10 @@ a:hover {
   font-size: 12px;
 }
 
+.conference-publication .pub-title {
+  color: #444444;
+}
+
 
 /* =========================================================
    24. PUBLICATIONS — BOOK
@@ -1431,6 +1455,7 @@ a:hover {
   max-height: 150px;
   object-fit: cover;
   object-position: top center;
+  background: #f3f3f3;
   border: 1px solid #dddddd;
   border-radius: 3px;
   transition:
@@ -1438,7 +1463,7 @@ a:hover {
     box-shadow var(--transition);
 }
 
-.book-cover-link:hover .publication-book-cover {
+.publication-book-cover:hover {
   transform: translateY(-2px);
   box-shadow: 0 5px 16px rgba(0, 0, 0, 0.08);
 }
@@ -1471,7 +1496,7 @@ a:hover {
 
 
 /* =========================================================
-   26. TEACHING — BLOCKS
+   26. TEACHING — SHARED BLOCKS
    ========================================================= */
 
 .teaching-block {
@@ -1565,9 +1590,10 @@ a:hover {
 
 .thesis-year {
   padding-top: 2px;
-  color: #666666;
-  font-size: 14px;
-  font-weight: 700;
+  color: #555555;
+  font-size: 16px;
+  line-height: 1.4;
+  font-weight: 600;
 }
 
 .thesis-details h3 {
@@ -1591,6 +1617,7 @@ a:hover {
 }
 
 .thesis-tags span {
+  display: inline-block;
   padding: 3px 7px;
   color: #777777;
   background: #f7f7f7;
@@ -1600,7 +1627,7 @@ a:hover {
 
 
 /* =========================================================
-   29. TEACHING — LAB
+   29. TEACHING — LABORATORY
    ========================================================= */
 
 .lab-methods {
@@ -1611,6 +1638,7 @@ a:hover {
 }
 
 .lab-methods span {
+  display: inline-block;
   padding: 5px 9px;
   color: #5e5e5e;
   background: #f7f7f7;
@@ -1621,7 +1649,7 @@ a:hover {
 
 
 /* =========================================================
-   30. TEACHING — MANUAL
+   30. TEACHING — BOOK FEATURE
    ========================================================= */
 
 .manual-feature {
@@ -1653,6 +1681,7 @@ a:hover {
   margin: 0 auto;
   object-fit: cover;
   object-position: top center;
+  background: #eeeeee;
   border: 1px solid #d8d8d8;
   border-radius: 3px;
   transition:
@@ -1660,7 +1689,7 @@ a:hover {
     box-shadow var(--transition);
 }
 
-.manual-cover-link:hover .manual-book-cover {
+.manual-book-cover:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
 }
@@ -1670,6 +1699,7 @@ a:hover {
   margin-top: 7px;
   color: #888888;
   font-size: 10.5px;
+  line-height: 1.45;
 }
 
 .manual-details h3 {
@@ -1737,6 +1767,11 @@ a:hover {
   color: #111111;
 }
 
+
+/* =========================================================
+   31. TEACHING — LINKS
+   ========================================================= */
+
 .teaching-links {
   display: flex;
   flex-wrap: wrap;
@@ -1758,7 +1793,7 @@ a:hover {
 
 
 /* =========================================================
-   31. INTERESTS
+   32. INTERESTS
    ========================================================= */
 
 .interests-intro {
@@ -1812,7 +1847,7 @@ a:hover {
 
 
 /* =========================================================
-   32. CONTACT
+   33. CONTACT
    ========================================================= */
 
 .contact-intro {
@@ -1856,7 +1891,7 @@ a:hover {
 
 
 /* =========================================================
-   33. FOOTER
+   34. FOOTER
    ========================================================= */
 
 .site-footer {
@@ -1878,7 +1913,7 @@ a:hover {
 
 
 /* =========================================================
-   34. TABLET
+   35. TABLET
    ========================================================= */
 
 @media screen and (max-width: 900px) {
@@ -1915,11 +1950,16 @@ a:hover {
     gap: 10px;
   }
 
+  .research-card {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
 }
 
 
 /* =========================================================
-   35. MOBILE
+   36. MOBILE
    ========================================================= */
 
 @media screen and (max-width: 800px) {
@@ -1961,6 +2001,17 @@ a:hover {
     margin-left: auto;
   }
 
+  .site-nav.custom-nav {
+    position: static;
+    top: auto;
+    right: auto;
+    float: none;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    text-align: left;
+  }
+
   .custom-nav {
     display: none;
     width: 100%;
@@ -1989,7 +2040,7 @@ a:hover {
   }
 
 
-  /* Home */
+  /* Hero */
 
   .academic-hero {
     grid-template-columns: 1fr;
@@ -2008,6 +2059,9 @@ a:hover {
   .hero-description {
     font-size: 16px;
   }
+
+
+  /* Shared structures */
 
   .home-section,
   .about-block,
@@ -2050,6 +2104,9 @@ a:hover {
     font-size: 17px;
   }
 
+
+  /* Homepage cards */
+
   .research-grid {
     grid-template-columns: 1fr;
   }
@@ -2071,32 +2128,47 @@ a:hover {
     padding-top: 0;
   }
 
-  .about-research-grid,
-  .academic-output-grid {
+  .about-research-grid {
     grid-template-columns: 1fr;
   }
 
-  .about-research-item:nth-child(2),
-  .academic-output-item:nth-child(2) {
+  .about-research-item:nth-child(2) {
     border-top: 1px solid var(--border-light);
   }
 
+  .institution-item {
+    padding: 23px 0;
+  }
+
+  .institution-subgroup {
+    padding-left: 13px;
+  }
+
   .collaborator-list {
-    grid-template-columns: 1fr;
+    margin-left: 0;
+  }
+
+  .collaborator {
+    grid-template-columns: 155px minmax(0, 1fr);
+    gap: 17px;
   }
 
   .about-student {
-    grid-template-columns: 55px minmax(0, 1fr);
-    gap: 13px;
+    grid-template-columns: 65px minmax(0, 1fr);
+    gap: 17px;
   }
 
   .about-project {
-    grid-template-columns: 75px minmax(0, 1fr);
-    gap: 15px;
+    grid-template-columns: 100px minmax(0, 1fr);
+    gap: 18px;
+  }
+
+  .academic-output-grid {
+    gap: 0 22px;
   }
 
 
-  /* Research areas */
+  /* Research */
 
   .research-area {
     grid-template-columns: 42px minmax(0, 1fr);
@@ -2107,38 +2179,13 @@ a:hover {
     font-size: 21px;
   }
 
-
-  /* Research projects */
-
-  .research-projects {
-    margin-top: 39px;
-  }
-
-  .research-section-heading {
-    grid-template-columns: 1fr;
-    gap: 7px;
-  }
-
-  .research-section-label {
-    padding-top: 0;
-  }
-
-  .research-section-heading h2 {
-    font-size: 23px;
-  }
-
   .project-item {
-    grid-template-columns: 105px minmax(0, 1fr);
-    gap: 20px;
-    padding: 24px 0;
+    grid-template-columns: 100px minmax(0, 1fr);
+    gap: 18px;
   }
 
   .project-year {
-    font-size: 21px;
-  }
-
-  .project-content h3 {
-    font-size: 18px;
+    font-size: 17px;
   }
 
 
@@ -2176,7 +2223,7 @@ a:hover {
   }
 
   .thesis-item {
-    grid-template-columns: 60px minmax(0, 1fr);
+    grid-template-columns: 65px minmax(0, 1fr);
     gap: 14px;
   }
 
@@ -2213,7 +2260,66 @@ a:hover {
 
 
 /* =========================================================
-   36. SMALL MOBILE
+   37. SMALL MOBILE
+   ========================================================= */
+
+@media screen and (max-width: 600px) {
+
+  .collaborator-heading {
+    grid-template-columns: 28px minmax(0, 1fr);
+    gap: 7px;
+  }
+
+  .collaborator {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .collaborator > strong {
+    font-size: 14px;
+  }
+
+  .about-student {
+    grid-template-columns: 1fr;
+    gap: 5px;
+  }
+
+  .student-year {
+    font-size: 15px;
+  }
+
+  .about-project {
+    grid-template-columns: 1fr;
+    gap: 5px;
+  }
+
+  .about-project > span {
+    font-size: 16px;
+  }
+
+  .academic-output-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .academic-output-item:nth-child(2) {
+    border-top: 1px solid var(--border-light);
+  }
+
+  .project-item {
+    grid-template-columns: 1fr;
+    gap: 5px;
+  }
+
+  .project-year {
+    padding-top: 0;
+    font-size: 17px;
+  }
+
+}
+
+
+/* =========================================================
+   38. EXTRA SMALL MOBILE
    ========================================================= */
 
 @media screen and (max-width: 520px) {
@@ -2244,36 +2350,6 @@ a:hover {
     gap: 8px 13px;
   }
 
-
-  /* About */
-
-  .about-student {
-    grid-template-columns: 1fr;
-    gap: 3px;
-  }
-
-  .student-year {
-    font-size: 12px;
-  }
-
-  .about-project {
-    grid-template-columns: 1fr;
-    gap: 3px;
-  }
-
-  .about-book-row {
-    grid-template-columns: 85px minmax(0, 1fr);
-    gap: 15px;
-  }
-
-  .about-book-cover {
-    width: 85px;
-    max-height: 125px;
-  }
-
-
-  /* Research */
-
   .research-area {
     grid-template-columns: 1fr;
     gap: 5px;
@@ -2282,27 +2358,6 @@ a:hover {
   .research-area-number {
     padding-top: 0;
   }
-
-  .project-item {
-    grid-template-columns: 1fr;
-    gap: 10px;
-  }
-
-  .project-year {
-    font-size: 22px;
-  }
-
-  .project-meta {
-    margin-bottom: 9px;
-  }
-
-  .project-funder,
-  .project-role {
-    font-size: 9.5px;
-  }
-
-
-  /* Publications */
 
   .book-publication-layout {
     grid-template-columns: 72px minmax(0, 1fr);
@@ -2313,19 +2368,6 @@ a:hover {
     width: 72px;
     max-height: 105px;
   }
-
-  .publication-nav {
-    gap: 6px;
-  }
-
-  .publication-nav a,
-  .publication-nav a:visited {
-    padding: 5px 9px;
-    font-size: 11.5px;
-  }
-
-
-  /* Teaching */
 
   .thesis-item {
     grid-template-columns: 1fr;
@@ -2349,6 +2391,45 @@ a:hover {
   .cover-caption {
     width: 150px;
     text-align: left;
+  }
+
+  .publication-nav {
+    gap: 6px;
+  }
+
+  .publication-nav a,
+  .publication-nav a:visited {
+    padding: 5px 9px;
+    font-size: 11.5px;
+  }
+
+  .about-book-row {
+    grid-template-columns: 95px minmax(0, 1fr);
+    gap: 15px;
+    padding: 15px;
+  }
+
+  .about-book-cover {
+    width: 92px;
+    max-height: 135px;
+  }
+
+}
+
+
+/* =========================================================
+   39. VERY SMALL MOBILE
+   ========================================================= */
+
+@media screen and (max-width: 430px) {
+
+  .about-book-row {
+    grid-template-columns: 1fr;
+  }
+
+  .about-book-cover {
+    width: 105px;
+    max-height: 150px;
   }
 
 }
