@@ -18,16 +18,16 @@ title:
     <h1>Naz Mohammed<br>Agh-Atabay</h1>
 
     <p class="hero-description">
-      Research in coordination and organometallic chemistry,
-      macrocyclic compounds, benzimidazole-based ligands,
-      and biologically active metal complexes.
+      Chemist whose research has spanned coordination and organometallic
+      chemistry, molecular materials, benzimidazole ligands, macrocyclic
+      compounds, spectroscopy and biologically active metal complexes.
     </p>
 
     <div class="hero-tags">
       <span>Coordination Chemistry</span>
       <span>Organometallic Chemistry</span>
       <span>Macrocycles</span>
-      <span>Metal Complexes</span>
+      <span>Spectroscopy</span>
     </div>
 
     <p class="hero-affiliation">
@@ -60,23 +60,25 @@ title:
     <h2>Academic Profile</h2>
 
     <p class="lead-text">
-      A career in chemistry spanning several decades of research
-      in molecular design, coordination compounds and the
-      characterization of functional chemical systems.
+      A research career extending from transition-metal and organometallic
+      chemistry to functional molecular systems, spectroscopy,
+      macrocyclic chemistry and biologically active coordination compounds.
     </p>
 
     <p>
-      Professor Agh-Atabay's scientific work has encompassed inorganic,
-      organometallic, coordination, heterocyclic and medicinal chemistry.
-      His research combines synthetic chemistry with spectroscopic and
-      structural characterization, including FT-IR, FT-Raman and NMR
-      spectroscopy.
+      Professor Agh-Atabay's documented scientific work extends from
+      research on molybdenum, tungsten, rhodium and platinum chemistry
+      to metal-containing diacetylenes, coordination compounds,
+      benzimidazole-derived ligands, dendritic and macrocyclic systems,
+      and transition-metal complexes.
     </p>
 
     <p>
-      His later research also explored the biological properties of newly
-      synthesized ligands, macrocyclic compounds and transition-metal
-      complexes, including their antimicrobial activity.
+      Spectroscopic characterization has been a recurring component of
+      this work, including NMR, FT-IR, FT-Raman and EPR techniques.
+      Later research combined experimental spectroscopy with
+      density-functional calculations and investigations of antimicrobial
+      and other biological properties.
     </p>
 
   </div>
@@ -95,47 +97,53 @@ title:
     <div class="research-grid">
 
       <a href="{{ '/research/' | relative_url }}" class="research-card">
+
         <span class="card-number">01</span>
 
         <h3>Coordination &<br>Organometallic Chemistry</h3>
 
         <p>
-          Transition-metal complexes, ligand design and metal–ligand
-          interactions involving molybdenum, tungsten, palladium,
-          zinc and related systems.
+          Molybdenum, tungsten, rhodium, palladium and other
+          transition-metal systems, ligand coordination and
+          organometallic reaction chemistry.
         </p>
 
         <span class="card-arrow">→</span>
+
       </a>
 
 
       <a href="{{ '/research/' | relative_url }}" class="research-card">
+
         <span class="card-number">02</span>
 
-        <h3>Macrocyclic &<br>Heterocyclic Chemistry</h3>
+        <h3>Molecular &<br>Macrocyclic Chemistry</h3>
 
         <p>
-          Synthesis and characterization of macrocycles,
-          benzimidazole derivatives, cyclophanes and related
+          Benzimidazole ligands, macrocycles, dendritic and
+          macromolecular compounds, heterocycles and functional
           molecular architectures.
         </p>
 
         <span class="card-arrow">→</span>
+
       </a>
 
 
       <a href="{{ '/research/' | relative_url }}" class="research-card">
+
         <span class="card-number">03</span>
 
-        <h3>Bioactive<br>Metal Complexes</h3>
+        <h3>Spectroscopy &<br>Bioactive Complexes</h3>
 
         <p>
-          Investigation of antimicrobial and other biological
-          properties of synthesized ligands and transition-metal
-          coordination complexes.
+          NMR and vibrational spectroscopy, computational studies,
+          structural characterization and biological investigation
+          of synthesized compounds.
         </p>
 
         <span class="card-arrow">→</span>
+
       </a>
 
     </div>
@@ -154,16 +162,17 @@ title:
     <h2>Research, Teaching & Supervision</h2>
 
     <p class="lead-text">
-      Scientific research accompanied by university teaching and
-      graduate research supervision.
+      Scientific research accompanied by university teaching,
+      laboratory education, funded projects and graduate supervision.
     </p>
 
     <p>
-      Professor Agh-Atabay has contributed to chemistry education and
-      graduate supervision alongside his research activities. Documented
-      graduate work under his supervision includes research in macrocyclic
-      chemistry, dendrimers, macromolecular ligands, transition-metal
-      complexes and antimicrobial compounds.
+      Professor Agh-Atabay supervised graduate research in macrocyclic
+      chemistry, macromolecular ligands, transition-metal complexes,
+      spectroscopy, antimicrobial compounds and DNA-binding systems.
+      His teaching activities also included co-authorship of the
+      <em>Organic Chemistry Laboratory Manual</em>, published by
+      Fatih University in 2001.
     </p>
 
     <div class="section-links">
