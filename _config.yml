@@ -5,12 +5,3 @@ url: "https://ourapteryx514.github.io"
 baseurl: "/atabay"
 
 theme: minima
-
-header_pages:
-  - index.md
-  - about.md
-  - research.md
-  - publications.md
-  - teaching.md
-  - interests.md
-  - contact.md
