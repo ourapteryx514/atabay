@@ -31,9 +31,10 @@ permalink: /about/
   <p>
     His academic activities also included university teaching,
     laboratory education, research-project management, scientific
-    collaboration and the supervision of graduate researchers working
-    across synthetic, coordination, macrocyclic and medicinally
-    relevant chemistry.
+    collaboration and the supervision of graduate researchers.
+    His publication record reflects an international and
+    interdisciplinary network connecting chemistry with physics,
+    crystallography, computational chemistry and biological sciences.
   </p>
 
 </section>
@@ -49,16 +50,15 @@ permalink: /about/
 
   <div class="about-content">
 
-    <h2>Institutions & Research Career</h2>
+    <h2>Institutions &amp; Research Career</h2>
 
     <p class="about-section-intro">
-      The available publication and academic record documents research
-      activity associated with universities in the United Kingdom and
+      The available academic and publication record documents research
+      activity associated with institutions in the United Kingdom and
       Türkiye. The chronology below distinguishes Professor Agh-Atabay's
       documented institutional associations from institutions represented
       by collaborators in joint research.
     </p>
-
 
     <div class="career-timeline">
 
@@ -79,20 +79,21 @@ permalink: /about/
 
           <p>
             The earliest presently documented journal publication
-            involving Agh-Atabay dates to 1979 and associates
-            N. Atabay with the University of Manchester research
-            environment.
+            involving Agh-Atabay dates to 1979. The bibliographic
+            record associates N. Atabay with the University of
+            Manchester research environment in work on the
+            coordination chemistry of molybdenum and tungsten.
           </p>
 
           <p>
-            This work concerned the coordination chemistry of
-            molybdenum and tungsten, specifically dioxomolybdenum(VI)
-            complexes of bi-, tri- and tetradentate Schiff bases
-            containing oxygen, nitrogen and sulphur donor atoms.
+            The research investigated dioxomolybdenum(VI) complexes
+            of bi-, tri- and tetradentate Schiff bases containing
+            oxygen, nitrogen and sulphur donor atoms.
           </p>
 
           <div class="career-topics">
             <span>Molybdenum Chemistry</span>
+            <span>Tungsten Chemistry</span>
             <span>Schiff Bases</span>
             <span>Coordination Chemistry</span>
             <span>Inorganic Chemistry</span>
@@ -103,7 +104,7 @@ permalink: /about/
       </div>
 
 
-      <!-- EARLY ORGANOMETALLIC / NMR PERIOD -->
+      <!-- 1980s -->
 
       <div class="career-item">
 
@@ -111,28 +112,30 @@ permalink: /about/
 
         <div class="career-details">
 
-          <h3>Transition-Metal & Organometallic Research</h3>
+          <h3>Transition-Metal &amp; Organometallic Research</h3>
 
           <p>
-            The research record during the 1980s expanded into
+            During the 1980s, Agh-Atabay's research expanded into
             phosphorus-containing organometallic compounds and
-            transition-metal NMR, including investigations involving
-            <sup>103</sup>Rh and <sup>195</sup>Pt.
+            transition-metal nuclear magnetic resonance, including
+            investigations involving <sup>103</sup>Rh and
+            <sup>195</sup>Pt.
           </p>
 
           <p>
-            Scientific contributions from 1983 document work on
+            Scientific contributions presented in 1983 included
             spin-tickling techniques for indirect measurement of
             <sup>103</sup>Rh NMR parameters and investigations of
             rhodium and platinum nuclei in phosphorus-containing
-            organometallic complexes.
+            organometallic systems.
           </p>
 
           <p>
-            Subsequent research increasingly focused on the chemistry
-            of molybdenum and tungsten complexes and the mechanisms
-            by which coordinated alkynes undergo isomerisation,
-            dimerisation and trimerisation.
+            His research subsequently developed strongly toward
+            molybdenum and tungsten organometallic chemistry,
+            particularly metal-mediated reactions of alkynes,
+            vinyl complexes, ethenethiolato systems and the
+            formation of unusual metallacyclic structures.
           </p>
 
           <div class="career-topics">
@@ -141,6 +144,7 @@ permalink: /about/
             <span>Organometallic Chemistry</span>
             <span>Molybdenum</span>
             <span>Tungsten</span>
+            <span>Alkyne Chemistry</span>
           </div>
 
         </div>
@@ -152,48 +156,43 @@ permalink: /about/
 
       <div class="career-item">
 
-        <div class="career-period">1980s–1990s</div>
+        <div class="career-period">1990s</div>
 
         <div class="career-details">
 
           <h3>Heriot-Watt University</h3>
 
           <p class="career-location">
-            Department of Chemistry · Edinburgh, United Kingdom
+            Department of Chemistry · Riccarton · Edinburgh, United Kingdom
           </p>
 
           <p>
-            Publications from this period document Agh-Atabay's
-            association with the Department of Chemistry at
-            Heriot-Watt University and a substantial programme of
-            collaborative research in organometallic chemistry and
-            functional molecular materials.
+            Publications from the early 1990s explicitly document
+            Agh-Atabay's association with the Department of Chemistry
+            at Heriot-Watt University.
           </p>
 
           <p>
-            Research with Jack L. Davidson and collaborators examined
-            molybdenum and tungsten η²-vinyl and bis(alkyne)
-            complexes, ethenethiolato systems, alkyne dimerisation
-            and trimerisation, fluxional structures and novel
-            metallacycles.
+            Research during this period included organometallic
+            chemistry as well as the synthesis and characterization
+            of functional diacetylenes and polydiacetylenes. This
+            programme connected synthetic chemistry with materials
+            science and optical physics.
           </p>
 
           <p>
-            A second research direction connected chemistry and
-            physics through the synthesis and optical characterization
-            of metal-containing diacetylenes and polydiacetylenes.
-            The 1992 <em>Journal of Materials Chemistry</em> work,
-            for example, brought together researchers from the
-            Department of Chemistry and Department of Physics at
-            Heriot-Watt University.
+            Work on metal-containing polydiacetylenes brought together
+            researchers from the Departments of Chemistry and Physics
+            at Heriot-Watt University and investigated both molecular
+            structure and optical properties.
           </p>
 
           <div class="career-topics">
-            <span>Organometallic Mechanisms</span>
-            <span>Metallacycles</span>
+            <span>Organometallic Chemistry</span>
             <span>Diacetylenes</span>
             <span>Polydiacetylenes</span>
             <span>Molecular Materials</span>
+            <span>Optical Properties</span>
           </div>
 
         </div>
@@ -219,8 +218,9 @@ permalink: /about/
           <p>
             Professor Agh-Atabay's later academic career was centered
             at Fatih University, where he served as a professor of
-            chemistry and combined research with teaching, laboratory
-            education, graduate supervision and funded research.
+            chemistry and combined research with university teaching,
+            laboratory education, graduate supervision and funded
+            research.
           </p>
 
           <p>
@@ -228,16 +228,14 @@ permalink: /about/
             benzimidazole-derived ligands, transition-metal
             coordination complexes, macrocyclic and heterocyclic
             systems, dendritic and macromolecular compounds,
-            spectroscopy, computational chemistry and biological
-            activity.
+            vibrational spectroscopy, computational chemistry and
+            biological activity.
           </p>
 
           <p>
-            Publications from this period identify the Department of
-            Chemistry at Fatih University as his institutional
-            affiliation and show collaborations extending to other
-            departments at Fatih University as well as universities
-            elsewhere in Türkiye and internationally.
+            This period also produced an extensive collaborative
+            network involving researchers at Fatih University and
+            researchers from other universities in Türkiye and abroad.
           </p>
 
           <div class="career-topics">
@@ -278,115 +276,83 @@ permalink: /about/
       organometallic, molecular, computational and biological chemistry.
     </p>
 
-
     <div class="about-research-grid">
-
 
       <div class="about-research-item">
         <span>01</span>
-
         <h3>Coordination Chemistry</h3>
-
         <p>
-          Early work investigated molybdenum and tungsten coordination
-          compounds, Schiff-base ligands and the structural chemistry
-          of transition-metal complexes.
+          Early investigations of molybdenum and tungsten coordination
+          compounds, Schiff-base ligands and transition-metal complexes.
         </p>
       </div>
-
 
       <div class="about-research-item">
         <span>02</span>
-
         <h3>Organometallic Chemistry</h3>
-
         <p>
-          Extensive studies of molybdenum and tungsten complexes
-          addressed vinyl and alkyne coordination, metal-promoted
-          dimerisation and trimerisation and the formation of
-          unusual metallacyclic structures.
+          Molybdenum and tungsten vinyl and alkyne complexes,
+          metal-promoted dimerisation and trimerisation,
+          fluxional structures and metallacycles.
         </p>
       </div>
-
 
       <div class="about-research-item">
         <span>03</span>
-
         <h3>Molecular Materials</h3>
-
         <p>
-          Research on diacetylenes and polydiacetylenes connected
-          synthetic chemistry with molecular materials, spectroscopy
-          and optical properties, including metal-containing
-          polymeric systems.
+          Diacetylenes, polydiacetylenes and metal-containing
+          molecular materials connecting synthetic chemistry
+          with spectroscopy and optical properties.
         </p>
       </div>
 
-
       <div class="about-research-item">
         <span>04</span>
-
         <h3>Ligand Design</h3>
-
         <p>
-          Later research emphasized benzimidazole-derived chelating
-          ligands, thioether-containing systems and homo- and
+          Benzimidazole-derived chelating ligands,
+          thioether-containing systems and homo- and
           hetero-multidentate molecular architectures.
         </p>
       </div>
 
-
       <div class="about-research-item">
         <span>05</span>
-
-        <h3>Macrocyclic & Macromolecular Chemistry</h3>
-
+        <h3>Macrocyclic &amp; Macromolecular Chemistry</h3>
         <p>
-          Macrocycles, cyclophanes, dendritic structures and
-          multifunctional macromolecules became prominent themes
-          in both the publication record and graduate research.
+          Macrocycles, cyclophanes, dendritic structures,
+          multifunctional macromolecules and related
+          transition-metal systems.
         </p>
       </div>
-
 
       <div class="about-research-item">
         <span>06</span>
-
-        <h3>Spectroscopy & Molecular Structure</h3>
-
+        <h3>Spectroscopy &amp; Molecular Structure</h3>
         <p>
-          Structural characterization employed NMR, FT-IR,
-          FT-Raman, EPR, crystallographic and related techniques,
-          with later work incorporating density-functional
-          calculations.
+          Structural characterization using NMR, FT-IR,
+          FT-Raman, EPR and crystallographic techniques.
         </p>
       </div>
-
 
       <div class="about-research-item">
         <span>07</span>
-
         <h3>Bioactive Coordination Compounds</h3>
-
         <p>
-          Ligands and transition-metal complexes were investigated
-          for antimicrobial activity, cytotoxicity and DNA-binding
-          behaviour, connecting synthetic chemistry with
-          biologically relevant molecular properties.
+          Antimicrobial activity, cytotoxicity and DNA-binding
+          investigations of ligands, macrocycles and
+          transition-metal complexes.
         </p>
       </div>
 
-
       <div class="about-research-item">
         <span>08</span>
-
-        <h3>Computational & Vibrational Chemistry</h3>
-
+        <h3>Computational &amp; Vibrational Chemistry</h3>
         <p>
-          Later publications combined experimental vibrational
-          spectroscopy with quantum-mechanical and density-functional
-          studies of molecular structure, tautomerism and
-          vibrational assignments.
+          Experimental vibrational spectroscopy combined with
+          quantum-mechanical and density-functional calculations
+          of molecular structure, tautomerism and vibrational modes.
         </p>
       </div>
 
@@ -410,17 +376,18 @@ permalink: /about/
     <h2>Institutions in the Research Network</h2>
 
     <p class="about-section-intro">
-      Professor Agh-Atabay's publication record reflects collaborations
-      across chemistry, physics and biological sciences. The institutions
-      below include his own documented academic associations as well as
-      institutions represented by coauthors in joint publications.
+      The institutional network below is reconstructed from affiliations
+      reported in Professor Agh-Atabay's joint publications. Researchers
+      are grouped under institutions only where the available publication
+      record supports that affiliation. Affiliations refer to the period
+      of collaboration and do not necessarily represent a researcher's
+      present institution.
     </p>
-
 
     <div class="institution-network">
 
 
-      <!-- MANCHESTER -->
+      <!-- UNIVERSITY OF MANCHESTER -->
 
       <div class="institution-item">
 
@@ -429,20 +396,41 @@ permalink: /about/
         <h3>University of Manchester</h3>
 
         <p>
-          Early coordination-chemistry research involving
-          molybdenum(VI), tungsten and Schiff-base complexes.
+          Manchester · Inorganic and coordination chemistry
         </p>
 
-        <div class="institution-people">
-          <strong>Research network:</strong>
-          Charles A. McAuliffe · Francis P. McCullough ·
-          S. M. Razzoki
+        <div class="institution-subgroup">
+
+          <strong>People represented in the collaborative record</strong>
+
+          <p>
+            <strong>Naz M. Agh-Atabay</strong> — molybdenum and
+            tungsten coordination chemistry; dioxomolybdenum(VI)
+            Schiff-base complexes.
+          </p>
+
+          <p>
+            <strong>Charles A. McAuliffe</strong> — transition-metal
+            coordination chemistry and donor-ligand systems.
+          </p>
+
+          <p>
+            <strong>Francis P. McCullough</strong> — collaborator
+            in the 1979 molybdenum(VI) coordination study.
+          </p>
+
         </div>
+
+        <p class="institution-note">
+          Other authors appearing in the same early research are retained
+          in the collaborator directory below when their institution
+          cannot be assigned to Manchester with sufficient confidence.
+        </p>
 
       </div>
 
 
-      <!-- HERIOT-WATT -->
+      <!-- HERIOT-WATT UNIVERSITY -->
 
       <div class="institution-item">
 
@@ -451,8 +439,8 @@ permalink: /about/
         <h3>Heriot-Watt University</h3>
 
         <p>
-          Major research environment for organometallic chemistry,
-          molecular materials and optical studies.
+          Riccarton · Edinburgh · Chemistry, molecular materials
+          and optical physics
         </p>
 
         <div class="institution-subgroup">
@@ -460,8 +448,23 @@ permalink: /about/
           <strong>Department of Chemistry</strong>
 
           <p>
-            Naz M. Agh-Atabay · W. Edward Lindsell ·
-            Peter N. Preston · Peter J. Tomb
+            <strong>Naz M. Agh-Atabay</strong> — functional
+            diacetylenes, polydiacetylenes and molecular materials.
+          </p>
+
+          <p>
+            <strong>W. Edward Lindsell</strong> — diacetylene,
+            organometallic and polymer chemistry.
+          </p>
+
+          <p>
+            <strong>Peter N. Preston</strong> — synthesis and
+            characterization of diacetylene and polydiacetylene systems.
+          </p>
+
+          <p>
+            <strong>Peter J. Tomb</strong> — diacetylene and
+            polydiacetylene chemistry and spectroscopic characterization.
           </p>
 
         </div>
@@ -471,20 +474,23 @@ permalink: /about/
           <strong>Department of Physics</strong>
 
           <p>
-            Ashley D. Lloyd · Raul Rangel-Rojo ·
-            Grenville Spruce · Brian S. Wherrett
+            <strong>Ashley D. Lloyd</strong> — optical characterization
+            of metal-containing polydiacetylenes.
           </p>
 
-        </div>
-
-        <div class="institution-subgroup">
-
-          <strong>Organometallic & Structural Chemistry Network</strong>
+          <p>
+            <strong>Raul Rangel-Rojo</strong> — nonlinear optical
+            characterization of polydiacetylene materials.
+          </p>
 
           <p>
-            Jack L. Davidson · Laurence Carlton ·
-            Graeme Douglas · Kenneth W. Muir ·
-            Uta Dullweber · Laureano J. Canoira
+            <strong>Grenville Spruce</strong> — optical-physics
+            collaboration on metal-containing polydiacetylenes.
+          </p>
+
+          <p>
+            <strong>Brian S. Wherrett</strong> — nonlinear optical
+            properties of molecular and polymeric materials.
           </p>
 
         </div>
@@ -492,7 +498,7 @@ permalink: /about/
       </div>
 
 
-      <!-- FATIH -->
+      <!-- FATIH UNIVERSITY -->
 
       <div class="institution-item">
 
@@ -501,10 +507,8 @@ permalink: /about/
         <h3>Fatih University</h3>
 
         <p>
-          Professor Agh-Atabay's principal later-career academic
-          affiliation and the center of his teaching, graduate
-          supervision and a substantial part of his later
-          publication record.
+          Büyükçekmece · Istanbul · Professor Agh-Atabay's principal
+          later-career academic and research environment
         </p>
 
         <div class="institution-subgroup">
@@ -512,9 +516,56 @@ permalink: /about/
           <strong>Department of Chemistry · Faculty of Arts and Science</strong>
 
           <p>
-            Naz Mohammed Agh-Atabay · Mustafa Ulvi Gürbüz ·
-            T. Karabıyık and other chemistry collaborators represented
-            in the publication and graduate-research record.
+            <strong>Naz Mohammed Agh-Atabay</strong> — coordination
+            chemistry, ligand synthesis, macrocycles, spectroscopy,
+            transition-metal complexes and biologically active compounds.
+          </p>
+
+          <p>
+            <strong>Mustafa Ulvi Gürbüz</strong> — macrocyclic
+            compounds, bis-benzimidazole chemistry, spectroscopy
+            and palladium complexes.
+          </p>
+
+          <p>
+            <strong>Yaghub Mahmiani</strong> — macrocyclic
+            aza-oxo-thia compounds and spectroscopic characterization.
+          </p>
+
+          <p>
+            <strong>Hüseyin Çevik</strong> — macrocyclic chemistry,
+            synthesis, spectroscopy and antimicrobial studies.
+          </p>
+
+          <p>
+            <strong>T. Karabıyık</strong> — benzimidazole-pyridine
+            ligands and transition-metal complexes.
+          </p>
+
+          <p>
+            <strong>Metin Tülü</strong> — dendritic and
+            macromolecular compounds and their characterization.
+          </p>
+
+          <p>
+            <strong>Mehmet Şenel</strong> — macromolecular and
+            coordination-chemistry research.
+          </p>
+
+          <p>
+            <strong>Cemil Dizman</strong> — water-soluble dendritic
+            macromolecules.
+          </p>
+
+          <p>
+            <strong>Tezcan Paralı</strong> — water-soluble dendritic
+            macromolecules and antimicrobial investigations.
+          </p>
+
+          <p>
+            <strong>Fahrettin Gücin</strong> — biological and
+            antimicrobial investigations associated with
+            coordination and macrocyclic chemistry.
           </p>
 
         </div>
@@ -524,8 +575,9 @@ permalink: /about/
           <strong>Department of Physics</strong>
 
           <p>
-            Ahmet Altun — collaborator in spectroscopic,
-            computational and density-functional studies.
+            <strong>Ahmet Altun</strong> — density-functional
+            calculations, molecular structure and vibrational
+            spectroscopy.
           </p>
 
         </div>
@@ -533,7 +585,34 @@ permalink: /about/
       </div>
 
 
-      <!-- KOC -->
+      <!-- ISTANBUL UNIVERSITY -->
+
+      <div class="institution-item">
+
+        <div class="institution-country">TÜRKİYE</div>
+
+        <h3>Istanbul University</h3>
+
+        <p>
+          Istanbul · Coordination chemistry
+        </p>
+
+        <div class="institution-subgroup">
+
+          <strong>People represented in the collaborative record</strong>
+
+          <p>
+            <strong>Aydın Tavman</strong> — benzimidazole-derived
+            ligands, iron complexes, spectroscopy and antimicrobial
+            investigations.
+          </p>
+
+        </div>
+
+      </div>
+
+
+      <!-- KOC UNIVERSITY -->
 
       <div class="institution-item">
 
@@ -545,16 +624,23 @@ permalink: /about/
           Department of Chemistry · Istanbul
         </p>
 
-        <div class="institution-people">
-          <strong>Collaborators represented:</strong>
-          Mehmet Somer · Durata Haciu
-        </div>
+        <div class="institution-subgroup">
 
-        <p class="institution-note">
-          Their Koç University affiliation is documented in collaborative
-          research on transition-metal complexes of
-          2,6-bis(benzimidazol-2-yl)pyridine.
-        </p>
+          <strong>People represented in the collaborative record</strong>
+
+          <p>
+            <strong>Mehmet Somer</strong> — coordination chemistry,
+            structural characterization, vibrational spectroscopy
+            and transition-metal complexes.
+          </p>
+
+          <p>
+            <strong>Durata Haciu</strong> — structural and
+            spectroscopic characterization of transition-metal
+            complexes.
+          </p>
+
+        </div>
 
       </div>
 
@@ -571,16 +657,17 @@ permalink: /about/
           Department of Biology · Çanakkale
         </p>
 
-        <div class="institution-people">
-          <strong>Collaborator represented:</strong>
-          Başaran Dülger
-        </div>
+        <div class="institution-subgroup">
 
-        <p class="institution-note">
-          Collaboration contributed biological and antimicrobial
-          evaluation to a number of coordination-, ligand- and
-          macrocyclic-chemistry studies.
-        </p>
+          <strong>People represented in the collaborative record</strong>
+
+          <p>
+            <strong>Başaran Dülger</strong> — antimicrobial and
+            biological evaluation of ligands, metal complexes,
+            macrocycles and macromolecular compounds.
+          </p>
+
+        </div>
 
       </div>
 
@@ -597,16 +684,17 @@ permalink: /about/
           Department of Chemistry · Edirne
         </p>
 
-        <div class="institution-people">
-          <strong>Collaborator represented:</strong>
-          Murat Türkyılmaz
-        </div>
+        <div class="institution-subgroup">
 
-        <p class="institution-note">
-          Documented in research combining synthesis, spectroscopy
-          and density-functional analysis of bis-benzimidazole
-          palladium(II) complexes.
-        </p>
+          <strong>People represented in the collaborative record</strong>
+
+          <p>
+            <strong>Murat Türkyılmaz</strong> — synthesis,
+            spectroscopy and density-functional investigation
+            of bis-benzimidazole palladium(II) complexes.
+          </p>
+
+        </div>
 
       </div>
 
@@ -623,15 +711,43 @@ permalink: /about/
           Department of Chemistry · Toledo, Ohio, USA
         </p>
 
-        <div class="institution-people">
-          <strong>Collaborator represented:</strong>
-          Abdollah Neshat
+        <div class="institution-subgroup">
+
+          <strong>People represented in the collaborative record</strong>
+
+          <p>
+            <strong>Abdollah Neshat</strong> — synthesis and
+            characterization of Fe(II), Zn(II), Cd(II) and Hg(II)
+            complexes with benzimidazole-derived ligands.
+          </p>
+
         </div>
 
-        <p class="institution-note">
-          Represented in collaborative research on
-          benzimidazole-pyridine transition-metal complexes.
+      </div>
+
+
+      <!-- AUBURN -->
+
+      <div class="institution-item">
+
+        <div class="institution-country">UNITED STATES</div>
+
+        <h3>Auburn University</h3>
+
+        <p>
+          Auburn, Alabama, USA
         </p>
+
+        <div class="institution-subgroup">
+
+          <strong>People represented in the collaborative record</strong>
+
+          <p>
+            <strong>William E. Hill</strong> — early inorganic
+            coordination chemistry involving molybdenum and tungsten.
+          </p>
+
+        </div>
 
       </div>
 
@@ -657,57 +773,77 @@ permalink: /about/
     <p class="about-section-intro">
       The directory below consolidates collaborators represented across
       Professor Agh-Atabay's journal publications, scientific papers,
-      conference contributions and teaching work. Specific institutional
-      affiliations are stated where they can be established from the
-      corresponding publication record. Where the available record does
-      not securely establish an affiliation, the research relationship
-      is described without assigning an institution.
+      conference contributions and academic work. Each entry identifies
+      the principal subject of collaboration and gives the paper-era
+      institutional affiliation where this can be established reliably.
     </p>
 
 
     <div class="collaborator-directory">
 
 
-      <!-- GROUP 1 -->
+      <!-- 01 -->
 
       <div class="collaborator-group">
 
         <div class="collaborator-heading">
-
           <span>01</span>
-
           <div>
-            <h3>Early Inorganic & Coordination Chemistry</h3>
-            <p>Early molybdenum, tungsten and transition-metal research</p>
+            <h3>Early Inorganic &amp; Coordination Chemistry</h3>
+            <p>Molybdenum, tungsten and transition-metal chemistry</p>
           </div>
-
         </div>
 
         <div class="collaborator-list">
 
           <div class="collaborator">
             <strong>Charles A. McAuliffe</strong>
-            <span>University of Manchester · Manchester, United Kingdom</span>
+            <span>
+              <b>Collaboration:</b> dioxomolybdenum(VI), Schiff-base
+              and transition-metal coordination chemistry.<br>
+              <b>Affiliation:</b> University of Manchester ·
+              Manchester, United Kingdom.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Francis P. McCullough</strong>
-            <span>University of Manchester research network · Manchester, United Kingdom</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>S. M. Razzoki</strong>
-            <span>University of Manchester research network · Manchester, United Kingdom</span>
+            <span>
+              <b>Collaboration:</b> dioxomolybdenum(VI) complexes
+              of multidentate Schiff bases.<br>
+              <b>Affiliation:</b> University of Manchester ·
+              Manchester, United Kingdom.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>William E. Hill</strong>
-            <span>Early inorganic-chemistry collaborator</span>
+            <span>
+              <b>Collaboration:</b> molybdenum and tungsten
+              coordination chemistry and oxotungsten(VI) chemistry.<br>
+              <b>Affiliation:</b> Auburn University · Alabama, USA,
+              in the early collaborative bibliographic record.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>S. M. Razzoki</strong>
+            <span>
+              <b>Collaboration:</b> dioxomolybdenum(VI) complexes
+              and multidentate Schiff-base chemistry.<br>
+              <b>Affiliation:</b> not securely resolved in the
+              currently available sources.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Fathy M. Ashmawy</strong>
-            <span>Early inorganic-chemistry collaborator</span>
+            <span>
+              <b>Collaboration:</b> oxotungsten(VI) complexes
+              of phosphines and phosphine oxides.<br>
+              <b>Affiliation:</b> not securely resolved from the
+              available paper-era record.
+            </span>
           </div>
 
         </div>
@@ -715,51 +851,84 @@ permalink: /about/
       </div>
 
 
-      <!-- GROUP 2 -->
+      <!-- 02 -->
 
       <div class="collaborator-group">
 
         <div class="collaborator-heading">
-
           <span>02</span>
-
           <div>
-            <h3>Organometallic & Structural Chemistry</h3>
-            <p>Molybdenum, tungsten, alkynes and metallacycles</p>
+            <h3>Organometallic &amp; Structural Chemistry</h3>
+            <p>Alkynes, vinyl complexes, metallacycles and crystallography</p>
           </div>
-
         </div>
 
         <div class="collaborator-list">
 
           <div class="collaborator">
             <strong>Jack L. Davidson</strong>
-            <span>Organometallic chemistry research network · United Kingdom</span>
+            <span>
+              <b>Collaboration:</b> molybdenum and tungsten
+              bis(alkyne) and η²-vinyl complexes, alkyne
+              dimerisation and trimerisation, ethenethiolato
+              chemistry and metallacycles.<br>
+              <b>Affiliation:</b> United Kingdom organometallic
+              research network; exact paper-era institution is
+              not assigned here without sufficiently secure metadata.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Kenneth W. Muir</strong>
-            <span>Structural chemistry and crystallography collaborator · United Kingdom</span>
+            <span>
+              <b>Collaboration:</b> structural chemistry and
+              crystallographic characterization of organometallic
+              systems and metallacycles.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved in the available sources.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Graeme Douglas</strong>
-            <span>Organometallic chemistry collaborator · United Kingdom</span>
+            <span>
+              <b>Collaboration:</b> metal-promoted alkyne
+              trimerisation, ethenethiolato chemistry and
+              organometallic mechanisms.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Laurence Carlton</strong>
-            <span>Organometallic chemistry collaborator · United Kingdom</span>
+            <span>
+              <b>Collaboration:</b> molybdenum and tungsten
+              vinyl complexes, alkyne reactions and mechanisms
+              of alkyne trimerisation.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Laureano J. Canoira</strong>
-            <span>Organometallic chemistry collaborator</span>
+            <span>
+              <b>Collaboration:</b> synthesis and reactions of
+              η²-vinyl complexes of molybdenum and tungsten.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Uta Dullweber</strong>
-            <span>Organometallic chemistry collaborator</span>
+            <span>
+              <b>Collaboration:</b> reactions of alkynes with
+              molybdenum and tungsten bis(alkyne) complexes.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
         </div>
@@ -767,56 +936,88 @@ permalink: /about/
       </div>
 
 
-      <!-- GROUP 3 -->
+      <!-- 03 -->
 
       <div class="collaborator-group">
 
         <div class="collaborator-heading">
-
           <span>03</span>
-
           <div>
-            <h3>Molecular Materials & Optical Chemistry</h3>
-            <p>Heriot-Watt chemistry–physics research network</p>
+            <h3>Molecular Materials &amp; Optical Chemistry</h3>
+            <p>Heriot-Watt chemistry–physics collaboration</p>
           </div>
-
         </div>
 
         <div class="collaborator-list">
 
           <div class="collaborator">
             <strong>W. Edward Lindsell</strong>
-            <span>Department of Chemistry · Heriot-Watt University</span>
+            <span>
+              <b>Collaboration:</b> functional diacetylenes,
+              metal-containing polydiacetylenes and polymer chemistry.<br>
+              <b>Affiliation:</b> Department of Chemistry ·
+              Heriot-Watt University · Edinburgh, United Kingdom.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Peter N. Preston</strong>
-            <span>Department of Chemistry · Heriot-Watt University</span>
+            <span>
+              <b>Collaboration:</b> synthesis and characterization
+              of diacetylene and polydiacetylene derivatives.<br>
+              <b>Affiliation:</b> Department of Chemistry ·
+              Heriot-Watt University · Edinburgh, United Kingdom.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Peter J. Tomb</strong>
-            <span>Department of Chemistry · Heriot-Watt University</span>
+            <span>
+              <b>Collaboration:</b> functional diacetylenes,
+              polydiacetylenes and spectroscopic characterization.<br>
+              <b>Affiliation:</b> Department of Chemistry ·
+              Heriot-Watt University · Edinburgh, United Kingdom.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Ashley D. Lloyd</strong>
-            <span>Department of Physics · Heriot-Watt University</span>
+            <span>
+              <b>Collaboration:</b> optical characterization of
+              metal-containing polydiacetylenes.<br>
+              <b>Affiliation:</b> Department of Physics ·
+              Heriot-Watt University · Edinburgh, United Kingdom.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Raul Rangel-Rojo</strong>
-            <span>Department of Physics · Heriot-Watt University</span>
+            <span>
+              <b>Collaboration:</b> nonlinear optical characterization
+              of metal-containing polydiacetylenes.<br>
+              <b>Affiliation:</b> Department of Physics ·
+              Heriot-Watt University · Edinburgh, United Kingdom.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Grenville Spruce</strong>
-            <span>Department of Physics · Heriot-Watt University</span>
+            <span>
+              <b>Collaboration:</b> optical properties of
+              metal-containing polydiacetylene materials.<br>
+              <b>Affiliation:</b> Department of Physics ·
+              Heriot-Watt University · Edinburgh, United Kingdom.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Brian S. Wherrett</strong>
-            <span>Department of Physics · Heriot-Watt University</span>
+            <span>
+              <b>Collaboration:</b> nonlinear optical properties
+              of molecular and polymeric materials.<br>
+              <b>Affiliation:</b> Department of Physics ·
+              Heriot-Watt University · Edinburgh, United Kingdom.
+            </span>
           </div>
 
         </div>
@@ -824,101 +1025,106 @@ permalink: /about/
       </div>
 
 
-      <!-- GROUP 4 -->
+      <!-- 04 -->
 
       <div class="collaborator-group">
 
         <div class="collaborator-heading">
-
           <span>04</span>
-
           <div>
-            <h3>Coordination, Ligand & Spectroscopic Chemistry</h3>
-            <p>Later-career collaboration centered in Türkiye</p>
+            <h3>Benzimidazole &amp; Transition-Metal Chemistry</h3>
+            <p>Ligand synthesis, coordination chemistry and spectroscopy</p>
           </div>
-
         </div>
 
         <div class="collaborator-list">
 
           <div class="collaborator">
             <strong>Mehmet Somer</strong>
-            <span>Department of Chemistry · Koç University · Istanbul, Türkiye</span>
+            <span>
+              <b>Collaboration:</b> benzimidazole ligands,
+              Pd, Zn, Fe, Cd and Hg complexes, crystallographic
+              and vibrational characterization.<br>
+              <b>Affiliation:</b> Department of Chemistry ·
+              Koç University · Istanbul, Türkiye.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Durata Haciu</strong>
-            <span>Department of Chemistry · Koç University · Istanbul, Türkiye</span>
+            <span>
+              <b>Collaboration:</b> structural and spectroscopic
+              characterization of benzimidazole transition-metal
+              complexes.<br>
+              <b>Affiliation:</b> Department of Chemistry ·
+              Koç University · Istanbul, Türkiye.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Abdollah Neshat</strong>
-            <span>Department of Chemistry · University of Toledo · Ohio, USA</span>
+            <span>
+              <b>Collaboration:</b> benzimidazole-derived ligands
+              and Fe(II), Zn(II), Cd(II) and Hg(II) complexes.<br>
+              <b>Affiliation:</b> Department of Chemistry ·
+              University of Toledo · Toledo, Ohio, USA,
+              in the 2007 collaborative paper.
+            </span>
           </div>
 
           <div class="collaborator">
-            <strong>Başaran Dülger</strong>
-            <span>Department of Biology · Çanakkale Onsekiz Mart University · Türkiye</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Ahmet Altun</strong>
-            <span>Department of Physics · Fatih University · Istanbul, Türkiye</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Murat Türkyılmaz</strong>
-            <span>Department of Chemistry · Trakya University · Edirne, Türkiye</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Mustafa Ulvi Gürbüz</strong>
-            <span>Department of Chemistry · Fatih University · Istanbul, Türkiye</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Metin Tülü</strong>
-            <span>Macromolecular and dendritic chemistry collaborator</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Mehmet Şenel</strong>
-            <span>Coordination and macromolecular chemistry collaborator</span>
+            <strong>T. Karabıyık</strong>
+            <span>
+              <b>Collaboration:</b>
+              2,6-bis(benzimidazol-2-yl)pyridine and its
+              Fe, Zn, Cd and Hg complexes.<br>
+              <b>Affiliation:</b> Department of Chemistry ·
+              Fatih University · Istanbul, Türkiye.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Aydın Tavman</strong>
-            <span>Coordination-chemistry collaborator · Türkiye</span>
+            <span>
+              <b>Collaboration:</b> benzimidazole-derived ligands,
+              Fe(III) complexes, Raman, FT-IR and EPR spectroscopy,
+              and antimicrobial activity.<br>
+              <b>Affiliation:</b> Istanbul University ·
+              Istanbul, Türkiye, in the relevant collaborative record.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Bahri Ülküseven</strong>
-            <span>Coordination-chemistry collaborator · Türkiye</span>
+            <span>
+              <b>Collaboration:</b> benzimidazole ligands and
+              palladium coordination complexes.<br>
+              <b>Affiliation:</b> exact paper-era institutional
+              assignment not stated here without sufficiently secure
+              author-level metadata.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Abdulhadi Baykal</strong>
-            <span>Chemistry and materials collaborator · Türkiye</span>
+            <span>
+              <b>Collaboration:</b> benzimidazole-thioether ligands,
+              palladium complexes and proton-conducting
+              benzimidazole-based materials.<br>
+              <b>Affiliation:</b> exact paper-era institution
+              not assigned without sufficiently secure metadata.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Sadık Güner</strong>
-            <span>Spectroscopic and coordination-chemistry collaborator</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Fahrettin Gücin</strong>
-            <span>Biological and antimicrobial studies collaborator</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Yaghub Mahmiani</strong>
-            <span>Macrocyclic and spectroscopic chemistry collaborator</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Ayberk Yılmaz</strong>
-            <span>Spectroscopic and structural chemistry collaborator</span>
+            <span>
+              <b>Collaboration:</b> Raman, FT-IR and EPR
+              investigation of benzimidazole-derived ligands
+              and Fe(III) complexes.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
         </div>
@@ -926,56 +1132,59 @@ permalink: /about/
       </div>
 
 
-      <!-- GROUP 5 -->
+      <!-- 05 -->
 
       <div class="collaborator-group">
 
         <div class="collaborator-heading">
-
           <span>05</span>
-
           <div>
-            <h3>Macrocyclic, Biological & Computational Chemistry</h3>
-            <p>Macrocycles, bioactivity, spectroscopy and theoretical chemistry</p>
+            <h3>Macromolecular &amp; Dendritic Chemistry</h3>
+            <p>Dendrimers and multifunctional molecular systems</p>
           </div>
-
         </div>
 
         <div class="collaborator-list">
 
           <div class="collaborator">
-            <strong>Özge Paralı</strong>
-            <span>Macrocyclic chemistry collaborator and graduate researcher</span>
+            <strong>Metin Tülü</strong>
+            <span>
+              <b>Collaboration:</b> synthesis and characterization
+              of water-soluble dendritic macromolecules and
+              benzimidazole systems.<br>
+              <b>Affiliation:</b> Fatih University ·
+              Istanbul, Türkiye, in the relevant collaborative record.
+            </span>
           </div>
 
           <div class="collaborator">
-            <strong>Ömer Zaim</strong>
-            <span>Macrocyclic and cycloheterophane chemistry collaborator</span>
+            <strong>Mehmet Şenel</strong>
+            <span>
+              <b>Collaboration:</b> dendritic macromolecules,
+              coordination compounds and spectroscopic characterization.<br>
+              <b>Affiliation:</b> Fatih University ·
+              Istanbul, Türkiye, in the relevant collaborative record.
+            </span>
           </div>
 
           <div class="collaborator">
-            <strong>Çağlar Baydar</strong>
-            <span>Macrocyclic and ion-transport studies collaborator</span>
+            <strong>Cemil Dizman</strong>
+            <span>
+              <b>Collaboration:</b> synthesis and characterization
+              of water-soluble dendritic macromolecules.<br>
+              <b>Affiliation:</b> Fatih University ·
+              Istanbul, Türkiye, in the relevant collaborative record.
+            </span>
           </div>
 
           <div class="collaborator">
-            <strong>Hüseyin Çevik</strong>
-            <span>Macrocyclic chemistry collaborator and graduate researcher</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Serhat Gündüz</strong>
-            <span>Macromolecular chemistry collaborator and graduate researcher</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>H. R. F. Karabulut</strong>
-            <span>Macrocyclic chemistry collaborator</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>Eziz Kuliyev</strong>
-            <span>Vibrational spectroscopy and computational chemistry collaborator</span>
+            <strong>Tezcan Paralı</strong>
+            <span>
+              <b>Collaboration:</b> dendritic macromolecules
+              and antimicrobial investigations.<br>
+              <b>Affiliation:</b> Fatih University ·
+              Istanbul, Türkiye, in the relevant collaborative record.
+            </span>
           </div>
 
         </div>
@@ -983,141 +1192,425 @@ permalink: /about/
       </div>
 
 
-      <!-- GROUP 6 -->
+      <!-- 06 -->
 
       <div class="collaborator-group">
 
         <div class="collaborator-heading">
-
           <span>06</span>
-
           <div>
-            <h3>Additional Scientific Collaborators</h3>
-            <p>Names represented in publications and conference contributions</p>
+            <h3>Macrocyclic &amp; Biological Chemistry</h3>
+            <p>Macrocycles, cyclophanes, antimicrobial activity and ion transport</p>
+          </div>
+        </div>
+
+        <div class="collaborator-list">
+
+          <div class="collaborator">
+            <strong>Başaran Dülger</strong>
+            <span>
+              <b>Collaboration:</b> antimicrobial evaluation of
+              benzimidazole ligands, metal complexes, macrocycles
+              and dendritic compounds.<br>
+              <b>Affiliation:</b> Department of Biology ·
+              Çanakkale Onsekiz Mart University ·
+              Çanakkale, Türkiye.
+            </span>
           </div>
 
+          <div class="collaborator">
+            <strong>Yaghub Mahmiani</strong>
+            <span>
+              <b>Collaboration:</b> aza-oxo-thia macrocyclic
+              compounds, synthesis, FT-Raman, FT-IR and NMR
+              characterization.<br>
+              <b>Affiliation:</b> Fatih University ·
+              Istanbul, Türkiye, in the relevant publication record.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>Hüseyin Çevik</strong>
+            <span>
+              <b>Collaboration:</b> mixed aza-oxo-thia
+              macrocycles, structural characterization and
+              antimicrobial activity.<br>
+              <b>Affiliation:</b> Fatih University ·
+              Institute of Science · Chemistry · Istanbul, Türkiye.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>Serhat Gündüz</strong>
+            <span>
+              <b>Collaboration:</b> macrocyclic amide-containing
+              compounds, macromolecular ligands, antimicrobial
+              activity and DNA-binding studies.<br>
+              <b>Affiliation:</b> Fatih University ·
+              Institute of Science · Organic Chemistry ·
+              Istanbul, Türkiye, during graduate research.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>Özge Paralı</strong>
+            <span>
+              <b>Collaboration:</b> macrocyclic amides and imines,
+              structural characterization and antimicrobial activity.<br>
+              <b>Affiliation:</b> Fatih University ·
+              Institute of Science · Chemistry · Istanbul, Türkiye,
+              during graduate research.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>Ömer Zaim</strong>
+            <span>
+              <b>Collaboration:</b> condensed cycloheterophane
+              peptides, macrocyclic synthesis, antimicrobial activity
+              and ion-transport investigations.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved from the available author-level record.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>Çağlar Baydar</strong>
+            <span>
+              <b>Collaboration:</b> macrocyclic cycloheterophanes,
+              antimicrobial activity and ion transport.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>H. R. F. Karabulut</strong>
+            <span>
+              <b>Collaboration:</b> synthesis and antimicrobial
+              investigation of macrocyclic amide-containing compounds.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <!-- 07 -->
+
+      <div class="collaborator-group">
+
+        <div class="collaborator-heading">
+          <span>07</span>
+          <div>
+            <h3>Computational &amp; Vibrational Chemistry</h3>
+            <p>DFT, molecular structure, tautomerism and vibrational spectra</p>
+          </div>
+        </div>
+
+        <div class="collaborator-list">
+
+          <div class="collaborator">
+            <strong>Ahmet Altun</strong>
+            <span>
+              <b>Collaboration:</b> density-functional calculations,
+              X-ray structures, tautomeric preference and
+              vibrational spectroscopy of heterocyclic and
+              benzimidazole-derived systems.<br>
+              <b>Affiliation:</b> Department of Physics ·
+              Fatih University · Istanbul, Türkiye,
+              in the relevant collaborative record.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>Eziz Kuliyev</strong>
+            <span>
+              <b>Collaboration:</b> tautomeric conversion,
+              vibrational spectra and density-functional studies
+              of benzothiazole and benzothiazoline derivatives.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved in the currently available metadata.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>Murat Türkyılmaz</strong>
+            <span>
+              <b>Collaboration:</b> synthesis and spectroscopic/DFT
+              investigation of bis-benzimidazole palladium(II)
+              halide complexes.<br>
+              <b>Affiliation:</b> Department of Chemistry ·
+              Trakya University · Edirne, Türkiye.
+            </span>
+          </div>
+
+          <div class="collaborator">
+            <strong>Mustafa Ulvi Gürbüz</strong>
+            <span>
+              <b>Collaboration:</b> macrocyclic molecules,
+              bis-benzimidazole systems, Pd(II) complexes,
+              spectroscopy and antimicrobial studies.<br>
+              <b>Affiliation:</b> Department of Chemistry ·
+              Fatih University · Istanbul, Türkiye,
+              in the relevant collaborative record.
+            </span>
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <!-- 08 -->
+
+      <div class="collaborator-group">
+
+        <div class="collaborator-heading">
+          <span>08</span>
+          <div>
+            <h3>Additional Scientific Collaborators</h3>
+            <p>Publications, conference research and laboratory education</p>
+          </div>
         </div>
 
         <div class="collaborator-list compact-collaborators">
 
           <div class="collaborator">
             <strong>Cuma Bayat</strong>
-            <span>Organometallic, NMR and diacetylene studies</span>
+            <span>
+              <b>Collaboration:</b> <sup>103</sup>Rh NMR and
+              metal-containing diacetylene model complexes.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>U. Yazgıç</strong>
-            <span><sup>103</sup>Rh NMR studies</span>
+            <span>
+              <b>Collaboration:</b> spin-tickling techniques
+              and <sup>103</sup>Rh NMR parameters.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>H. Ertek</strong>
-            <span>Crystallographic and coordination chemistry</span>
+            <span>
+              <b>Collaboration:</b> palladium coordination chemistry
+              and crystallographic studies.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>H. Borrmann</strong>
-            <span>Crystallographic collaboration</span>
+            <span>
+              <b>Collaboration:</b> crystal structure determination
+              of a palladium benzimidazole-thiolato complex.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>A. Baş</strong>
-            <span>Macrocyclic chemistry</span>
+            <span>
+              <b>Collaboration:</b> mixed aza-oxo-thia macrocycles,
+              spectroscopy, cytotoxicity and DNA binding.<br>
+              <b>Affiliation:</b> individual paper-era affiliation
+              not independently resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>A. Kırcalı</strong>
-            <span>Spectroscopic and macrocyclic chemistry</span>
+            <span>
+              <b>Collaboration:</b> macrocyclic compounds,
+              spectroscopy, antimicrobial activity and DNA binding.<br>
+              <b>Affiliation:</b> individual paper-era affiliation
+              not independently resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>G. Şen</strong>
-            <span>Macrocyclic chemistry</span>
+            <span>
+              <b>Collaboration:</b> aza-oxo-thia macrocyclic
+              compounds and biological activity.<br>
+              <b>Affiliation:</b> individual paper-era affiliation
+              not independently resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>M. B. Yazıcıoğlu</strong>
-            <span>Macrocyclic and biological studies</span>
+            <span>
+              <b>Collaboration:</b> macrocyclic compounds,
+              cytotoxicity and DNA-binding investigations.<br>
+              <b>Affiliation:</b> individual paper-era affiliation
+              not independently resolved.
+            </span>
           </div>
 
           <div class="collaborator">
-            <strong>C. Dizman</strong>
-            <span>Dendritic macromolecule research</span>
+            <strong>Fahrettin Gücin</strong>
+            <span>
+              <b>Collaboration:</b> antimicrobial and biological
+              evaluation of benzimidazole-derived ligands and
+              macrocyclic systems.<br>
+              <b>Affiliation:</b> represented with Fatih University
+              in the relevant collaborative record.
+            </span>
           </div>
 
           <div class="collaborator">
-            <strong>T. Paralı</strong>
-            <span>Dendritic macromolecule research</span>
-          </div>
-
-          <div class="collaborator">
-            <strong>T. Karabıyık</strong>
-            <span>Coordination chemistry collaboration</span>
+            <strong>Ayberk Yılmaz</strong>
+            <span>
+              <b>Collaboration:</b> FT-Raman, FT-IR, NMR and
+              structural studies of benzimidazole-derived Zn(II)
+              complexes.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>İsmail Boz</strong>
-            <span>Macrocyclic coordination chemistry</span>
+            <span>
+              <b>Collaboration:</b> synthesis and characterization
+              of macrocyclic Zn(II) and Cu(II) complexes.<br>
+              <b>Affiliation:</b> conference-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>E. Aslan</strong>
-            <span>Vibrational spectroscopy</span>
+            <span>
+              <b>Collaboration:</b> FT-IR, FT-Raman and NMR studies
+              of acetylene-containing esters and polymers.<br>
+              <b>Affiliation:</b> conference-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>A. Taralp</strong>
-            <span>Diacetylene and spectroscopic studies</span>
+            <span>
+              <b>Collaboration:</b> acetylene-containing esters,
+              diacetylenes and theoretical/experimental spectroscopy.<br>
+              <b>Affiliation:</b> conference-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Ramazan Öztürk</strong>
-            <span>Coordination chemistry and laboratory-manual coauthor</span>
+            <span>
+              <b>Collaboration:</b> coordination chemistry and
+              laboratory education; coauthor of the
+              <em>Organic Chemistry Laboratory Manual</em>.<br>
+              <b>Associated institution:</b> Fatih University ·
+              Istanbul, Türkiye.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Ş. T. Günday</strong>
-            <span>Coordination and materials chemistry</span>
+            <span>
+              <b>Collaboration:</b> metal acetylacetonates and
+              benzimidazole-based proton-conducting materials.<br>
+              <b>Affiliation:</b> paper-era institution not
+              securely resolved here.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>A. Çetin</strong>
-            <span>Coordination chemistry</span>
+            <span>
+              <b>Collaboration:</b> preparation and characterization
+              of Co(III) and Mn(III) acetylacetonate complexes.<br>
+              <b>Affiliation:</b> conference-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>S. Bağdatlı</strong>
-            <span>Coordination chemistry</span>
+            <span>
+              <b>Collaboration:</b> Co(III) and Mn(III)
+              acetylacetonate coordination compounds.<br>
+              <b>Affiliation:</b> conference-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>N. İşler</strong>
-            <span>Diacetylene spectroscopy</span>
+            <span>
+              <b>Collaboration:</b> theoretical and experimental
+              spectral studies of diacetylene compounds.<br>
+              <b>Affiliation:</b> conference-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Y. Köseoğlu</strong>
-            <span>FT-Raman, FT-IR and EPR studies</span>
+            <span>
+              <b>Collaboration:</b> FT-Raman, FT-IR and EPR studies
+              of Cu(II) and Fe(III) complexes.<br>
+              <b>Affiliation:</b> conference-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>K. Gölcük</strong>
-            <span>Computational and spectroscopic studies</span>
+            <span>
+              <b>Collaboration:</b> quantum-mechanical,
+              conformational and spectroscopic studies of
+              acetylene-containing esters and diacetylenes.<br>
+              <b>Affiliation:</b> conference-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Mehmet Ergin</strong>
-            <span>Chemistry collaborator and laboratory-manual coauthor</span>
+            <span>
+              <b>Collaboration:</b> benzimidazole ligand chemistry,
+              topochemical polymerisation and laboratory education.<br>
+              <b>Associated institution:</b> Fatih University ·
+              Istanbul, Türkiye.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Sani Demiri</strong>
-            <span>Benzimidazole ligand research</span>
+            <span>
+              <b>Collaboration:</b> polyhydroxy-bis(benzimidazole)
+              ligands and their metal complexation.<br>
+              <b>Affiliation:</b> conference-era institution not
+              securely resolved.
+            </span>
           </div>
 
           <div class="collaborator">
             <strong>Ergün Gonca</strong>
-            <span>Laboratory-manual coauthor</span>
+            <span>
+              <b>Collaboration:</b> chemistry laboratory education;
+              coauthor of the <em>Organic Chemistry Laboratory Manual</em>.<br>
+              <b>Associated institution:</b> Fatih University ·
+              Istanbul, Türkiye.
+            </span>
           </div>
 
         </div>
@@ -1132,7 +1625,7 @@ permalink: /about/
 
 
 <!-- =========================================================
-     GRADUATE SUPERVISION
+     GRADUATE RESEARCH SUPERVISION
      ========================================================= -->
 
 <section class="about-block">
@@ -1147,12 +1640,15 @@ permalink: /about/
       Professor Agh-Atabay supervised graduate research spanning
       macrocyclic chemistry, macromolecular ligand systems,
       transition-metal complexes, spectroscopy, antimicrobial
-      activity and DNA-binding studies.
+      activity and DNA-binding studies. Institutional and departmental
+      information is stated at the level supported by the available
+      thesis and academic records.
     </p>
-
 
     <div class="about-student-list">
 
+
+      <!-- ZAINAB RAMZI -->
 
       <div class="about-student">
 
@@ -1163,34 +1659,55 @@ permalink: /about/
 
           <p>
             <em>
-              Synthesis, Spectral Characterization and Antimicrobial
-              Activities of New Multifunctional Hetero Macromolecular
+              Synthesis Spectral Characterization and Antimicrobial
+              Activities of New Multi Fanctional Hetero Macromolecular
               Compounds
             </em>
+          </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Not explicitly stated in
+            the supplied academic record<br>
+            <strong>Department:</strong> Not explicitly stated in
+            the supplied academic record<br>
+            <strong>Completion:</strong> June 2015
           </p>
         </div>
 
       </div>
 
+
+      <!-- JOTYAR MOHAMMED -->
 
       <div class="about-student">
 
         <div class="student-year">2015</div>
 
         <div>
-          <h3>Jotyar Mohammed</h3>
+          <h3>Jotyar Faris Mohammed</h3>
 
           <p>
             <em>
-              Synthesis, Structural Characterization and Antimicrobial
-              Properties Investigation of Novel Macrocyclic Amide-
-              and Amine-Containing Compounds
+              Synthesis, Structural Characterization, Antimicrobial
+              Properties Investigation of Novel Macrocyclic Amide
+              and Amine Containing Compounds
             </em>
+          </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Fatih University<br>
+            <strong>Institute:</strong> Institute of Science
+            (Fen Bilimleri Enstitüsü)<br>
+            <strong>Department:</strong> Chemistry<br>
+            <strong>Program:</strong> Chemistry Education<br>
+            <strong>Completion:</strong> June 2015
           </p>
         </div>
 
       </div>
 
+
+      <!-- HUSSEIN ALMUFTI -->
 
       <div class="about-student">
 
@@ -1201,15 +1718,25 @@ permalink: /about/
 
           <p>
             <em>
-              Synthesis, Characterization and Antimicrobial Properties
-              of New Hetero Macromolecules Containing Aza, Oxa and
-              Oxo Functional Groups
+              Synthesis and Characterization and Antimicrobial
+              Properties of New Hetero Macromolecules containing
+              aza, oxa, oxo functional groups
             </em>
+          </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Not explicitly stated in
+            the supplied academic record<br>
+            <strong>Department:</strong> Not explicitly stated in
+            the supplied academic record<br>
+            <strong>Completion:</strong> June 2015
           </p>
         </div>
 
       </div>
 
+
+      <!-- MUSTAFA ULVI GURBUZ -->
 
       <div class="about-student">
 
@@ -1224,10 +1751,20 @@ permalink: /about/
               Karakterizasyonu ve Antimikrobiyal Aktiviteler
             </em>
           </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Fatih University<br>
+            <strong>Institute:</strong> Institute of Science
+            (Fen Bilimleri Enstitüsü)<br>
+            <strong>Field:</strong> Chemistry<br>
+            <strong>Completion:</strong> June 2012
+          </p>
         </div>
 
       </div>
 
+
+      <!-- OZGE PARALI -->
 
       <div class="about-student">
 
@@ -1238,35 +1775,25 @@ permalink: /about/
 
           <p>
             <em>
-              Synthesis, Structural Characterization and Antimicrobial
-              Activities Investigation of Novel Macrocyclic Amide-
-              and Imine-Containing Compounds
+              Synthesis, structural characterization, antimicrobial
+              activities investigation of novel macrocyclic amide
+              and imine containing compounds
             </em>
+          </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Fatih University<br>
+            <strong>Institute:</strong> Institute of Science
+            (Fen Bilimleri Enstitüsü)<br>
+            <strong>Department:</strong> Chemistry<br>
+            <strong>Completion:</strong> February 2012
           </p>
         </div>
 
       </div>
 
 
-      <div class="about-student">
-
-        <div class="student-year">2011</div>
-
-        <div>
-          <h3>Ali Hasan Ghasemi</h3>
-
-          <p>
-            <em>
-              Characterization and Antimicrobial Activities of New
-              Drug-Like Macromolecules and Transition-Metal Complexes:
-              Microwave Irradiation and Conventional Heating Methods
-              for Their Synthesis
-            </em>
-          </p>
-        </div>
-
-      </div>
-
+      <!-- AYSE KARACA -->
 
       <div class="about-student">
 
@@ -1277,16 +1804,56 @@ permalink: /about/
 
           <p>
             <em>
-              Yeni Doğal Farmasötiklere Özdeş Makromoleküllerin ve
-              Geçiş Metali Komplekslerinin Sentezi, Yapısal
-              Karakterizasyonu, Mikrobiyal Aktiviteleri ve DNA'ya
+              Yeni Doğal Farmasotiklere Özdeş Makromolekülllerin
+              ve Geçiş Metali Komplekslerinin Sentezi, Yapısal
+              Karakterizasyonu, Mikrobiyal Aktiviteleri ve DNAya
               Bağlanma Davranışları
             </em>
+          </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Fatih University<br>
+            <strong>Institute:</strong> Institute of Science
+            (Fen Bilimleri Enstitüsü)<br>
+            <strong>Field:</strong> Chemistry<br>
+            <strong>Completion:</strong> June 2011
           </p>
         </div>
 
       </div>
 
+
+      <!-- ALI HASAN GHASEMI -->
+
+      <div class="about-student">
+
+        <div class="student-year">2011</div>
+
+        <div>
+          <h3>Ali Hasan Ghasemi</h3>
+
+          <p>
+            <em>
+              İlaçlara Benzer Yeni Makromoleküllerin ve Geçiş Metal
+              Komplekslerinin Karakterizasyonu ve Antimikrobiyal
+              Aktiviteleri, Sentezleri İçin Mikrodalga Işınlanma ve
+              Konvansiyonel Isıtma Yöntemleri
+            </em>
+          </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Fatih University<br>
+            <strong>Field:</strong> Chemistry<br>
+            <strong>Department:</strong> Not separately specified
+            in the available record<br>
+            <strong>Completion:</strong> June 2011
+          </p>
+        </div>
+
+      </div>
+
+
+      <!-- IBRAHIM SASMAZ -->
 
       <div class="about-student">
 
@@ -1298,15 +1865,25 @@ permalink: /about/
           <p>
             <em>
               Synthesis, Structural Characterization and Antimicrobial
-              Activity of Di- and Tri-Alkyne-Containing Macromolecular
-              Ligands and Their Transition-Metal Complexes Using
+              Activity of di and tri-Alkyne Containing Macromolecule
+              Ligands and Their Transition Metal Complexes Using
               NMR Technique
             </em>
+          </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Fatih University<br>
+            <strong>Institute:</strong> Institute of Science
+            (Fen Bilimleri Enstitüsü)<br>
+            <strong>Department:</strong> Chemistry<br>
+            <strong>Completion:</strong> January 2011
           </p>
         </div>
 
       </div>
 
+
+      <!-- SERHAT GUNDUZ -->
 
       <div class="about-student">
 
@@ -1317,16 +1894,26 @@ permalink: /about/
 
           <p>
             <em>
-              Synthesis, Structural Characterization, Antimicrobial
-              Activity and DNA-Binding of New Homo- and
-              Hetero-Multidentate Macromolecular Ligands and Their
-              Transition-Metal Complexes
+              Synthesis, Structural Characterization and Antimicrobial
+              Activity and DNA-Binding Of New Homo And Hetero
+              Multidentate Macromolecule Ligands And Their Transition
+              Metal Complexes
             </em>
+          </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Fatih University<br>
+            <strong>Institute:</strong> Institute of Science
+            (Fen Bilimleri Enstitüsü)<br>
+            <strong>Department:</strong> Organic Chemistry<br>
+            <strong>Completion:</strong> July 2010
           </p>
         </div>
 
       </div>
 
+
+      <!-- HUSEYIN CEVIK -->
 
       <div class="about-student">
 
@@ -1336,7 +1923,16 @@ permalink: /about/
           <h3>Hüseyin Çevik</h3>
 
           <p>
-            <em>Macrocyclic Chemistry</em>
+            <em>Macrocyclic chemistry</em>
+          </p>
+
+          <p class="student-affiliation">
+            <strong>University:</strong> Fatih University<br>
+            <strong>Institute:</strong> Institute of Science
+            (Fen Bilimleri Enstitüsü)<br>
+            <strong>Department:</strong> Chemistry<br>
+            <strong>Program:</strong> Chemistry<br>
+            <strong>Completion:</strong> September 2008
           </p>
         </div>
 
@@ -1344,10 +1940,9 @@ permalink: /about/
 
     </div>
 
-
     <a href="{{ '/teaching/' | relative_url }}"
        class="about-inline-link">
-      Teaching & supervision details →
+      Teaching &amp; supervision details →
     </a>
 
   </div>
@@ -1373,94 +1968,73 @@ permalink: /about/
       macrocyclic systems and biological activity.
     </p>
 
-
     <div class="about-project-summary">
 
-
       <div class="about-project">
-
         <span>2014–2016</span>
-
         <p>
           <strong>TÜBİTAK · Researcher</strong><br>
-          New macrocyclic Schiff-base metal complexes:
-          synthesis, structural properties and antimicrobial activity.
+          Yeni macrosiklik schiff baz metal komplekslerinin sentezi,
+          yapısının özelliklerinin ve antimikrobiyal aktivitesinin
+          incelenmesi.
         </p>
-
       </div>
 
-
       <div class="about-project">
-
         <span>2008</span>
-
         <p>
           <strong>University Research Project Fund · Project Director</strong><br>
-          Synthesis and characterization of bis-benzimidazole and
-          macrocyclic homo-/hetero-multidentate chelating ligands
-          and their transition-metal complexes.
+          Synthesis Characterization of series of Bis-benzimidazole
+          and macrocyclic homo-hetero multi-dentate chelating ligands
+          and their transition metal complex formation.
         </p>
-
       </div>
 
-
       <div class="about-project">
-
         <span>2007</span>
-
         <p>
           <strong>University Research Project Fund · Project Director</strong><br>
-          Bis-benzimidazole-derived chelating ligands,
-          transition-metal complexes and biological studies.
+          Synthesis characterization, and biological studies of series
+          of Bis-benzimidazole derivative chelating ligands and their
+          transition metal complexes.
         </p>
-
       </div>
 
-
       <div class="about-project">
-
         <span>2007</span>
-
         <p>
           <strong>University Research Project Fund · Project Director</strong><br>
-          Multi-heterodentate macromolecular ligands,
-          transition-metal complexes and biological activity.
+          Synthesis characterization, and biological activities of
+          series of multi-hetro-dentate-macromolecul ligands and their
+          transition metal complexes.
         </p>
-
       </div>
 
-
       <div class="about-project">
-
         <span>2006</span>
-
         <p>
           <strong>University Research Project Fund · Project Director</strong><br>
-          Bisbenzimidazole-derived chelating ligands,
-          transition-metal complexes and biological studies.
+          Synthesis Characterization, Biological Studies of Series of
+          Bisbenzimidazole Derivative Chelating Ligands and Their
+          Transition Metal Complexes.
         </p>
-
       </div>
 
-
       <div class="about-project">
-
         <span>2004</span>
-
         <p>
           <strong>University Research Project Fund · Project Director</strong><br>
-          Imidazole-thioether chelating ligands,
-          transition-metal complexation and biological studies.
+          Synthesis, characterization of series of imidazole thioether
+          chelating ligands, their complexation with transition metals
+          and their biological studies.
         </p>
-
       </div>
 
     </div>
 
-
     <a href="{{ '/research/' | relative_url }}"
        class="about-inline-link">
-      Research & project details →
+      Research &amp; project details →
     </a>
 
   </div>
@@ -1469,7 +2043,7 @@ permalink: /about/
 
 
 <!-- =========================================================
-     TEACHING & LABORATORY EDUCATION
+     LABORATORY EDUCATION
      ========================================================= -->
 
 <section class="about-block">
@@ -1481,12 +2055,11 @@ permalink: /about/
     <h2>Laboratory Education</h2>
 
     <p class="about-section-intro">
-      Alongside research and graduate supervision, Professor Agh-Atabay
-      contributed to laboratory-based chemistry education. A documented
-      outcome of this teaching activity is the
+      Alongside research and graduate supervision, Professor
+      Agh-Atabay contributed to laboratory-based chemistry education.
+      A documented outcome of this activity is the
       <em>Organic Chemistry Laboratory Manual</em>.
     </p>
-
 
     <div class="about-book-row">
 
@@ -1502,7 +2075,6 @@ permalink: /about/
           class="about-book-cover">
 
       </a>
-
 
       <div class="about-book-info">
 
@@ -1555,86 +2127,79 @@ permalink: /about/
       laboratory teaching and collaborative chemistry.
     </p>
 
-
     <div class="academic-output-grid">
 
-
       <div class="academic-output-item">
-
         <strong>Journal Research</strong>
-
         <p>
           Peer-reviewed research extending from early inorganic
           and organometallic chemistry to molecular materials,
           ligand chemistry, spectroscopy, macrocyclic systems,
           computational studies and biologically active compounds.
         </p>
-
       </div>
 
+      <div class="academic-output-item">
+        <strong>International Collaboration</strong>
+        <p>
+          Research networks connecting universities and researchers
+          in the United Kingdom, Türkiye and the United States.
+        </p>
+      </div>
 
       <div class="academic-output-item">
-
         <strong>Conference Research</strong>
-
         <p>
           Contributions to national and international scientific
           meetings on transition-metal chemistry, NMR,
           diacetylenes, spectroscopy, molecular structure and
           coordination compounds.
         </p>
-
       </div>
 
-
       <div class="academic-output-item">
-
         <strong>Graduate Supervision</strong>
-
         <p>
-          Ten graduate theses documented in the supplied academic
-          record, covering macrocyclic, macromolecular, coordination
-          and biologically relevant chemistry.
+          Ten graduate research projects documented in the supplied
+          academic record, spanning macrocyclic, macromolecular,
+          coordination and biologically relevant chemistry.
         </p>
-
       </div>
 
-
       <div class="academic-output-item">
-
         <strong>Research Projects</strong>
-
         <p>
           Six documented funded projects, including university
           research programmes and a TÜBİTAK-supported project.
         </p>
-
       </div>
 
-
       <div class="academic-output-item">
-
         <strong>Laboratory Education</strong>
-
         <p>
           Coauthor of the
           <em>Organic Chemistry Laboratory Manual</em>,
           Fatih University Publication 9, published in 2001.
         </p>
-
       </div>
 
-
       <div class="academic-output-item">
-
-        <strong>Interdisciplinary Collaboration</strong>
-
+        <strong>Interdisciplinary Research</strong>
         <p>
           Research connecting synthetic chemistry with physics,
           crystallography, spectroscopy, computational chemistry,
           molecular materials and biological sciences.
         </p>
+      </div>
 
+      <div class="academic-output-item">
+        <strong>Research Training</strong>
+        <p>
+          Graduate researchers trained in synthetic chemistry,
+          ligand design, transition-metal coordination,
+          macrocyclic chemistry, NMR, vibrational spectroscopy
+          and antimicrobial evaluation.
+        </p>
       </div>
 
     </div>
@@ -1659,7 +2224,7 @@ permalink: /about/
   </a>
 
   <a href="{{ '/teaching/' | relative_url }}">
-    Teaching & Supervision →
+    Teaching &amp; Supervision →
   </a>
 
 </section>
