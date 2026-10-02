@@ -1,4 +1,3 @@
-```html
 ---
 layout: page
 title: About
@@ -53,10 +52,11 @@ permalink: /about/
     <h2>Institutions & Research Career</h2>
 
     <p class="about-section-intro">
-      The available publication record documents research activity
-      associated with universities in the United Kingdom and Türkiye.
-      The chronology below includes only institutional connections
-      supported by the academic and publication record.
+      The available publication and academic record documents research
+      activity associated with universities in the United Kingdom and
+      Türkiye. The chronology below distinguishes Professor Agh-Atabay's
+      documented institutional associations from institutions represented
+      by collaborators in joint research.
     </p>
 
 
@@ -79,8 +79,9 @@ permalink: /about/
 
           <p>
             The earliest presently documented journal publication
-            involving Agh-Atabay dates to 1979 and identifies
-            N. Atabay with the University of Manchester.
+            involving Agh-Atabay dates to 1979 and associates
+            N. Atabay with the University of Manchester research
+            environment.
           </p>
 
           <p>
@@ -91,10 +92,10 @@ permalink: /about/
           </p>
 
           <div class="career-topics">
-            <span>Molybdenum chemistry</span>
-            <span>Schiff bases</span>
-            <span>Coordination chemistry</span>
-            <span>Inorganic chemistry</span>
+            <span>Molybdenum Chemistry</span>
+            <span>Schiff Bases</span>
+            <span>Coordination Chemistry</span>
+            <span>Inorganic Chemistry</span>
           </div>
 
         </div>
@@ -115,12 +116,12 @@ permalink: /about/
           <p>
             The research record during the 1980s expanded into
             phosphorus-containing organometallic compounds and
-            transition-metal NMR, including investigations of
-            <sup>103</sup>Rh and <sup>195</sup>Pt systems.
+            transition-metal NMR, including investigations involving
+            <sup>103</sup>Rh and <sup>195</sup>Pt.
           </p>
 
           <p>
-            Conference contributions from 1983 document work on
+            Scientific contributions from 1983 document work on
             spin-tickling techniques for indirect measurement of
             <sup>103</sup>Rh NMR parameters and investigations of
             rhodium and platinum nuclei in phosphorus-containing
@@ -135,9 +136,9 @@ permalink: /about/
           </p>
 
           <div class="career-topics">
-            <span>103Rh NMR</span>
-            <span>195Pt NMR</span>
-            <span>Organometallic chemistry</span>
+            <span><sup>103</sup>Rh NMR</span>
+            <span><sup>195</sup>Pt NMR</span>
+            <span>Organometallic Chemistry</span>
             <span>Molybdenum</span>
             <span>Tungsten</span>
           </div>
@@ -181,18 +182,18 @@ permalink: /about/
             A second research direction connected chemistry and
             physics through the synthesis and optical characterization
             of metal-containing diacetylenes and polydiacetylenes.
-            The 1992 <em>Journal of Materials Chemistry</em> paper,
-            for example, brought together researchers from both the
+            The 1992 <em>Journal of Materials Chemistry</em> work,
+            for example, brought together researchers from the
             Department of Chemistry and Department of Physics at
             Heriot-Watt University.
           </p>
 
           <div class="career-topics">
-            <span>Organometallic mechanisms</span>
+            <span>Organometallic Mechanisms</span>
             <span>Metallacycles</span>
             <span>Diacetylenes</span>
             <span>Polydiacetylenes</span>
-            <span>Nonlinear optical materials</span>
+            <span>Molecular Materials</span>
           </div>
 
         </div>
@@ -200,7 +201,7 @@ permalink: /about/
       </div>
 
 
-      <!-- FATIH -->
+      <!-- FATIH UNIVERSITY -->
 
       <div class="career-item">
 
@@ -236,16 +237,16 @@ permalink: /about/
             Chemistry at Fatih University as his institutional
             affiliation and show collaborations extending to other
             departments at Fatih University as well as universities
-            in Istanbul, Edirne, Çanakkale and internationally.
+            elsewhere in Türkiye and internationally.
           </p>
 
           <div class="career-topics">
-            <span>Ligand design</span>
-            <span>Metal complexes</span>
+            <span>Ligand Design</span>
+            <span>Metal Complexes</span>
             <span>Macrocycles</span>
             <span>Spectroscopy</span>
             <span>DFT</span>
-            <span>Antimicrobial chemistry</span>
+            <span>Antimicrobial Chemistry</span>
           </div>
 
         </div>
@@ -274,7 +275,7 @@ permalink: /about/
     <p class="about-section-intro">
       The publication record reflects a research programme that
       developed across several interconnected areas of inorganic,
-      organometallic, molecular and biological chemistry.
+      organometallic, molecular, computational and biological chemistry.
     </p>
 
 
@@ -411,13 +412,15 @@ permalink: /about/
     <p class="about-section-intro">
       Professor Agh-Atabay's publication record reflects collaborations
       across chemistry, physics and biological sciences. The institutions
-      below include his own documented affiliations as well as institutions
-      represented by coauthors in joint publications.
+      below include his own documented academic associations as well as
+      institutions represented by coauthors in joint publications.
     </p>
 
 
     <div class="institution-network">
 
+
+      <!-- MANCHESTER -->
 
       <div class="institution-item">
 
@@ -427,17 +430,19 @@ permalink: /about/
 
         <p>
           Early coordination-chemistry research involving
-          molybdenum(VI) Schiff-base complexes.
+          molybdenum(VI), tungsten and Schiff-base complexes.
         </p>
 
         <div class="institution-people">
-          <strong>Collaborators represented:</strong>
+          <strong>Research network:</strong>
           Charles A. McAuliffe · Francis P. McCullough ·
           S. M. Razzoki
         </div>
 
       </div>
 
+
+      <!-- HERIOT-WATT -->
 
       <div class="institution-item">
 
@@ -474,7 +479,7 @@ permalink: /about/
 
         <div class="institution-subgroup">
 
-          <strong>Organometallic & structural chemistry collaborators</strong>
+          <strong>Organometallic & Structural Chemistry Network</strong>
 
           <p>
             Jack L. Davidson · Laurence Carlton ·
@@ -486,6 +491,8 @@ permalink: /about/
 
       </div>
 
+
+      <!-- FATIH -->
 
       <div class="institution-item">
 
@@ -506,8 +513,8 @@ permalink: /about/
 
           <p>
             Naz Mohammed Agh-Atabay · Mustafa Ulvi Gürbüz ·
-            T. Karabıyık and other chemistry collaborators
-            represented in the publication and graduate-research record.
+            T. Karabıyık and other chemistry collaborators represented
+            in the publication and graduate-research record.
           </p>
 
         </div>
@@ -526,6 +533,8 @@ permalink: /about/
       </div>
 
 
+      <!-- KOC -->
+
       <div class="institution-item">
 
         <div class="institution-country">TÜRKİYE</div>
@@ -542,13 +551,15 @@ permalink: /about/
         </div>
 
         <p class="institution-note">
-          Their Koç University affiliation is explicitly identified
-          in the 2007 study of Fe(II), Zn(II), Cd(II) and Hg(II)
-          complexes of 2,6-bis(benzimidazol-2-yl)pyridine.
+          Their Koç University affiliation is documented in collaborative
+          research on transition-metal complexes of
+          2,6-bis(benzimidazol-2-yl)pyridine.
         </p>
 
       </div>
 
+
+      <!-- CANAKKALE -->
 
       <div class="institution-item">
 
@@ -567,12 +578,14 @@ permalink: /about/
 
         <p class="institution-note">
           Collaboration contributed biological and antimicrobial
-          evaluation to a number of coordination- and
+          evaluation to a number of coordination-, ligand- and
           macrocyclic-chemistry studies.
         </p>
 
       </div>
 
+
+      <!-- TRAKYA -->
 
       <div class="institution-item">
 
@@ -590,13 +603,15 @@ permalink: /about/
         </div>
 
         <p class="institution-note">
-          Documented in the 2014 study combining synthesis,
-          spectroscopy and density-functional analysis of
-          bis-benzimidazole palladium(II) complexes.
+          Documented in research combining synthesis, spectroscopy
+          and density-functional analysis of bis-benzimidazole
+          palladium(II) complexes.
         </p>
 
       </div>
 
+
+      <!-- TOLEDO -->
 
       <div class="institution-item">
 
@@ -614,7 +629,7 @@ permalink: /about/
         </div>
 
         <p class="institution-note">
-          Documented in the collaborative 2007 study of
+          Represented in collaborative research on
           benzimidazole-pyridine transition-metal complexes.
         </p>
 
@@ -628,7 +643,7 @@ permalink: /about/
 
 
 <!-- =========================================================
-     COLLABORATORS
+     RESEARCH COLLABORATORS
      ========================================================= -->
 
 <section class="about-block">
@@ -640,19 +655,20 @@ permalink: /about/
     <h2>Research Collaborators</h2>
 
     <p class="about-section-intro">
-      The names below consolidate collaborators appearing across
-      Professor Agh-Atabay's journal articles, scientific publications,
-      conference contributions and teaching work. Institutional
+      The directory below consolidates collaborators represented across
+      Professor Agh-Atabay's journal publications, scientific papers,
+      conference contributions and teaching work. Specific institutional
       affiliations are stated where they can be established from the
-      corresponding publication record; names retained as initials
-      reflect the form in which they appear in the available academic record.
+      corresponding publication record. Where the available record does
+      not securely establish an affiliation, the research relationship
+      is described without assigning an institution.
     </p>
 
 
     <div class="collaborator-directory">
 
 
-      <!-- EARLY INORGANIC -->
+      <!-- GROUP 1 -->
 
       <div class="collaborator-group">
 
@@ -662,7 +678,7 @@ permalink: /about/
 
           <div>
             <h3>Early Inorganic & Coordination Chemistry</h3>
-            <p>Manchester-era molybdenum and tungsten chemistry</p>
+            <p>Early molybdenum, tungsten and transition-metal research</p>
           </div>
 
         </div>
@@ -671,22 +687,22 @@ permalink: /about/
 
           <div class="collaborator">
             <strong>Charles A. McAuliffe</strong>
-            <span>University of Manchester · Manchester, UK</span>
+            <span>University of Manchester · Manchester, United Kingdom</span>
           </div>
 
           <div class="collaborator">
             <strong>Francis P. McCullough</strong>
-            <span>University of Manchester · Manchester, UK</span>
+            <span>University of Manchester research network · Manchester, United Kingdom</span>
           </div>
 
           <div class="collaborator">
             <strong>S. M. Razzoki</strong>
-            <span>University of Manchester · Manchester, UK</span>
+            <span>University of Manchester research network · Manchester, United Kingdom</span>
           </div>
 
           <div class="collaborator">
             <strong>William E. Hill</strong>
-            <span>Auburn University · Alabama, USA</span>
+            <span>Early inorganic-chemistry collaborator</span>
           </div>
 
           <div class="collaborator">
@@ -699,7 +715,7 @@ permalink: /about/
       </div>
 
 
-      <!-- ORGANOMETALLIC -->
+      <!-- GROUP 2 -->
 
       <div class="collaborator-group">
 
@@ -718,22 +734,22 @@ permalink: /about/
 
           <div class="collaborator">
             <strong>Jack L. Davidson</strong>
-            <span>Heriot-Watt University research network · Edinburgh, UK</span>
+            <span>Organometallic chemistry research network · United Kingdom</span>
           </div>
 
           <div class="collaborator">
             <strong>Kenneth W. Muir</strong>
-            <span>Structural chemistry / crystallography collaborator · UK</span>
+            <span>Structural chemistry and crystallography collaborator · United Kingdom</span>
           </div>
 
           <div class="collaborator">
             <strong>Graeme Douglas</strong>
-            <span>Organometallic chemistry collaborator · UK</span>
+            <span>Organometallic chemistry collaborator · United Kingdom</span>
           </div>
 
           <div class="collaborator">
             <strong>Laurence Carlton</strong>
-            <span>Organometallic chemistry collaborator · UK</span>
+            <span>Organometallic chemistry collaborator · United Kingdom</span>
           </div>
 
           <div class="collaborator">
@@ -751,7 +767,7 @@ permalink: /about/
       </div>
 
 
-      <!-- HERIOT-WATT MATERIALS -->
+      <!-- GROUP 3 -->
 
       <div class="collaborator-group">
 
@@ -761,7 +777,7 @@ permalink: /about/
 
           <div>
             <h3>Molecular Materials & Optical Chemistry</h3>
-            <p>Heriot-Watt chemistry–physics collaboration</p>
+            <p>Heriot-Watt chemistry–physics research network</p>
           </div>
 
         </div>
@@ -808,7 +824,7 @@ permalink: /about/
       </div>
 
 
-      <!-- FATIH / COORDINATION -->
+      <!-- GROUP 4 -->
 
       <div class="collaborator-group">
 
@@ -827,12 +843,12 @@ permalink: /about/
 
           <div class="collaborator">
             <strong>Mehmet Somer</strong>
-            <span>Department of Chemistry · Koç University · Istanbul</span>
+            <span>Department of Chemistry · Koç University · Istanbul, Türkiye</span>
           </div>
 
           <div class="collaborator">
             <strong>Durata Haciu</strong>
-            <span>Department of Chemistry · Koç University · Istanbul</span>
+            <span>Department of Chemistry · Koç University · Istanbul, Türkiye</span>
           </div>
 
           <div class="collaborator">
@@ -842,32 +858,32 @@ permalink: /about/
 
           <div class="collaborator">
             <strong>Başaran Dülger</strong>
-            <span>Department of Biology · Çanakkale Onsekiz Mart University · Çanakkale</span>
+            <span>Department of Biology · Çanakkale Onsekiz Mart University · Türkiye</span>
           </div>
 
           <div class="collaborator">
             <strong>Ahmet Altun</strong>
-            <span>Department of Physics · Fatih University · Istanbul</span>
+            <span>Department of Physics · Fatih University · Istanbul, Türkiye</span>
           </div>
 
           <div class="collaborator">
             <strong>Murat Türkyılmaz</strong>
-            <span>Department of Chemistry · Trakya University · Edirne</span>
+            <span>Department of Chemistry · Trakya University · Edirne, Türkiye</span>
           </div>
 
           <div class="collaborator">
             <strong>Mustafa Ulvi Gürbüz</strong>
-            <span>Department of Chemistry · Fatih University · Istanbul</span>
+            <span>Department of Chemistry · Fatih University · Istanbul, Türkiye</span>
           </div>
 
           <div class="collaborator">
             <strong>Metin Tülü</strong>
-            <span>Chemistry collaborator in macromolecular and dendritic systems</span>
+            <span>Macromolecular and dendritic chemistry collaborator</span>
           </div>
 
           <div class="collaborator">
             <strong>Mehmet Şenel</strong>
-            <span>Chemistry collaborator in coordination and macromolecular systems</span>
+            <span>Coordination and macromolecular chemistry collaborator</span>
           </div>
 
           <div class="collaborator">
@@ -882,7 +898,7 @@ permalink: /about/
 
           <div class="collaborator">
             <strong>Abdulhadi Baykal</strong>
-            <span>Chemistry / materials collaborator · Türkiye</span>
+            <span>Chemistry and materials collaborator · Türkiye</span>
           </div>
 
           <div class="collaborator">
@@ -902,7 +918,7 @@ permalink: /about/
 
           <div class="collaborator">
             <strong>Ayberk Yılmaz</strong>
-            <span>Spectroscopic / structural chemistry collaborator</span>
+            <span>Spectroscopic and structural chemistry collaborator</span>
           </div>
 
         </div>
@@ -910,7 +926,7 @@ permalink: /about/
       </div>
 
 
-      <!-- MACROCYCLES -->
+      <!-- GROUP 5 -->
 
       <div class="collaborator-group">
 
@@ -920,7 +936,7 @@ permalink: /about/
 
           <div>
             <h3>Macrocyclic, Biological & Computational Chemistry</h3>
-            <p>Macrocycles, bioactivity, spectroscopy and DFT</p>
+            <p>Macrocycles, bioactivity, spectroscopy and theoretical chemistry</p>
           </div>
 
         </div>
@@ -929,7 +945,7 @@ permalink: /about/
 
           <div class="collaborator">
             <strong>Özge Paralı</strong>
-            <span>Macrocyclic chemistry collaborator and former graduate researcher</span>
+            <span>Macrocyclic chemistry collaborator and graduate researcher</span>
           </div>
 
           <div class="collaborator">
@@ -939,17 +955,17 @@ permalink: /about/
 
           <div class="collaborator">
             <strong>Çağlar Baydar</strong>
-            <span>Macrocyclic / ion-transport studies collaborator</span>
+            <span>Macrocyclic and ion-transport studies collaborator</span>
           </div>
 
           <div class="collaborator">
             <strong>Hüseyin Çevik</strong>
-            <span>Macrocyclic chemistry collaborator and former graduate researcher</span>
+            <span>Macrocyclic chemistry collaborator and graduate researcher</span>
           </div>
 
           <div class="collaborator">
             <strong>Serhat Gündüz</strong>
-            <span>Macromolecular chemistry collaborator and former graduate researcher</span>
+            <span>Macromolecular chemistry collaborator and graduate researcher</span>
           </div>
 
           <div class="collaborator">
@@ -962,17 +978,12 @@ permalink: /about/
             <span>Vibrational spectroscopy and computational chemistry collaborator</span>
           </div>
 
-          <div class="collaborator">
-            <strong>Serkan Dursun</strong>
-            <span>Vibrational spectroscopy and molecular-structure collaborator</span>
-          </div>
-
         </div>
 
       </div>
 
 
-      <!-- ADDITIONAL RECORD -->
+      <!-- GROUP 6 -->
 
       <div class="collaborator-group">
 
@@ -989,53 +1000,125 @@ permalink: /about/
 
         <div class="collaborator-list compact-collaborators">
 
-          <div class="collaborator"><strong>Cuma Bayat</strong><span>Organometallic / NMR and diacetylene studies</span></div>
+          <div class="collaborator">
+            <strong>Cuma Bayat</strong>
+            <span>Organometallic, NMR and diacetylene studies</span>
+          </div>
 
-          <div class="collaborator"><strong>U. Yazgıç</strong><span>103Rh NMR studies</span></div>
+          <div class="collaborator">
+            <strong>U. Yazgıç</strong>
+            <span><sup>103</sup>Rh NMR studies</span>
+          </div>
 
-          <div class="collaborator"><strong>H. Ertek</strong><span>Crystallographic / coordination chemistry collaboration</span></div>
+          <div class="collaborator">
+            <strong>H. Ertek</strong>
+            <span>Crystallographic and coordination chemistry</span>
+          </div>
 
-          <div class="collaborator"><strong>H. Borrmann</strong><span>Crystallographic collaboration</span></div>
+          <div class="collaborator">
+            <strong>H. Borrmann</strong>
+            <span>Crystallographic collaboration</span>
+          </div>
 
-          <div class="collaborator"><strong>A. Baş</strong><span>Macrocyclic chemistry collaboration</span></div>
+          <div class="collaborator">
+            <strong>A. Baş</strong>
+            <span>Macrocyclic chemistry</span>
+          </div>
 
-          <div class="collaborator"><strong>A. Kırcalı</strong><span>Spectroscopic / macrocyclic chemistry collaboration</span></div>
+          <div class="collaborator">
+            <strong>A. Kırcalı</strong>
+            <span>Spectroscopic and macrocyclic chemistry</span>
+          </div>
 
-          <div class="collaborator"><strong>G. Şen</strong><span>Macrocyclic chemistry collaboration</span></div>
+          <div class="collaborator">
+            <strong>G. Şen</strong>
+            <span>Macrocyclic chemistry</span>
+          </div>
 
-          <div class="collaborator"><strong>M. B. Yazıcıoğlu</strong><span>Macrocyclic / biological studies collaboration</span></div>
+          <div class="collaborator">
+            <strong>M. B. Yazıcıoğlu</strong>
+            <span>Macrocyclic and biological studies</span>
+          </div>
 
-          <div class="collaborator"><strong>C. Dizman</strong><span>Dendritic macromolecule research</span></div>
+          <div class="collaborator">
+            <strong>C. Dizman</strong>
+            <span>Dendritic macromolecule research</span>
+          </div>
 
-          <div class="collaborator"><strong>T. Paralı</strong><span>Dendritic macromolecule research</span></div>
+          <div class="collaborator">
+            <strong>T. Paralı</strong>
+            <span>Dendritic macromolecule research</span>
+          </div>
 
-          <div class="collaborator"><strong>T. Karabıyık</strong><span>Fatih University chemistry collaboration</span></div>
+          <div class="collaborator">
+            <strong>T. Karabıyık</strong>
+            <span>Coordination chemistry collaboration</span>
+          </div>
 
-          <div class="collaborator"><strong>İsmail Boz</strong><span>Macrocyclic coordination chemistry conference collaboration</span></div>
+          <div class="collaborator">
+            <strong>İsmail Boz</strong>
+            <span>Macrocyclic coordination chemistry</span>
+          </div>
 
-          <div class="collaborator"><strong>E. Aslan</strong><span>Vibrational spectroscopy collaboration</span></div>
+          <div class="collaborator">
+            <strong>E. Aslan</strong>
+            <span>Vibrational spectroscopy</span>
+          </div>
 
-          <div class="collaborator"><strong>A. Taralp</strong><span>Diacetylene and spectroscopic studies</span></div>
+          <div class="collaborator">
+            <strong>A. Taralp</strong>
+            <span>Diacetylene and spectroscopic studies</span>
+          </div>
 
-          <div class="collaborator"><strong>Ramazan Öztürk</strong><span>Chemistry collaborator and laboratory-manual coauthor</span></div>
+          <div class="collaborator">
+            <strong>Ramazan Öztürk</strong>
+            <span>Coordination chemistry and laboratory-manual coauthor</span>
+          </div>
 
-          <div class="collaborator"><strong>Ş. T. Günday</strong><span>Coordination and materials chemistry collaboration</span></div>
+          <div class="collaborator">
+            <strong>Ş. T. Günday</strong>
+            <span>Coordination and materials chemistry</span>
+          </div>
 
-          <div class="collaborator"><strong>A. Çetin</strong><span>Coordination chemistry conference collaboration</span></div>
+          <div class="collaborator">
+            <strong>A. Çetin</strong>
+            <span>Coordination chemistry</span>
+          </div>
 
-          <div class="collaborator"><strong>S. Bağdatlı</strong><span>Coordination chemistry conference collaboration</span></div>
+          <div class="collaborator">
+            <strong>S. Bağdatlı</strong>
+            <span>Coordination chemistry</span>
+          </div>
 
-          <div class="collaborator"><strong>N. İşler</strong><span>Diacetylene spectroscopy collaboration</span></div>
+          <div class="collaborator">
+            <strong>N. İşler</strong>
+            <span>Diacetylene spectroscopy</span>
+          </div>
 
-          <div class="collaborator"><strong>Y. Köseoğlu</strong><span>FT-Raman, FT-IR and EPR studies</span></div>
+          <div class="collaborator">
+            <strong>Y. Köseoğlu</strong>
+            <span>FT-Raman, FT-IR and EPR studies</span>
+          </div>
 
-          <div class="collaborator"><strong>K. Gölcük</strong><span>Computational and spectroscopic studies</span></div>
+          <div class="collaborator">
+            <strong>K. Gölcük</strong>
+            <span>Computational and spectroscopic studies</span>
+          </div>
 
-          <div class="collaborator"><strong>Mehmet Ergin</strong><span>Chemistry collaborator and laboratory-manual coauthor</span></div>
+          <div class="collaborator">
+            <strong>Mehmet Ergin</strong>
+            <span>Chemistry collaborator and laboratory-manual coauthor</span>
+          </div>
 
-          <div class="collaborator"><strong>Sani Demiri</strong><span>Benzimidazole ligand research</span></div>
+          <div class="collaborator">
+            <strong>Sani Demiri</strong>
+            <span>Benzimidazole ligand research</span>
+          </div>
 
-          <div class="collaborator"><strong>Ergün Gonca</strong><span>Laboratory-manual coauthor</span></div>
+          <div class="collaborator">
+            <strong>Ergün Gonca</strong>
+            <span>Laboratory-manual coauthor</span>
+          </div>
 
         </div>
 
@@ -1293,72 +1376,92 @@ permalink: /about/
 
     <div class="about-project-summary">
 
+
       <div class="about-project">
+
         <span>2014–2016</span>
+
         <p>
-          <strong>TÜBİTAK research project</strong><br>
+          <strong>TÜBİTAK · Researcher</strong><br>
           New macrocyclic Schiff-base metal complexes:
           synthesis, structural properties and antimicrobial activity.
-          Professor Agh-Atabay participated as a researcher.
         </p>
+
       </div>
 
 
       <div class="about-project">
+
         <span>2008</span>
+
         <p>
-          <strong>University Research Project Fund</strong><br>
-          Bis-benzimidazole and macrocyclic homo-/hetero-multidentate
-          chelating ligands and their transition-metal complexes.
-          Project Director.
+          <strong>University Research Project Fund · Project Director</strong><br>
+          Synthesis and characterization of bis-benzimidazole and
+          macrocyclic homo-/hetero-multidentate chelating ligands
+          and their transition-metal complexes.
         </p>
+
       </div>
 
 
       <div class="about-project">
+
         <span>2007</span>
+
         <p>
-          <strong>University Research Project Fund</strong><br>
+          <strong>University Research Project Fund · Project Director</strong><br>
           Bis-benzimidazole-derived chelating ligands,
           transition-metal complexes and biological studies.
-          Project Director.
         </p>
+
       </div>
 
 
       <div class="about-project">
+
         <span>2007</span>
+
         <p>
-          <strong>University Research Project Fund</strong><br>
+          <strong>University Research Project Fund · Project Director</strong><br>
           Multi-heterodentate macromolecular ligands,
           transition-metal complexes and biological activity.
-          Project Director.
         </p>
+
       </div>
 
 
       <div class="about-project">
+
         <span>2006</span>
+
         <p>
-          <strong>University Research Project Fund</strong><br>
+          <strong>University Research Project Fund · Project Director</strong><br>
           Bisbenzimidazole-derived chelating ligands,
           transition-metal complexes and biological studies.
-          Project Director.
         </p>
+
       </div>
 
 
       <div class="about-project">
+
         <span>2004</span>
+
         <p>
-          <strong>University Research Project Fund</strong><br>
+          <strong>University Research Project Fund · Project Director</strong><br>
           Imidazole-thioether chelating ligands,
           transition-metal complexation and biological studies.
-          Project Director.
         </p>
+
       </div>
 
     </div>
+
+
+    <a href="{{ '/research/' | relative_url }}"
+       class="about-inline-link">
+      Research & project details →
+    </a>
 
   </div>
 
@@ -1366,7 +1469,7 @@ permalink: /about/
 
 
 <!-- =========================================================
-     TEACHING WORK
+     TEACHING & LABORATORY EDUCATION
      ========================================================= -->
 
 <section class="about-block">
@@ -1377,6 +1480,186 @@ permalink: /about/
 
     <h2>Laboratory Education</h2>
 
+    <p class="about-section-intro">
+      Alongside research and graduate supervision, Professor Agh-Atabay
+      contributed to laboratory-based chemistry education. A documented
+      outcome of this teaching activity is the
+      <em>Organic Chemistry Laboratory Manual</em>.
+    </p>
+
+
     <div class="about-book-row">
 
-      <
+      <a href="{{ '/assets/images/atabay-book.jpeg' | relative_url }}"
+         target="_blank"
+         rel="noopener"
+         class="about-book-link"
+         aria-label="View Organic Chemistry Laboratory Manual cover">
+
+        <img
+          src="{{ '/assets/images/atabay-book.jpeg' | relative_url }}"
+          alt="Cover of Organic Chemistry Laboratory Manual"
+          class="about-book-cover">
+
+      </a>
+
+
+      <div class="about-book-info">
+
+        <h3>Organic Chemistry Laboratory Manual</h3>
+
+        <p class="about-book-authors">
+          Naz M. Agh-Atabay · Mehmet Ergin ·
+          Ergün Gonca · Ramazan Öztürk
+        </p>
+
+        <p>
+          Professor Agh-Atabay was a coauthor of the
+          <em>Organic Chemistry Laboratory Manual</em>,
+          published in Istanbul in 2001 as
+          Fatih University Publication 9.
+        </p>
+
+        <div class="about-book-meta">
+          <span>Fatih University</span>
+          <span>Istanbul</span>
+          <span>2001</span>
+          <span>Publication 9</span>
+          <span>ISBN 975-303-009-6</span>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- =========================================================
+     ACADEMIC CONTRIBUTIONS
+     ========================================================= -->
+
+<section class="about-block">
+
+  <div class="about-label">SCHOLARSHIP</div>
+
+  <div class="about-content">
+
+    <h2>Academic Contributions</h2>
+
+    <p class="about-section-intro">
+      Taken together, the academic record reflects contributions
+      across research, scientific communication, graduate education,
+      laboratory teaching and collaborative chemistry.
+    </p>
+
+
+    <div class="academic-output-grid">
+
+
+      <div class="academic-output-item">
+
+        <strong>Journal Research</strong>
+
+        <p>
+          Peer-reviewed research extending from early inorganic
+          and organometallic chemistry to molecular materials,
+          ligand chemistry, spectroscopy, macrocyclic systems,
+          computational studies and biologically active compounds.
+        </p>
+
+      </div>
+
+
+      <div class="academic-output-item">
+
+        <strong>Conference Research</strong>
+
+        <p>
+          Contributions to national and international scientific
+          meetings on transition-metal chemistry, NMR,
+          diacetylenes, spectroscopy, molecular structure and
+          coordination compounds.
+        </p>
+
+      </div>
+
+
+      <div class="academic-output-item">
+
+        <strong>Graduate Supervision</strong>
+
+        <p>
+          Ten graduate theses documented in the supplied academic
+          record, covering macrocyclic, macromolecular, coordination
+          and biologically relevant chemistry.
+        </p>
+
+      </div>
+
+
+      <div class="academic-output-item">
+
+        <strong>Research Projects</strong>
+
+        <p>
+          Six documented funded projects, including university
+          research programmes and a TÜBİTAK-supported project.
+        </p>
+
+      </div>
+
+
+      <div class="academic-output-item">
+
+        <strong>Laboratory Education</strong>
+
+        <p>
+          Coauthor of the
+          <em>Organic Chemistry Laboratory Manual</em>,
+          Fatih University Publication 9, published in 2001.
+        </p>
+
+      </div>
+
+
+      <div class="academic-output-item">
+
+        <strong>Interdisciplinary Collaboration</strong>
+
+        <p>
+          Research connecting synthetic chemistry with physics,
+          crystallography, spectroscopy, computational chemistry,
+          molecular materials and biological sciences.
+        </p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- =========================================================
+     NAVIGATION
+     ========================================================= -->
+
+<section class="about-links">
+
+  <a href="{{ '/research/' | relative_url }}">
+    Research →
+  </a>
+
+  <a href="{{ '/publications/' | relative_url }}">
+    Complete Publications →
+  </a>
+
+  <a href="{{ '/teaching/' | relative_url }}">
+    Teaching & Supervision →
+  </a>
+
+</section>
