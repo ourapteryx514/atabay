@@ -31,33 +31,24 @@ body {
 
 .site-header {
   min-height: 64px;
-
   border-top: 0;
   border-bottom: 1px solid #e8e8e8;
-
   background: #fff;
 }
 
 .custom-header {
   display: flex;
   align-items: center;
-
   min-height: 64px;
 }
-
-
-/* Site name */
 
 .custom-header .site-title,
 .custom-header .site-title:visited {
   margin: 0;
-
   color: #2b2b2b;
-
   font-size: 18px;
   font-weight: 600;
   line-height: normal;
-
   text-decoration: none;
 }
 
@@ -80,7 +71,6 @@ body {
   margin-left: auto;
 
   position: static;
-
   line-height: normal;
 
   border: 0;
@@ -90,10 +80,8 @@ body {
 .custom-nav a,
 .custom-nav a:visited {
   color: #444;
-
   font-size: 14px;
   font-weight: 400;
-
   text-decoration: none;
   white-space: nowrap;
 }
@@ -110,23 +98,17 @@ body {
 
 .menu-toggle {
   display: none;
-
   padding: 8px;
-
   border: 0;
   background: none;
-
   cursor: pointer;
 }
 
 .menu-toggle span {
   display: block;
-
   width: 23px;
   height: 2px;
-
   margin: 5px 0;
-
   background: #333;
 }
 
@@ -140,14 +122,10 @@ body {
   grid-template-columns: 260px 1fr;
 
   gap: 42px;
-
   align-items: center;
 
   padding: 28px 0 32px;
 }
-
-
-/* Portrait */
 
 .hero-photo-wrap {
   position: relative;
@@ -157,7 +135,6 @@ body {
   content: "";
 
   position: absolute;
-
   top: 9px;
   left: -9px;
 
@@ -180,9 +157,6 @@ body {
 
   border-radius: 6px;
 }
-
-
-/* Hero text */
 
 .hero-eyebrow {
   margin: 0 0 5px;
@@ -219,9 +193,6 @@ body {
   line-height: 1.55;
 }
 
-
-/* Research tags */
-
 .hero-tags {
   display: flex;
   flex-wrap: wrap;
@@ -244,9 +215,6 @@ body {
   border-radius: 20px;
 }
 
-
-/* Former affiliation */
-
 .hero-affiliation {
   margin: 0 0 14px;
 
@@ -255,9 +223,6 @@ body {
   font-size: 13px;
   line-height: 1.5;
 }
-
-
-/* Hero links */
 
 .hero-links {
   display: flex;
@@ -290,9 +255,7 @@ body {
 
 .primary-link:hover {
   color: #fff;
-
   background: #111;
-
   text-decoration: none;
 }
 
@@ -327,9 +290,6 @@ body {
   border-top: 1px solid #e8e8e8;
 }
 
-
-/* Small section label */
-
 .section-label {
   padding-top: 5px;
 
@@ -340,9 +300,6 @@ body {
 
   letter-spacing: 1.3px;
 }
-
-
-/* Main section content */
 
 .section-content h2 {
   margin: 0 0 11px;
@@ -379,7 +336,7 @@ body {
 
 
 /* =========================================================
-   RESEARCH CARDS
+   HOMEPAGE RESEARCH CARDS
    ========================================================= */
 
 .research-grid {
@@ -403,7 +360,6 @@ body {
   padding: 18px;
 
   color: #333;
-
   background: #fafafa;
 
   border: 1px solid #e7e7e7;
@@ -558,6 +514,269 @@ body {
 
 
 /* =========================================================
+   RESEARCH PAGE
+   ========================================================= */
+
+.research-intro {
+  max-width: 820px;
+
+  margin-bottom: 18px;
+
+  color: #444;
+
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.research-intro p {
+  margin: 0;
+}
+
+.research-area {
+  display: grid;
+  grid-template-columns: 55px 1fr;
+
+  gap: 20px;
+
+  padding: 21px 0;
+
+  border-top: 1px solid #e8e8e8;
+}
+
+.research-area-number {
+  padding-top: 4px;
+
+  color: #aaa;
+
+  font-size: 11px;
+  font-weight: 600;
+
+  letter-spacing: 1px;
+}
+
+.research-area-content h2 {
+  margin: 0 0 8px;
+
+  color: #292929;
+
+  font-size: 21px;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+.research-area-content p {
+  max-width: 780px;
+
+  margin: 0 0 8px;
+
+  color: #444;
+
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.research-keywords {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 6px;
+
+  margin-top: 11px;
+}
+
+.research-keywords span {
+  padding: 3px 9px;
+
+  color: #666;
+
+  font-size: 11px;
+
+  background: #f5f5f5;
+
+  border: 1px solid #e6e6e6;
+  border-radius: 20px;
+}
+
+.research-footer-link {
+  padding-top: 17px;
+
+  border-top: 1px solid #e8e8e8;
+
+  text-align: right;
+}
+
+.research-footer-link a,
+.research-footer-link a:visited {
+  color: #333;
+
+  font-size: 14px;
+  font-weight: 500;
+
+  text-decoration: none;
+}
+
+.research-footer-link a:hover {
+  color: #000;
+}
+
+
+/* =========================================================
+   PUBLICATIONS PAGE
+   ========================================================= */
+
+.publications-intro {
+  max-width: 820px;
+
+  margin-bottom: 18px;
+
+  color: #444;
+
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.publications-intro p {
+  margin: 0;
+}
+
+
+/* Journal Articles / Conference Contributions */
+
+.publications-intro + h2 {
+  margin-top: 22px;
+}
+
+
+/* Publication year */
+
+.pub-year {
+  margin-top: 24px;
+  margin-bottom: 0;
+
+  padding-bottom: 5px;
+
+  color: #777;
+
+  font-size: 13px;
+  font-weight: 600;
+
+  letter-spacing: 0.5px;
+
+  border-bottom: 1px solid #dcdcdc;
+}
+
+.post-content h2 + .pub-year {
+  margin-top: 12px;
+}
+
+
+/* Individual publication */
+
+.publication {
+  position: relative;
+
+  padding: 13px 6px 13px 19px;
+
+  border-bottom: 1px solid #eeeeee;
+
+  color: #444;
+
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.publication::before {
+  content: "";
+
+  position: absolute;
+
+  top: 16px;
+  left: 0;
+
+  width: 3px;
+  height: 17px;
+
+  background: #d2d2d2;
+
+  border-radius: 2px;
+}
+
+.publication strong {
+  color: #292929;
+  font-weight: 600;
+}
+
+.publication em {
+  color: #555;
+}
+
+.publication p {
+  margin: 0;
+}
+
+
+/* DOI */
+
+.pub-doi {
+  display: inline-block;
+
+  margin-top: 3px;
+
+  color: #888;
+
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.pub-doi a,
+.pub-doi a:visited {
+  color: #666;
+
+  text-decoration: none;
+}
+
+.pub-doi a:hover {
+  color: #222;
+
+  text-decoration: underline;
+}
+
+
+/* Conference heading after journal list */
+
+.pub-year + h2,
+.publication + h2 {
+  margin-top: 28px;
+}
+
+
+/* Publication hover */
+
+@media (hover: hover) {
+
+  .publication {
+    transition:
+      background 0.15s ease,
+      padding-left 0.15s ease;
+  }
+
+  .publication:hover {
+    padding-left: 23px;
+
+    background: #fafafa;
+  }
+
+  .publication::before {
+    transition: background 0.15s ease;
+  }
+
+  .publication:hover::before {
+    background: #999;
+  }
+}
+
+
+/* =========================================================
    GENERAL LINKS
    ========================================================= */
 
@@ -598,120 +817,7 @@ a:hover {
   font-size: 12px;
 }
 
-/* =========================================================
-   RESEARCH PAGE
-   ========================================================= */
 
-.research-intro {
-  max-width: 820px;
-
-  margin-bottom: 24px;
-
-  color: #444;
-
-  font-size: 17px;
-  line-height: 1.65;
-}
-
-.research-intro p {
-  margin: 0;
-}
-
-
-/* Individual research areas */
-
-.research-area {
-  display: grid;
-  grid-template-columns: 55px 1fr;
-
-  gap: 20px;
-
-  padding: 24px 0;
-
-  border-top: 1px solid #e8e8e8;
-}
-
-.research-area-number {
-  padding-top: 4px;
-
-  color: #aaa;
-
-  font-size: 11px;
-  font-weight: 600;
-
-  letter-spacing: 1px;
-}
-
-.research-area-content h2 {
-  margin: 0 0 10px;
-
-  color: #292929;
-
-  font-size: 21px;
-  line-height: 1.3;
-  font-weight: 600;
-}
-
-.research-area-content p {
-  max-width: 780px;
-
-  margin: 0 0 9px;
-
-  color: #444;
-
-  font-size: 15px;
-  line-height: 1.65;
-}
-
-
-/* Research keywords */
-
-.research-keywords {
-  display: flex;
-  flex-wrap: wrap;
-
-  gap: 6px;
-
-  margin-top: 13px;
-}
-
-.research-keywords span {
-  padding: 3px 9px;
-
-  color: #666;
-
-  font-size: 11px;
-
-  background: #f5f5f5;
-
-  border: 1px solid #e6e6e6;
-  border-radius: 20px;
-}
-
-
-/* Publications link */
-
-.research-footer-link {
-  padding-top: 20px;
-
-  border-top: 1px solid #e8e8e8;
-
-  text-align: right;
-}
-
-.research-footer-link a,
-.research-footer-link a:visited {
-  color: #333;
-
-  font-size: 14px;
-  font-weight: 500;
-
-  text-decoration: none;
-}
-
-.research-footer-link a:hover {
-  color: #000;
-}
 /* =========================================================
    TABLET
    ========================================================= */
@@ -759,47 +865,7 @@ a:hover {
    ========================================================= */
 
 @media screen and (max-width: 800px) {
-  /* ---------- Research page ---------- */
 
-  .research-intro {
-    margin-bottom: 18px;
-
-    font-size: 16px;
-  }
-
-  .research-area {
-    grid-template-columns: 35px 1fr;
-
-    gap: 10px;
-
-    padding: 20px 0;
-
-    text-align: left;
-  }
-
-  .research-area-number {
-    font-size: 10px;
-  }
-
-  .research-area-content h2 {
-    margin-bottom: 8px;
-
-    font-size: 19px;
-  }
-
-  .research-area-content p {
-    font-size: 14px;
-  }
-
-  .research-keywords {
-    margin-top: 11px;
-  }
-
-  .research-footer-link {
-    padding-top: 17px;
-
-    text-align: left;
-  }
   /* ---------- Header ---------- */
 
   .site-header {
@@ -959,9 +1025,6 @@ a:hover {
     text-align: center;
   }
 
-
-  /* ---------- Research tags ---------- */
-
   .hero-tags {
     justify-content: center;
 
@@ -974,9 +1037,6 @@ a:hover {
     font-size: 10px;
   }
 
-
-  /* ---------- Affiliation ---------- */
-
   .hero-affiliation {
     margin-bottom: 12px;
 
@@ -985,9 +1045,6 @@ a:hover {
 
     text-align: center;
   }
-
-
-  /* ---------- Hero links ---------- */
 
   .hero-links {
     justify-content: center;
@@ -1034,7 +1091,7 @@ a:hover {
   }
 
 
-  /* ---------- Research cards ---------- */
+  /* ---------- Homepage research cards ---------- */
 
   .research-grid {
     grid-template-columns: 1fr;
@@ -1116,6 +1173,90 @@ a:hover {
   }
 
 
+  /* ---------- Research page ---------- */
+
+  .research-intro {
+    margin-bottom: 15px;
+
+    font-size: 15px;
+  }
+
+  .research-area {
+    grid-template-columns: 35px 1fr;
+
+    gap: 10px;
+
+    padding: 18px 0;
+
+    text-align: left;
+  }
+
+  .research-area-number {
+    font-size: 10px;
+  }
+
+  .research-area-content h2 {
+    margin-bottom: 7px;
+
+    font-size: 19px;
+  }
+
+  .research-area-content p {
+    font-size: 14px;
+  }
+
+  .research-keywords {
+    margin-top: 9px;
+  }
+
+  .research-footer-link {
+    padding-top: 15px;
+
+    text-align: left;
+  }
+
+
+  /* ---------- Publications page ---------- */
+
+  .publications-intro {
+    margin-bottom: 15px;
+
+    font-size: 15px;
+  }
+
+  .pub-year {
+    margin-top: 20px;
+
+    padding-bottom: 5px;
+
+    font-size: 12px;
+  }
+
+  .post-content h2 + .pub-year {
+    margin-top: 10px;
+  }
+
+  .publication {
+    padding: 11px 3px 11px 16px;
+
+    font-size: 13px;
+    line-height: 1.55;
+  }
+
+  .publication::before {
+    top: 14px;
+
+    width: 2px;
+    height: 15px;
+  }
+
+  .pub-doi {
+    margin-top: 2px;
+
+    font-size: 11px;
+  }
+
+
   /* ---------- Footer ---------- */
 
   .site-footer {
@@ -1174,6 +1315,10 @@ a:hover {
 
   .lead-text {
     font-size: 15px;
+  }
+
+  .publication {
+    padding-left: 14px;
   }
 
   .site-footer {
