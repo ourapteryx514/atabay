@@ -4,6 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# publications
+# Publications
 
-Content coming soon.
+Selected journal articles, conference publications, books, and other scholarly works by Professor Naz Mohammed Agh-Atabay will be listed here.
