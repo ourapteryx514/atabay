@@ -1027,6 +1027,23 @@ permalink: /publications/
   Conference Contributions
 </h2>
 
+<div class="pub-year">2013</div>
+
+<div class="publication conference-publication">
+  <div class="pub-authors">
+    Mustafa Ulvi Gürbüz, Naz M. Agh-Atabay, M. Amir.
+  </div>
+
+  <div class="pub-title">
+    “Synthesis, structural characterization, antimicrobial properties
+    and ion transportation investigations of four new [1+1] condensed
+    12-membered cyclophane amides.”
+  </div>
+
+  <div class="pub-journal">
+    <em>Conference poster</em>, 2013.
+  </div>
+</div>
 
 <div class="pub-year">2006</div>
 
