@@ -4,8 +4,4 @@ title: Research
 permalink: /research/
 ---
 
-# Research
-
-This page presents the research interests and scientific contributions of Professor Naz Mohammed Agh-Atabay.
-
-Research areas and selected topics will be added here.
+This page presents the research interests, scientific contributions, and major areas of work of Professor Naz Mohammed Agh-Atabay.
