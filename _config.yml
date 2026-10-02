@@ -6,6 +6,7 @@ url: "https://ourapteryx514.github.io"
 theme: minima
 
 header_pages:
+  - index.md
   - about.md
   - research.md
   - publications.md
