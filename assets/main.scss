@@ -21,6 +21,7 @@ body {
 
 .page-content {
   padding-top: 0;
+  padding-bottom: 0;
 }
 
 
@@ -29,16 +30,19 @@ body {
    ========================================================= */
 
 .site-header {
-  min-height: 68px;
+  min-height: 64px;
+
   border-top: 0;
   border-bottom: 1px solid #e8e8e8;
+
   background: #fff;
 }
 
 .custom-header {
   display: flex;
   align-items: center;
-  min-height: 68px;
+
+  min-height: 64px;
 }
 
 
@@ -47,10 +51,13 @@ body {
 .custom-header .site-title,
 .custom-header .site-title:visited {
   margin: 0;
+
   color: #2b2b2b;
-  font-size: 19px;
+
+  font-size: 18px;
   font-weight: 600;
   line-height: normal;
+
   text-decoration: none;
 }
 
@@ -73,6 +80,7 @@ body {
   margin-left: auto;
 
   position: static;
+
   line-height: normal;
 
   border: 0;
@@ -82,8 +90,10 @@ body {
 .custom-nav a,
 .custom-nav a:visited {
   color: #444;
+
   font-size: 14px;
   font-weight: 400;
+
   text-decoration: none;
   white-space: nowrap;
 }
@@ -100,17 +110,23 @@ body {
 
 .menu-toggle {
   display: none;
+
   padding: 8px;
+
   border: 0;
   background: none;
+
   cursor: pointer;
 }
 
 .menu-toggle span {
   display: block;
+
   width: 23px;
   height: 2px;
+
   margin: 5px 0;
+
   background: #333;
 }
 
@@ -122,10 +138,12 @@ body {
 .academic-hero {
   display: grid;
   grid-template-columns: 260px 1fr;
-  gap: 45px;
+
+  gap: 42px;
+
   align-items: center;
 
-  padding: 42px 0 48px;
+  padding: 28px 0 32px;
 }
 
 
@@ -139,8 +157,9 @@ body {
   content: "";
 
   position: absolute;
-  top: 10px;
-  left: -10px;
+
+  top: 9px;
+  left: -9px;
 
   width: 100%;
   height: 100%;
@@ -166,7 +185,7 @@ body {
 /* Hero text */
 
 .hero-eyebrow {
-  margin: 0 0 8px;
+  margin: 0 0 5px;
 
   color: #777;
 
@@ -178,7 +197,7 @@ body {
 }
 
 .hero-content h1 {
-  margin: 0 0 14px;
+  margin: 0 0 10px;
 
   color: #202020;
 
@@ -192,12 +211,12 @@ body {
 .hero-description {
   max-width: 680px;
 
-  margin: 0 0 16px;
+  margin: 0 0 11px;
 
   color: #4e4e4e;
 
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.55;
 }
 
 
@@ -209,11 +228,11 @@ body {
 
   gap: 6px;
 
-  margin: 0 0 18px;
+  margin: 0 0 12px;
 }
 
 .hero-tags span {
-  padding: 4px 9px;
+  padding: 3px 9px;
 
   color: #555;
 
@@ -229,12 +248,12 @@ body {
 /* Former affiliation */
 
 .hero-affiliation {
-  margin: 0 0 20px;
+  margin: 0 0 14px;
 
   color: #777;
 
   font-size: 13px;
-  line-height: 1.55;
+  line-height: 1.5;
 }
 
 
@@ -244,7 +263,7 @@ body {
   display: flex;
   align-items: center;
 
-  gap: 22px;
+  gap: 21px;
 }
 
 .hero-links a {
@@ -255,7 +274,7 @@ body {
 .primary-link:visited {
   display: inline-block;
 
-  padding: 9px 17px;
+  padding: 8px 16px;
 
   color: #fff;
 
@@ -265,11 +284,15 @@ body {
 
   font-size: 13px;
   font-weight: 500;
+
+  text-decoration: none;
 }
 
 .primary-link:hover {
   color: #fff;
+
   background: #111;
+
   text-decoration: none;
 }
 
@@ -299,16 +322,16 @@ body {
 
   gap: 35px;
 
-  padding: 42px 0;
+  padding: 28px 0;
 
   border-top: 1px solid #e8e8e8;
 }
 
 
-/* Small section labels */
+/* Small section label */
 
 .section-label {
-  padding-top: 6px;
+  padding-top: 5px;
 
   color: #999;
 
@@ -322,7 +345,7 @@ body {
 /* Main section content */
 
 .section-content h2 {
-  margin: 0 0 16px;
+  margin: 0 0 11px;
 
   color: #242424;
 
@@ -336,16 +359,22 @@ body {
 .section-content > p {
   max-width: 780px;
 
-  margin-bottom: 14px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.section-content > p:last-of-type {
+  margin-bottom: 0;
 }
 
 .lead-text {
-  margin-bottom: 17px;
+  margin-top: 0;
+  margin-bottom: 12px !important;
 
   color: #3d3d3d;
 
   font-size: 17px;
-  line-height: 1.55;
+  line-height: 1.5;
 }
 
 
@@ -359,7 +388,7 @@ body {
 
   gap: 12px;
 
-  margin-top: 24px;
+  margin-top: 17px;
 }
 
 .research-card,
@@ -369,9 +398,9 @@ body {
   display: flex;
   flex-direction: column;
 
-  min-height: 220px;
+  min-height: 205px;
 
-  padding: 20px;
+  padding: 18px;
 
   color: #333;
 
@@ -401,33 +430,33 @@ body {
 }
 
 .card-number {
-  margin-bottom: 17px;
+  margin-bottom: 12px;
 
   color: #aaa;
 
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 600;
 
   letter-spacing: 1px;
 }
 
 .research-card h3 {
-  margin: 0 0 11px;
+  margin: 0 0 9px;
 
   color: #292929;
 
   font-size: 17px;
-  line-height: 1.35;
+  line-height: 1.3;
   font-weight: 600;
 }
 
 .research-card p {
-  margin: 0 0 18px;
+  margin: 0 0 12px;
 
   color: #666;
 
   font-size: 13px;
-  line-height: 1.6;
+  line-height: 1.55;
 }
 
 .card-arrow {
@@ -435,7 +464,7 @@ body {
 
   color: #555;
 
-  font-size: 18px;
+  font-size: 17px;
 }
 
 
@@ -449,7 +478,7 @@ body {
 
   gap: 24px;
 
-  margin-top: 21px;
+  margin-top: 14px;
 }
 
 .section-links a,
@@ -473,11 +502,16 @@ body {
    ========================================================= */
 
 .post {
-  padding-top: 32px;
+  padding-top: 26px;
+}
+
+.post-header {
+  margin-bottom: 18px;
 }
 
 .post-title {
-  margin-bottom: 24px;
+  margin-top: 0;
+  margin-bottom: 0;
 
   color: #242424;
 
@@ -489,13 +523,20 @@ body {
 }
 
 .post-content {
+  margin-bottom: 0;
+
   font-size: 15px;
   line-height: 1.65;
 }
 
+.post-content p {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
 .post-content h2 {
-  margin-top: 32px;
-  margin-bottom: 14px;
+  margin-top: 26px;
+  margin-bottom: 10px;
 
   color: #292929;
 
@@ -505,8 +546,8 @@ body {
 }
 
 .post-content h3 {
-  margin-top: 25px;
-  margin-bottom: 10px;
+  margin-top: 21px;
+  margin-bottom: 8px;
 
   color: #333;
 
@@ -539,8 +580,8 @@ a:hover {
    ========================================================= */
 
 .site-footer {
-  margin-top: 42px;
-  padding: 20px 0;
+  margin-top: 20px;
+  padding: 16px 0;
 
   border-top: 1px solid #eeeeee;
 }
@@ -567,7 +608,9 @@ a:hover {
   .academic-hero {
     grid-template-columns: 235px 1fr;
 
-    gap: 35px;
+    gap: 32px;
+
+    padding: 25px 0 28px;
   }
 
   .hero-photo {
@@ -582,8 +625,14 @@ a:hover {
     font-size: 15px;
   }
 
+  .home-section {
+    gap: 28px;
+
+    padding: 25px 0;
+  }
+
   .research-card {
-    padding: 17px;
+    padding: 16px;
   }
 
   .research-card h3 {
@@ -598,12 +647,10 @@ a:hover {
 
 @media screen and (max-width: 800px) {
 
-  /* -------------------------------------------------------
-     Header
-     ------------------------------------------------------- */
+  /* ---------- Header ---------- */
 
   .site-header {
-    min-height: 60px;
+    min-height: 58px;
   }
 
   .custom-header {
@@ -613,7 +660,7 @@ a:hover {
     flex-direction: row;
     align-items: center;
 
-    min-height: 60px;
+    min-height: 58px;
 
     padding-top: 0;
     padding-bottom: 0;
@@ -626,9 +673,7 @@ a:hover {
   }
 
 
-  /* -------------------------------------------------------
-     Hamburger
-     ------------------------------------------------------- */
+  /* ---------- Hamburger ---------- */
 
   .menu-toggle {
     display: block;
@@ -637,22 +682,20 @@ a:hover {
   }
 
 
-  /* -------------------------------------------------------
-     Mobile navigation
-     ------------------------------------------------------- */
+  /* ---------- Mobile navigation ---------- */
 
   .custom-nav {
     display: none;
 
     position: absolute;
 
-    top: 60px;
+    top: 58px;
     right: 15px;
 
     width: 180px;
 
     margin: 0;
-    padding: 8px 0;
+    padding: 7px 0;
 
     flex-direction: column;
     align-items: stretch;
@@ -677,7 +720,7 @@ a:hover {
   .custom-nav a:visited {
     display: block;
 
-    padding: 8px 16px;
+    padding: 7px 15px;
 
     color: #333;
 
@@ -694,35 +737,33 @@ a:hover {
   }
 
 
-  /* -------------------------------------------------------
-     Homepage hero
-     ------------------------------------------------------- */
+  /* ---------- Homepage hero ---------- */
 
   .academic-hero {
     display: flex;
     flex-direction: column;
 
-    gap: 24px;
+    gap: 17px;
 
-    padding: 28px 0 35px;
+    padding: 20px 0 24px;
 
     text-align: center;
   }
 
   .hero-photo-wrap {
-    width: 180px;
+    width: 175px;
 
     margin: 0 auto;
   }
 
   .hero-photo-wrap::before {
-    top: 8px;
-    left: -8px;
+    top: 7px;
+    left: -7px;
   }
 
   .hero-photo {
-    width: 180px;
-    height: 220px;
+    width: 175px;
+    height: 215px;
 
     margin: 0 auto;
   }
@@ -734,7 +775,7 @@ a:hover {
   }
 
   .hero-eyebrow {
-    margin-bottom: 8px;
+    margin-bottom: 5px;
 
     font-size: 11px;
 
@@ -742,12 +783,12 @@ a:hover {
   }
 
   .hero-content h1 {
-    margin-bottom: 12px;
+    margin-bottom: 9px;
 
-    font-size: 29px;
+    font-size: 28px;
     line-height: 1.15;
 
-    letter-spacing: -0.5px;
+    letter-spacing: -0.4px;
 
     text-align: center;
   }
@@ -757,60 +798,61 @@ a:hover {
 
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 
     font-size: 15px;
-    line-height: 1.55;
+    line-height: 1.5;
 
     text-align: center;
   }
 
 
-  /* Research tags */
+  /* ---------- Research tags ---------- */
 
   .hero-tags {
     justify-content: center;
 
-    margin-bottom: 17px;
+    margin-bottom: 11px;
   }
 
   .hero-tags span {
+    padding: 3px 8px;
+
     font-size: 10px;
   }
 
 
-  /* Affiliation */
+  /* ---------- Affiliation ---------- */
 
   .hero-affiliation {
-    margin-bottom: 18px;
+    margin-bottom: 12px;
 
-    font-size: 13px;
+    font-size: 12px;
+    line-height: 1.5;
 
     text-align: center;
   }
 
 
-  /* Hero links */
+  /* ---------- Hero links ---------- */
 
   .hero-links {
     justify-content: center;
 
-    gap: 20px;
+    gap: 18px;
   }
 
 
-  /* -------------------------------------------------------
-     Homepage sections
-     ------------------------------------------------------- */
+  /* ---------- Homepage sections ---------- */
 
   .home-section {
     display: block;
 
-    padding: 34px 0;
+    padding: 24px 0;
   }
 
   .section-label {
-    margin-bottom: 10px;
+    margin-bottom: 6px;
     padding: 0;
 
     text-align: center;
@@ -821,78 +863,81 @@ a:hover {
   }
 
   .section-content h2 {
-    margin-bottom: 14px;
+    margin-bottom: 9px;
 
-    font-size: 23px;
+    font-size: 22px;
   }
 
   .section-content > p {
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 9px;
   }
 
   .lead-text {
+    margin-bottom: 10px !important;
+
     font-size: 16px;
   }
 
 
-  /* -------------------------------------------------------
-     Research cards
-     ------------------------------------------------------- */
+  /* ---------- Research cards ---------- */
 
   .research-grid {
     grid-template-columns: 1fr;
 
-    gap: 11px;
+    gap: 9px;
 
-    margin-top: 20px;
+    margin-top: 14px;
   }
 
   .research-card {
     min-height: auto;
 
-    padding: 19px;
+    padding: 16px;
 
     text-align: left;
   }
 
   .card-number {
-    margin-bottom: 13px;
+    margin-bottom: 9px;
   }
 
   .research-card h3 {
+    margin-bottom: 7px;
+
     font-size: 16px;
   }
 
   .research-card p {
+    margin-bottom: 9px;
+
     font-size: 13px;
   }
 
 
-  /* -------------------------------------------------------
-     Section links
-     ------------------------------------------------------- */
+  /* ---------- Section links ---------- */
 
   .section-links {
     justify-content: center;
 
-    gap: 16px 22px;
+    gap: 14px 20px;
 
-    margin-top: 18px;
+    margin-top: 12px;
   }
 
 
-  /* -------------------------------------------------------
-     Normal pages
-     ------------------------------------------------------- */
+  /* ---------- Normal pages ---------- */
 
   .post {
-    padding-top: 26px;
+    padding-top: 20px;
+  }
+
+  .post-header {
+    margin-bottom: 14px;
   }
 
   .post-title {
-    margin-bottom: 20px;
-
     font-size: 27px;
   }
 
@@ -900,20 +945,29 @@ a:hover {
     font-size: 15px;
   }
 
+  .post-content p {
+    margin-bottom: 10px;
+  }
+
   .post-content h2 {
-    margin-top: 28px;
+    margin-top: 23px;
+    margin-bottom: 8px;
 
     font-size: 21px;
   }
 
+  .post-content h3 {
+    margin-top: 19px;
 
-  /* -------------------------------------------------------
-     Footer
-     ------------------------------------------------------- */
+    font-size: 17px;
+  }
+
+
+  /* ---------- Footer ---------- */
 
   .site-footer {
-    margin-top: 34px;
-    padding: 18px 0;
+    margin-top: 20px;
+    padding: 15px 0;
   }
 }
 
@@ -925,19 +979,19 @@ a:hover {
 @media screen and (max-width: 480px) {
 
   .academic-hero {
-    gap: 21px;
+    gap: 15px;
 
-    padding-top: 25px;
-    padding-bottom: 30px;
+    padding-top: 18px;
+    padding-bottom: 21px;
   }
 
   .hero-photo-wrap {
-    width: 170px;
+    width: 165px;
   }
 
   .hero-photo {
-    width: 170px;
-    height: 208px;
+    width: 165px;
+    height: 202px;
   }
 
   .hero-content h1 {
@@ -949,23 +1003,27 @@ a:hover {
   }
 
   .hero-links {
-    gap: 16px;
+    gap: 15px;
   }
 
   .primary-link,
   .primary-link:visited {
-    padding: 8px 14px;
+    padding: 7px 14px;
   }
 
   .home-section {
-    padding: 30px 0;
+    padding: 21px 0;
   }
 
   .section-content h2 {
-    font-size: 22px;
+    font-size: 21px;
   }
 
   .lead-text {
     font-size: 15px;
+  }
+
+  .site-footer {
+    margin-top: 16px;
   }
 }
