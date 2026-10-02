@@ -1,0 +1,16 @@
+title: "Naz Mohammed Agh-Atabay"
+description: "Academic website of Professor Naz Mohammed Agh-Atabay"
+baseurl: "/atabay"
+url: "https://ourapteryx514.github.io"
+
+theme: minima
+
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - students.md
+  - projects.md
+  - news.md
+  - contact.md
