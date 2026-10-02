@@ -6,4 +6,6 @@ permalink: /research/
 
 # Research
 
-Content coming soon.
+This page presents the research interests and scientific contributions of Professor Naz Mohammed Agh-Atabay.
+
+Research areas and selected topics will be added here.
