@@ -6,7 +6,20 @@
       Naz Mohammed Agh-Atabay
     </a>
 
-    <nav class="site-nav custom-nav">
+    <button class="menu-toggle"
+            aria-label="Toggle navigation"
+            aria-expanded="false"
+            onclick="
+              var nav = document.getElementById('mobile-nav');
+              var open = nav.classList.toggle('nav-open');
+              this.setAttribute('aria-expanded', open);
+            ">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav class="site-nav custom-nav" id="mobile-nav">
       <a href="{{ '/' | relative_url }}">Home</a>
       <a href="{{ '/about/' | relative_url }}">About</a>
       <a href="{{ '/research/' | relative_url }}">Research</a>
