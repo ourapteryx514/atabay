@@ -3,80 +3,175 @@ layout: page
 title:
 ---
 
-<div class="profile-intro">
+<section class="academic-hero">
 
-  <img src="{{ '/assets/images/atabay-profile.jpg' | relative_url }}"
-       alt="Naz Mohammed Agh-Atabay"
-       class="profile-photo">
+  <div class="hero-photo-wrap">
+    <img src="{{ '/assets/images/atabay-profile.jpg' | relative_url }}"
+         alt="Naz Mohammed Agh-Atabay"
+         class="hero-photo">
+  </div>
 
-  <div class="profile-text">
+  <div class="hero-content">
 
-    <h1>Naz Mohammed Agh-Atabay</h1>
+    <p class="hero-eyebrow">Professor of Chemistry · Retired</p>
 
-    <p><strong>Professor of Chemistry (Retired)</strong></p>
+    <h1>Naz Mohammed<br>Agh-Atabay</h1>
 
-    <p>
+    <p class="hero-description">
+      Research in coordination and organometallic chemistry,
+      macrocyclic compounds, benzimidazole-based ligands,
+      and biologically active metal complexes.
+    </p>
+
+    <div class="hero-tags">
+      <span>Coordination Chemistry</span>
+      <span>Organometallic Chemistry</span>
+      <span>Macrocycles</span>
+      <span>Metal Complexes</span>
+    </div>
+
+    <p class="hero-affiliation">
       Formerly, Department of Chemistry<br>
-      Faculty of Arts and Science<br>
-      Fatih University<br>
+      Faculty of Arts and Science, Fatih University<br>
       Istanbul, Türkiye
     </p>
 
+    <div class="hero-links">
+      <a href="{{ '/research/' | relative_url }}" class="primary-link">
+        Explore Research
+      </a>
+
+      <a href="{{ '/publications/' | relative_url }}" class="secondary-link">
+        Publications →
+      </a>
+    </div>
+
   </div>
 
-</div>
+</section>
 
 
-## Academic Profile
+<section class="home-section profile-section">
 
-Naz Mohammed Agh-Atabay is a retired Professor of Chemistry whose research has encompassed coordination and organometallic chemistry, macrocyclic compounds, benzimidazole-based ligands, and biologically active metal complexes.
+  <div class="section-label">PROFILE</div>
 
-His scientific work has involved the synthesis and structural characterization of novel ligands and coordination compounds, with particular use of spectroscopic methods including FT-IR, FT-Raman and NMR spectroscopy. A significant part of his later research investigated the antimicrobial and other biological properties of newly synthesized compounds and their metal complexes.
+  <div class="section-content">
 
-His publication record spans several decades and includes research on transition-metal chemistry, metallacyclic systems, macrocyclic and dendritic compounds, and computational studies of molecular and coordination structures.
+    <h2>Academic Profile</h2>
 
-
-<div class="research-focus">
-
-  <div class="focus-item">
-    <h3>Coordination & Organometallic Chemistry</h3>
-    <p>
-      Transition-metal complexes, ligand design, metal–ligand interactions,
-      and organometallic systems involving metals including molybdenum,
-      tungsten, palladium and zinc.
+    <p class="lead-text">
+      A career in chemistry spanning several decades of research
+      in molecular design, coordination compounds and the
+      characterization of functional chemical systems.
     </p>
-  </div>
 
-  <div class="focus-item">
-    <h3>Macrocyclic & Heterocyclic Chemistry</h3>
     <p>
-      Synthesis and characterization of macrocycles, benzimidazole
-      derivatives, cyclophanes and related ligand systems.
+      Professor Agh-Atabay's scientific work has encompassed inorganic,
+      organometallic, coordination, heterocyclic and medicinal chemistry.
+      His research combines synthetic chemistry with spectroscopic and
+      structural characterization, including FT-IR, FT-Raman and NMR
+      spectroscopy.
     </p>
-  </div>
 
-  <div class="focus-item">
-    <h3>Bioactive Metal Complexes</h3>
     <p>
-      Investigation of antimicrobial and other biological properties of
+      His later research also explored the biological properties of newly
       synthesized ligands, macrocyclic compounds and transition-metal
-      complexes.
+      complexes, including their antimicrobial activity.
     </p>
+
   </div>
 
-</div>
+</section>
 
 
-## Scientific Work
+<section class="home-section research-section">
 
-Professor Agh-Atabay's research combines synthetic chemistry with spectroscopic and structural characterization. His publications include work in inorganic, organometallic, coordination, heterocyclic and medicinal chemistry, ranging from early studies of tungsten and molybdenum complexes to later investigations of macrocyclic compounds, benzimidazole derivatives and biologically active coordination complexes.
+  <div class="section-label">RESEARCH</div>
 
-[Explore Research →]({{ '/research/' | relative_url }}) &nbsp;&nbsp;&nbsp;
-[View Publications →]({{ '/publications/' | relative_url }})
+  <div class="section-content">
+
+    <h2>Research Areas</h2>
+
+    <div class="research-grid">
+
+      <a href="{{ '/research/' | relative_url }}" class="research-card">
+        <span class="card-number">01</span>
+
+        <h3>Coordination &<br>Organometallic Chemistry</h3>
+
+        <p>
+          Transition-metal complexes, ligand design and metal–ligand
+          interactions involving molybdenum, tungsten, palladium,
+          zinc and related systems.
+        </p>
+
+        <span class="card-arrow">→</span>
+      </a>
 
 
-## Teaching & Supervision
+      <a href="{{ '/research/' | relative_url }}" class="research-card">
+        <span class="card-number">02</span>
 
-Alongside his research, Professor Agh-Atabay has contributed to chemistry education and graduate research supervision. His documented supervision at Fatih University includes graduate work in macrocyclic chemistry, dendrimers, macromolecular ligands, transition-metal complexes and antimicrobial compounds.
+        <h3>Macrocyclic &<br>Heterocyclic Chemistry</h3>
 
-[Teaching & Supervision →]({{ '/teaching/' | relative_url }})
+        <p>
+          Synthesis and characterization of macrocycles,
+          benzimidazole derivatives, cyclophanes and related
+          molecular architectures.
+        </p>
+
+        <span class="card-arrow">→</span>
+      </a>
+
+
+      <a href="{{ '/research/' | relative_url }}" class="research-card">
+        <span class="card-number">03</span>
+
+        <h3>Bioactive<br>Metal Complexes</h3>
+
+        <p>
+          Investigation of antimicrobial and other biological
+          properties of synthesized ligands and transition-metal
+          coordination complexes.
+        </p>
+
+        <span class="card-arrow">→</span>
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section class="home-section career-section">
+
+  <div class="section-label">ACADEMIC WORK</div>
+
+  <div class="section-content">
+
+    <h2>Research, Teaching & Supervision</h2>
+
+    <p class="lead-text">
+      Scientific research accompanied by university teaching and
+      graduate research supervision.
+    </p>
+
+    <p>
+      Professor Agh-Atabay has contributed to chemistry education and
+      graduate supervision alongside his research activities. Documented
+      graduate work under his supervision includes research in macrocyclic
+      chemistry, dendrimers, macromolecular ligands, transition-metal
+      complexes and antimicrobial compounds.
+    </p>
+
+    <div class="section-links">
+      <a href="{{ '/publications/' | relative_url }}">Publications →</a>
+      <a href="{{ '/teaching/' | relative_url }}">Teaching →</a>
+      <a href="{{ '/about/' | relative_url }}">Academic Biography →</a>
+    </div>
+
+  </div>
+
+</section>
