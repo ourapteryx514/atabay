@@ -13,23 +13,79 @@ permalink: /publications/
 
 
 <div class="publication-nav">
+  <a href="#books">Books & Manuals</a>
   <a href="#journal-articles">Journal Articles</a>
   <a href="#conference-contributions">Conference Contributions</a>
 </div>
 
 
-<h2 id="journal-articles" class="publication-section-title">
+<!-- ======================================================
+     BOOKS & MANUALS
+     ====================================================== -->
+
+<h2 id="books" class="publication-section-title">
+  Books & Manuals
+</h2>
+
+<div class="pub-year">2001</div>
+
+<div class="publication book-publication">
+
+  <div class="book-publication-layout">
+
+    <a href="{{ '/assets/images/atabay-book.jpeg' | relative_url }}"
+       target="_blank"
+       class="book-cover-link"
+       aria-label="View Organic Chemistry Laboratory Manual cover">
+
+      <img
+        src="{{ '/assets/images/atabay-book.jpeg' | relative_url }}"
+        alt="Cover of Organic Chemistry Laboratory Manual by Naz M. Agh-Atabay, Mehmet Ergin, Ergün Gonca and Ramazan Öztürk"
+        class="publication-book-cover">
+
+    </a>
+
+    <div class="book-publication-info">
+
+      <div class="pub-authors">
+        Naz M. Agh-Atabay, Mehmet Ergin, Ergün Gonca, Ramazan Öztürk.
+      </div>
+
+      <div class="pub-title">
+        <em>Organic Chemistry Laboratory Manual.</em>
+      </div>
+
+      <div class="pub-journal">
+        Fatih University Publication 9, Istanbul: Fatih University, 2001.
+      </div>
+
+      <div class="pub-isbn">
+        ISBN 975-303-009-6
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+<!-- ======================================================
+     JOURNAL ARTICLES
+     ====================================================== -->
+
+<h2 id="journal-articles"
+    class="publication-section-title journal-title">
   Journal Articles
 </h2>
 
 
-<!-- ======================================================
-     2016
-     ====================================================== -->
+<!-- 2016 -->
 
 <div class="pub-year">2016</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Ahmet Altun, Eziz Kuliyev, Naz M. Aghatabay.
   </div>
@@ -48,14 +104,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/j.saa.2015.07.071"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/j.saa.2015.07.071
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Mustafa Ulvi Gürbüz, Naz M. Agh-Atabay, H. R. F. Karabulut.
   </div>
@@ -73,28 +132,30 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1002/jhet.2659"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1002/jhet.2659
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2014
-     ====================================================== -->
+<!-- 2014 -->
 
 <div class="pub-year">2014</div>
 
 <div class="publication">
+
   <div class="pub-authors">
-    Naz Mohammed Aghatabay, Ahmet Altun, Mustafa Ulvi Gürbüz, Murat Türkyilmaz.
+    Naz Mohammed Aghatabay, Ahmet Altun, Mustafa Ulvi Gürbüz,
+    Murat Türkyilmaz.
   </div>
 
   <div class="pub-title">
-    “Synthesis, spectroscopic characterization and density functional studies
-    of a bis-benzimidazole derivative and of its complexes with palladium(II)
-    halides.”
+    “Synthesis, spectroscopic characterization and density functional
+    studies of a bis-benzimidazole derivative and of its complexes with
+    palladium(II) halides.”
   </div>
 
   <div class="pub-journal">
@@ -105,14 +166,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/j.crci.2013.10.016"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/j.crci.2013.10.016
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Ömer Zaim, Naz Mohammed Aghatabay, Mustafa Ulvi Gürbüz,
     Çağlar Baydar, Başaran Dülger.
@@ -131,20 +195,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1007/s10847-012-0282-x"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1007/s10847-012-0282-x
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2013
-     ====================================================== -->
+<!-- 2013 -->
 
 <div class="pub-year">2013</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz Mohammed Aghatabay, Özge Paralı, Ömer Zaim,
     Çağlar Baydar, Başaran Dülger.
@@ -164,20 +229,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1007/s10847-013-0364-4"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1007/s10847-013-0364-4
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2012
-     ====================================================== -->
+<!-- 2012 -->
 
 <div class="pub-year">2012</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Aghatabay, S. Gündüz, A. Baş, M. Türkyilmaz,
     H. R. F. Karabulut, Başaran Dülger.
@@ -196,20 +262,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1007/s10593-012-1080-5"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1007/s10593-012-1080-5
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2009
-     ====================================================== -->
+<!-- 2009 -->
 
 <div class="pub-year">2009</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Aghatabay, A. Baş, A. Kırcalı, G. Şen,
     M. B. Yazıcıoğlu, F. Gücin, B. Dülger.
@@ -229,14 +296,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/j.ejmech.2009.07.003"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/j.ejmech.2009.07.003
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     M. Tülü, Naz M. Aghatabay, M. Şenel, C. Dizman,
     T. Paralı, B. Dülger.
@@ -255,16 +325,20 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/j.ejmech.2008.06.016"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/j.ejmech.2008.06.016
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
-    Naz Mohammed Aghatabay, Yaghub Mahmiani, Hüseyin Çevik, Başaran Dülger.
+    Naz Mohammed Aghatabay, Yaghub Mahmiani, Hüseyin Çevik,
+    Başaran Dülger.
   </div>
 
   <div class="pub-title">
@@ -280,20 +354,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/j.ejmech.2008.02.038"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/j.ejmech.2008.02.038
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2008
-     ====================================================== -->
+<!-- 2008 -->
 
 <div class="pub-year">2008</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz Mohammed Aghatabay, Yaghub Mahmiani, Hüseyin Çevik,
     Fahrettin Gücin, Başaran Dülger.
@@ -312,22 +387,24 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1007/s11224-008-9373-0"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1007/s11224-008-9373-0
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2007
-     ====================================================== -->
+<!-- 2007 -->
 
 <div class="pub-year">2007</div>
 
 <div class="publication">
+
   <div class="pub-authors">
-    S. T. Günday, Ayhan Bozkurt, Naz Mohammed Agh-Atabay, A. H. Baykal.
+    S. T. Günday, Ayhan Bozkurt, Naz Mohammed Agh-Atabay,
+    A. H. Baykal.
   </div>
 
   <div class="pub-title">
@@ -342,14 +419,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/j.matchemphys.2007.04.051"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/j.matchemphys.2007.04.051
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Aghatabay, Mehmet Somer, Mehmet Şenel,
     Başaran Dülger, Fahrettin Gücin.
@@ -369,14 +449,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/j.ejmech.2007.01.011"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/j.ejmech.2007.01.011
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Aydın Tavman, Naz M. Agh-Atabay, Sadık Güner,
     Fahrettin Gücin, Başaran Dülger.
@@ -396,14 +479,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1007/s11243-006-0143-9"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1007/s11243-006-0143-9
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Aghatabay, A. Neshat, T. Karabıyık,
     Mehmet Somer, D. Haciu, Başaran Dülger.
@@ -423,14 +509,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/j.ejmech.2006.09.023"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/j.ejmech.2006.09.023
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz Mohammed Agh-Atabay, Metin Tülü, Yaghub Mahmiani,
     Mehmet Somer, Başaran Dülger.
@@ -450,14 +539,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1007/s11224-007-9253-z"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1007/s11224-007-9253-z
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz Mohammed Agh-Atabay, Metin Tülü, Mehmet Somer, D. Haciu.
   </div>
@@ -476,20 +568,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1007/s11224-007-9238-y"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1007/s11224-007-9238-y
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2006
-     ====================================================== -->
+<!-- 2006 -->
 
 <div class="pub-year">2006</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Aydın Tavman, Naz M. Agh-Atabay, A. Neshat,
     Fahrettin Gücin, Başaran Dülger.
@@ -509,28 +602,29 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1007/s11243-005-6368-1"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1007/s11243-005-6368-1
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2005
-     ====================================================== -->
+<!-- 2005 -->
 
 <div class="pub-year">2005</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Başaran Dülger, Fahrettin Gücin.
   </div>
 
   <div class="pub-title">
     “Structural characterization and antimicrobial activity of
-    1,3-bis(2-benzimidazyl)-2-thiapropane ligand and its Pd(II) and
-    Zn(II) halide complexes.”
+    1,3-bis(2-benzimidazyl)-2-thiapropane ligand and its Pd(II)
+    and Zn(II) halide complexes.”
   </div>
 
   <div class="pub-journal">
@@ -541,20 +635,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/j.ejmech.2005.05.006"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/j.ejmech.2005.05.006
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2004
-     ====================================================== -->
+<!-- 2004 -->
 
 <div class="pub-year">2004</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz Mohammed Agh-Atabay, Abdulhadi Baykal, Mehmet Somer.
   </div>
@@ -574,20 +669,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1023/B:TMCH.0000019413.79351.b6"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1023/B:TMCH.0000019413.79351.b6
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2003
-     ====================================================== -->
+<!-- 2003 -->
 
 <div class="pub-year">2003</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Başaran Dülger, Fahrettin Gücin.
   </div>
@@ -605,20 +701,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/S0223-5234(03)00146-6"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/S0223-5234(03)00146-6
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     2000
-     ====================================================== -->
+<!-- 2000 -->
 
 <div class="pub-year">2000</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Aydın Tavman, Bahri Ülküseven, Naz M. Agh-Atabay.
   </div>
@@ -635,20 +732,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1023/A:1007082222512"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1023/A:1007082222512
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     1999
-     ====================================================== -->
+<!-- 1999 -->
 
 <div class="pub-year">1999</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Jack L. Davidson, Uta Dullweber,
     et al., Kenneth W. Muir.
@@ -669,29 +767,30 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1039/A905297F"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1039/A905297F
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     1996
-     ====================================================== -->
+<!-- 1996 -->
 
 <div class="pub-year">1996</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Laurence Carlton, Jack L. Davidson,
     Graeme Douglas, Kenneth W. Muir.
   </div>
 
   <div class="pub-title">
-    “Mechanisms of alkyne trimerisation at molybdenum and tungsten centres
-    leading to novel metallacycles: crystal and molecular structures of two
-    isomeric forms of a molybdenum metallacycle.”
+    “Mechanisms of alkyne trimerisation at molybdenum and tungsten
+    centres leading to novel metallacycles: crystal and molecular
+    structures of two isomeric forms of a molybdenum metallacycle.”
   </div>
 
   <div class="pub-journal">
@@ -702,20 +801,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1039/DT9960000999"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1039/DT9960000999
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     1993
-     ====================================================== -->
+<!-- 1993 -->
 
 <div class="pub-year">1993</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, W. Edward Lindsell, Peter N. Preston,
     Peter J. Tomb.
@@ -735,20 +835,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1002/pi.4990310410"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1002/pi.4990310410
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     1992
-     ====================================================== -->
+<!-- 1992 -->
 
 <div class="pub-year">1992</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, W. Edward Lindsell, Peter N. Preston,
     Peter J. Tomb, Ashley D. Lloyd, Raul Rangel-Rojo,
@@ -768,14 +869,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1039/JM9920201241"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1039/JM9920201241
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Jack L. Davidson.
   </div>
@@ -794,20 +898,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1039/DT9920003531"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1039/DT9920003531
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     1991
-     ====================================================== -->
+<!-- 1991 -->
 
 <div class="pub-year">1991</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Laurence Carlton, Naz M. Agh-Atabay, Jack L. Davidson.
   </div>
@@ -824,14 +929,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1016/0022-328X(91)80050-T"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1016/0022-328X(91)80050-T
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Laureano Canoira, Laurence Carlton,
     Jack L. Davidson.
@@ -850,20 +958,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1039/DT9910001175"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1039/DT9910001175
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     1990
-     ====================================================== -->
+<!-- 1990 -->
 
 <div class="pub-year">1990</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Jack L. Davidson, Kenneth W. Muir.
   </div>
@@ -882,20 +991,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1039/C39900001399"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1039/C39900001399
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     1989
-     ====================================================== -->
+<!-- 1989 -->
 
 <div class="pub-year">1989</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Jack L. Davidson, Graeme Douglas,
     Kenneth W. Muir.
@@ -913,14 +1023,17 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1039/C39890000549"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1039/C39890000549
     </a>
   </div>
+
 </div>
 
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Jack L. Davidson.
   </div>
@@ -934,16 +1047,16 @@ permalink: /publications/
   <div class="pub-journal">
     <em>Journal of the Chemical Society, Dalton Transactions</em>.
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     1987
-     ====================================================== -->
+<!-- 1987 -->
 
 <div class="pub-year">1987</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Jack L. Davidson, Graeme Douglas,
     Kenneth W. Muir.
@@ -962,20 +1075,21 @@ permalink: /publications/
   <div class="pub-doi">
     DOI:
     <a href="https://doi.org/10.1039/C39870001526"
-       target="_blank" rel="noopener">
+       target="_blank"
+       rel="noopener">
       10.1039/C39870001526
     </a>
   </div>
+
 </div>
 
 
-<!-- ======================================================
-     1985
-     ====================================================== -->
+<!-- 1985 -->
 
 <div class="pub-year">1985</div>
 
 <div class="publication">
+
   <div class="pub-authors">
     Naz M. Agh-Atabay, Fathy M. Ashmawy, Charles A. McAuliffe,
     William E. Hill.
@@ -990,6 +1104,7 @@ permalink: /publications/
     <em>Inorganica Chimica Acta</em>,
     <strong>104</strong>(2).
   </div>
+
 </div>
 
 
@@ -1003,6 +1118,7 @@ permalink: /publications/
 </h2>
 
 <div class="publication conference-publication">
+
   <div class="pub-authors">
     Mustafa Ulvi Gürbüz, Naz M. Agh-Atabay, M. Amir.
   </div>
@@ -1016,4 +1132,5 @@ permalink: /publications/
   <div class="pub-journal">
     <em>Conference poster</em>, 2013.
   </div>
+
 </div>
