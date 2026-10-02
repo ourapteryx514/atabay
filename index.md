@@ -3,14 +3,25 @@ layout: home
 title: Home
 ---
 
-# Naz Mohammed Agh-Atabay
+<div class="profile-intro">
+  <img src="{{ '/assets/images/atabay-profile.jpg' | relative_url }}"
+       alt="Naz Mohammed Agh-Atabay"
+       class="profile-photo">
 
-**Professor of Chemistry (Retired)**
+  <div class="profile-text">
+    <h1>Naz Mohammed Agh-Atabay</h1>
+    <p><strong>Professor of Chemistry (Retired)</strong></p>
 
-Formerly, Department of Chemistry  
-Faculty of Arts and Science  
-Fatih University  
-Istanbul, Türkiye
+    <p>
+      Formerly, Department of Chemistry<br>
+      Faculty of Arts and Science<br>
+      Fatih University<br>
+      Istanbul, Türkiye
+    </p>
+  </div>
+</div>
+
+## Welcome
 
 Welcome to the academic website of Professor Naz Mohammed Agh-Atabay.
 
