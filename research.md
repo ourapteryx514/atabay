@@ -224,20 +224,27 @@ permalink: /research/
 </div>
 
 
-<section class="research-projects-section">
+<!-- =========================================================
+     FUNDED RESEARCH PROJECTS
+     ========================================================= -->
 
-  <div class="research-projects-heading">
+<section class="research-projects">
 
-    <span class="research-projects-label">FUNDED RESEARCH</span>
+  <div class="research-section-heading">
 
-    <h2>Research Projects</h2>
+    <div class="research-section-label">FUNDED RESEARCH</div>
 
-    <p>
-      Documented funded research projects include externally supported
-      and university-funded programmes in macrocyclic chemistry,
-      benzimidazole ligands, transition-metal complexes and
-      biological activity.
-    </p>
+    <div>
+      <h2>Research Projects</h2>
+
+      <p>
+        Professor Agh-Atabay's funded research projects reflect the
+        development of his later research programme from
+        benzimidazole- and imidazole-based ligand systems toward
+        macrocyclic compounds, transition-metal complexes and
+        biologically active coordination systems.
+      </p>
+    </div>
 
   </div>
 
@@ -245,160 +252,262 @@ permalink: /research/
   <div class="project-list">
 
 
-    <div class="project-item">
+    <!-- 2014–2016 -->
 
-      <div class="project-year">2014–2016</div>
+    <article class="project-item featured-project">
+
+      <div class="project-year">
+        2014–2016
+      </div>
 
       <div class="project-content">
+
+        <div class="project-meta">
+
+          <span class="project-funder project-funder-major">
+            TÜBİTAK
+          </span>
+
+          <span class="project-role">
+            Researcher
+          </span>
+
+        </div>
 
         <h3>
           New Macrocyclic Schiff-Base Metal Complexes
         </h3>
 
-        <p>
-          Synthesis and investigation of structural properties and
-          antimicrobial activity of new macrocyclic Schiff-base
-          metal complexes.
+        <p class="project-title-original">
+          Yeni makrosiklik Schiff baz metal komplekslerinin sentezi,
+          yapısının özelliklerinin ve antimikrobiyal aktivitesinin
+          incelenmesi
         </p>
 
-        <div class="project-meta">
-          <span>TÜBİTAK</span>
-          <span>Researcher</span>
-        </div>
+        <p class="project-description">
+          Research on the synthesis of new macrocyclic Schiff-base
+          metal complexes, investigation of their structural
+          properties and evaluation of their antimicrobial activity.
+        </p>
 
       </div>
 
-    </div>
+    </article>
 
 
-    <div class="project-item">
+    <!-- 2008 -->
 
-      <div class="project-year">2008</div>
+    <article class="project-item">
+
+      <div class="project-year">
+        2008
+      </div>
 
       <div class="project-content">
 
+        <div class="project-meta">
+
+          <span class="project-funder">
+            University Research Project Fund
+          </span>
+
+          <span class="project-role project-director">
+            Project Director
+          </span>
+
+        </div>
+
         <h3>
-          Bis-benzimidazole & Macrocyclic Multidentate Ligands
+          Bis-Benzimidazole & Macrocyclic Chelating Ligands
         </h3>
 
-        <p>
+        <p class="project-title-original">
+          Synthesis Characterization of Series of Bis-benzimidazole
+          and Macrocyclic Homo-Hetero Multi-Dentate Chelating Ligands
+          and Their Transition Metal Complex Formation
+        </p>
+
+        <p class="project-description">
           Synthesis and characterization of bis-benzimidazole and
-          macrocyclic homo- and hetero-multidentate chelating ligands
-          and their transition-metal complexes.
+          macrocyclic homo- and hetero-multidentate chelating ligands,
+          with investigation of their transition-metal complex formation.
         </p>
-
-        <div class="project-meta">
-          <span>University Research Project Fund</span>
-          <span>Project Director</span>
-        </div>
 
       </div>
 
-    </div>
+    </article>
 
 
-    <div class="project-item">
+    <!-- 2007 / PROJECT 1 -->
 
-      <div class="project-year">2007</div>
+    <article class="project-item">
+
+      <div class="project-year">
+        2007
+      </div>
 
       <div class="project-content">
+
+        <div class="project-meta">
+
+          <span class="project-funder">
+            University Research Project Fund
+          </span>
+
+          <span class="project-role project-director">
+            Project Director
+          </span>
+
+        </div>
 
         <h3>
-          Bis-benzimidazole-Derived Chelating Ligands
+          Bis-Benzimidazole-Derived Chelating Ligands
         </h3>
 
-        <p>
-          Synthesis, characterization and biological studies of
-          bis-benzimidazole-derived chelating ligands and their
-          transition-metal complexes.
+        <p class="project-title-original">
+          Synthesis Characterization, and Biological Studies of Series
+          of Bis-benzimidazole Derivative Chelating Ligands and Their
+          Transition Metal Complexes
         </p>
 
-        <div class="project-meta">
-          <span>University Research Project Fund</span>
-          <span>Project Director</span>
-        </div>
+        <p class="project-description">
+          Investigation of bis-benzimidazole-derived chelating ligands,
+          their transition-metal complexes and their biological properties.
+        </p>
 
       </div>
 
-    </div>
+    </article>
 
 
-    <div class="project-item">
+    <!-- 2007 / PROJECT 2 -->
 
-      <div class="project-year">2007</div>
+    <article class="project-item">
+
+      <div class="project-year">
+        2007
+      </div>
 
       <div class="project-content">
+
+        <div class="project-meta">
+
+          <span class="project-funder">
+            University Research Project Fund
+          </span>
+
+          <span class="project-role project-director">
+            Project Director
+          </span>
+
+        </div>
 
         <h3>
           Multi-Heterodentate Macromolecular Ligands
         </h3>
 
-        <p>
-          Synthesis, characterization and biological investigation
-          of multi-heterodentate macromolecular ligands and their
-          transition-metal complexes.
+        <p class="project-title-original">
+          Synthesis Characterization, and Biological Activities of
+          Series of Multi-Hetero-Dentate-Macromolecule Ligands and
+          Their Transition Metal Complexes
         </p>
 
-        <div class="project-meta">
-          <span>University Research Project Fund</span>
-          <span>Project Director</span>
-        </div>
+        <p class="project-description">
+          Synthesis and structural characterization of multifunctional
+          macromolecular ligands and their transition-metal complexes,
+          together with investigation of biological activity.
+        </p>
 
       </div>
 
-    </div>
+    </article>
 
 
-    <div class="project-item">
+    <!-- 2006 -->
 
-      <div class="project-year">2006</div>
+    <article class="project-item">
+
+      <div class="project-year">
+        2006
+      </div>
 
       <div class="project-content">
+
+        <div class="project-meta">
+
+          <span class="project-funder">
+            University Research Project Fund
+          </span>
+
+          <span class="project-role project-director">
+            Project Director
+          </span>
+
+        </div>
 
         <h3>
-          Bisbenzimidazole Ligands & Metal Complexes
+          Bisbenzimidazole Ligands & Transition-Metal Complexes
         </h3>
 
-        <p>
-          Synthesis, characterization and biological studies of
-          bisbenzimidazole-derived chelating ligands and their
-          transition-metal complexes.
+        <p class="project-title-original">
+          Synthesis Characterization, Biological Studies of Series
+          of Bisbenzimidazole Derivative Chelating Ligands and Their
+          Transition Metal Complexes
         </p>
 
-        <div class="project-meta">
-          <span>University Research Project Fund</span>
-          <span>Project Director</span>
-        </div>
+        <p class="project-description">
+          Synthesis and characterization of bisbenzimidazole-derived
+          chelating ligands, formation of their transition-metal
+          complexes and investigation of biological properties.
+        </p>
 
       </div>
 
-    </div>
+    </article>
 
 
-    <div class="project-item">
+    <!-- 2004 -->
 
-      <div class="project-year">2004</div>
+    <article class="project-item">
+
+      <div class="project-year">
+        2004
+      </div>
 
       <div class="project-content">
+
+        <div class="project-meta">
+
+          <span class="project-funder">
+            University Research Project Fund
+          </span>
+
+          <span class="project-role project-director">
+            Project Director
+          </span>
+
+        </div>
 
         <h3>
           Imidazole-Thioether Chelating Ligands
         </h3>
 
-        <p>
-          Synthesis and characterization of imidazole-thioether
-          chelating ligands, their transition-metal complexes and
-          their biological properties.
+        <p class="project-title-original">
+          Synthesis, Characterization of Series of Imidazole Thioether
+          Chelating Ligands, Their Complexation with Transition Metals
+          and Their Biological Studies
         </p>
 
-        <div class="project-meta">
-          <span>University Research Project Fund</span>
-          <span>Project Director</span>
-        </div>
+        <p class="project-description">
+          Synthesis and characterization of imidazole-thioether
+          chelating ligands, investigation of their complexation
+          with transition metals and evaluation of their biological
+          properties.
+        </p>
 
       </div>
 
-    </div>
+    </article>
 
   </div>
 
