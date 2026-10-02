@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Publications
+permalink: /publications/
 ---
 
-This page presents the research interests, scientific contributions, and major areas of work of Professor Naz Mohammed Agh-Atabay.
+This page presents journal articles, conference publications, books, and other scholarly works by Professor Naz Mohammed Agh-Atabay.
